@@ -11,10 +11,10 @@ from final_check import final_check
 
 #python main.py  -t 30 -i /mnt/nfs/5110v5/yangxiao/BGC_HGT/HMP_data/result/finalmags -o /mnt/nfs/5110v5/yangxiao/BGC_HGT/HMP_data/result/main_result
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='This is a tool for mining potential HGT BGC.')
+    parser = argparse.ArgumentParser(description='This is a tool for mining potential horizontally transferred BGCs.')
     parser.add_argument('-i','--input', help='Input dir with genomes. ')
     parser.add_argument('-o','--output', help='Output file. default = [Result]')
-    parser.add_argument('-v','--version', action='version', version='BGC_HGT v1.1',
+    parser.add_argument('-v','--version', action='version', version='BGC_HGT v1.1.0',
                             help="Show BGC_HGT's version")
     parser.add_argument('-c','--cutoff', help='Remove redundant genomes with ANI cutoff as a threshold. default = [99]')
     parser.add_argument('-t','--thread', help='Thread. default = [8]')
