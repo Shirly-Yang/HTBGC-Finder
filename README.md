@@ -9,19 +9,11 @@ a tool for mining potential horizontally transferred BGCs.
 
 ## 软件安装(Install)
 
--软件已打包上传至anaconda，下载即可使用。
-The software has been packaged and uploaded to anaconda., downloaded and added to the environment variable to make it available.
-
--也可使用git下载，可使用wget或主页中直接下载压缩包，解压后使用。
+-可使用git下载，也可使用wget或主页中直接下载压缩包，解压后使用。
 git clone https://github.com/SharonYXiao/HTBGC-Finder
 
 
 ## 使用方法
-
--anaconda下载使用：
-
-conda install -c HTBGC-Finder
-HTBGC-Finder -i ./testdata/mags -o ./testdata/result
 
 -github安装包下载使用：
 
