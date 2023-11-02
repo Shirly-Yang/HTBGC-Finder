@@ -9,7 +9,7 @@ from genome_download import genome_download
 from final_check import final_check
 
 
-#python main.py  -t 30 -i /mnt/nfs/5110v5/yangxiao/BGC_HGT/HMP_data/result/finalmags -o /mnt/nfs/5110v5/yangxiao/BGC_HGT/HMP_data/result/main_result
+#python main.py  -t 30 -i /your/path/to/mags -o /your/path/to/result
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='This is a tool for mining potential horizontally transferred BGCs.')
     parser.add_argument('-i','--input', help='Input dir with genomes. ')
