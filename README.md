@@ -13,15 +13,15 @@ A tool for detecting potential horizontally transferred BGCs.
     - bigscape
     - ncbi-genome-download
     - kraken2
-If you encounter problems during the installation process, you can refer to the file named dependencies.txt.
-An exemplary shell script named dependencies.sh can be found in the root directory. This script file should be adjusted if you wish to place some files to different locations or use absolute path names.
+- If you encounter problems during the installation process, you can refer to the file named dependencies.txt.
+- An exemplary shell script named dependencies.sh can be found in the root directory. This script file should be adjusted if you wish to place some files to different locations or use absolute path names.
 
 - HTBGC-Finder
 git clone https://github.com/SharonYXiao/HTBGC-Finder
 
 ## Use
 - python HTBGC-Finder.py -i ./testdata/mags -o ./testdata/result
-you can use "python HTBGC-Finder.py -h" to view available parameters.
+- you can use "python HTBGC-Finder.py -h" to view available parameters.
 
 ## Script
 -  fastani_run.py:Remove redundant MAGs
