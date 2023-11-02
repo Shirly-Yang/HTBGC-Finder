@@ -13,8 +13,9 @@ A tool for detecting potential horizontally transferred BGCs.
     - bigscape
     - ncbi-genome-download
     - kraken2
-If you encounter problems during the installation process, you can refer to the file [dependencies.txt](https://github.com/SharonYXiao/HTBGC-Finder/blob/master/dependencies.txt). 
-An exemplary shell script [dependencies.sh](https://github.com/SharonYXiao/HTBGC-Finder/blob/master/dependency.sh) can be found in the root directory. This script file should be adjusted if you wish to place some files to different locations or use absolute path names.
+- If you encounter problems during the installation process, you can refer to the file [dependencies.txt](https://github.com/SharonYXiao/HTBGC-Finder/blob/master/dependencies.txt). 
+- An exemplary shell script [dependencies.sh](https://github.com/SharonYXiao/HTBGC-Finder/blob/master/dependency.sh) can be found in the root directory.
+  This script file should be adjusted if you wish to place some files to different locations or use absolute path names.
 
 - HTBGC-Finder
 git clone https://github.com/SharonYXiao/HTBGC-Finder
