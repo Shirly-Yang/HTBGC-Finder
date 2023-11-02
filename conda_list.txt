@@ -1,6 +1,6 @@
 packages in environment at your/path/to/miniconda2/envs/HTBGCFinder:                            
                                                                                                                                 
-#Name                    Version                   Build  Channel                                                                
+Name                    Version                   Build  Channel                                                                
 _libgcc_mutex             0.1                 conda_forge    conda-forge                                                          
 _openmp_mutex             4.5                  2_kmp_llvm    conda-forge                                                          
 antismash                 6.1.1              pyhdfd78af_0    bioconda                                                             
