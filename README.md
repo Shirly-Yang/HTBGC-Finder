@@ -1,8 +1,8 @@
 # HTBGC-Finder
-a tool for detecting potential horizontally transferred BGCs.
--Version：HTBGC-Finder V1.1.0
--Update：2023/7/20
--Project homepage: https://github.com/SharonYXiao/HTBGC-Finder
+A tool for detecting potential horizontally transferred BGCs.
+- Version：HTBGC-Finder V1.1.0
+- Update：2023/7/20
+- Project homepage: https://github.com/SharonYXiao/HTBGC-Finder
 
 ## Install
 - dependencies
@@ -14,7 +14,7 @@ a tool for detecting potential horizontally transferred BGCs.
     - ncbi-genome-download
     - kraken2
 If you encounter problems during the installation process, you can refer to the file named dependencies.txt.
-An exemplary shell script can be found in the root directory. This script file should be adjusted if you wish to place some files to different locations or use absolute path names.
+An exemplary shell script named dependencies.sh can be found in the root directory. This script file should be adjusted if you wish to place some files to different locations or use absolute path names.
 
 - HTBGC-Finder
 git clone https://github.com/SharonYXiao/HTBGC-Finder
