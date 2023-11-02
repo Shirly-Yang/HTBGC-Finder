@@ -1,0 +1,159 @@
+packages in environment at your/path/to/miniconda2/envs/HTBGCFinder:                            
+                                                                                                                                
+#Name                    Version                   Build  Channel                                                                
+_libgcc_mutex             0.1                 conda_forge    conda-forge                                                          
+_openmp_mutex             4.5                  2_kmp_llvm    conda-forge                                                          
+antismash                 6.1.1              pyhdfd78af_0    bioconda                                                             
+appdirs                   1.4.4              pyhd3eb1b0_0                                                                         
+attrs                     22.1.0           py37h06a4308_0                                                                         
+bcbio-gff                 0.7.0              pyh7cba7a3_0    bioconda                                                             
+bigscape                  1.1.5              pyhdfd78af_0    bioconda
+biopython                 1.78             py37h7f8727e_0  
+blas                      2.3                    openblas    conda-forge
+blast                     2.5.0                hc0b0e79_3    bioconda
+boost                     1.70.0           py37h9de70de_1    conda-forge
+boost-cpp                 1.70.0               ha2d47e9_1    conda-forge
+brotli                    1.0.9                h5eee18b_7  
+brotli-bin                1.0.9                h5eee18b_7  
+brotli-python             1.0.9            py37h6a678d5_7  
+bx-python                 0.8.11           py37h5558810_1    bioconda
+bzip2                     1.0.8                h7b6447c_0  
+ca-certificates           2023.05.30           h06a4308_0  
+certifi                   2022.12.7        py37h06a4308_0  
+charset-normalizer        2.0.4              pyhd3eb1b0_0  
+cycler                    0.11.0             pyhd3eb1b0_0  
+diamond                   0.9.36               h56fc30b_0    bioconda
+expat                     2.5.0                hcb278e6_1    conda-forge
+fastani                   1.31                 he1c1bb9_0    bioconda
+fasttree                  2.1.11               h031d066_2    bioconda
+fonttools                 4.25.0             pyhd3eb1b0_0  
+freetype                  2.12.1               h4a9f257_0  
+ghostscript               9.18                          1    bioconda
+giflib                    5.2.1                h5eee18b_3  
+glimmerhmm                3.0.4           pl5321h87f3376_5    bioconda
+helperlibs                0.2.1                      py_0    bioconda
+hmmer                     3.1b2                         3    bioconda
+hmmer2                    2.3.2                h031d066_9    bioconda
+icu                       58.2                 he6710b0_3  
+idna                      3.4              py37h06a4308_0  
+importlib-metadata        4.11.3           py37h06a4308_0  
+importlib_metadata        4.11.3               hd3eb1b0_0  
+importlib_resources       5.2.0              pyhd3eb1b0_1  
+jinja2                    3.1.2            py37h06a4308_0  
+joblib                    1.1.1            py37h06a4308_0  
+jpeg                      9e                   h5eee18b_1  
+jsonschema                4.17.3           py37h06a4308_0  
+kiwisolver                1.4.4            py37h6a678d5_0  
+kraken2                   2.1.3           pl5321hdcf5f25_0    bioconda
+lcms2                     2.12                 h3be6417_0  
+libblas                   3.9.0                3_openblas    conda-forge
+libbrotlicommon           1.0.9                h5eee18b_7  
+libbrotlidec              1.0.9                h5eee18b_7  
+libbrotlienc              1.0.9                h5eee18b_7  
+libcblas                  3.9.0                3_openblas    conda-forge
+libedit                   3.1.20221030         h5eee18b_0  
+libexpat                  2.5.0                hcb278e6_1    conda-forge
+libffi                    3.2.1             hf484d3e_1007  
+libgcc                    7.2.0                h69d50b8_2  
+libgcc-ng                 13.1.0               he5830b7_0    conda-forge
+libgfortran-ng            7.5.0               ha8ba4b0_17  
+libgfortran4              7.5.0               ha8ba4b0_17  
+liblapack                 3.9.0                3_openblas    conda-forge
+liblapacke                3.9.0                3_openblas    conda-forge
+libnsl                    2.0.0                h5eee18b_0  
+libopenblas               0.3.12          pthreads_hb3c22a3_1    conda-forge
+libpng                    1.6.39               h5eee18b_0  
+libstdcxx-ng              13.1.0               hfd8a6a1_0    conda-forge
+libtiff                   4.2.0                hecacb30_2  
+libwebp                   1.2.4                h11a3e52_1  
+libwebp-base              1.2.4                h5eee18b_1  
+libxml2                   2.9.14               h74e7548_0  
+libxslt                   1.1.35               h4e12654_0  
+libzlib                   1.2.13               hd590300_5    conda-forge
+llvm-openmp               14.0.6               h9e868ea_0  
+lz4-c                     1.9.4                h6a678d5_0  
+lzo                       2.10                 h7b6447c_2  
+markupsafe                2.1.1            py37h7f8727e_0  
+matplotlib-base           3.4.3            py37hbbc1b5f_0  
+meme                      4.11.2          py37pl5321h69e8283_8    bioconda
+munkres                   1.0.7                      py_1    bioconda
+muscle                    3.8.1551             h7d875b9_6    bioconda
+ncbi-genome-download      0.3.3              pyh7cba7a3_0    bioconda
+ncurses                   6.4                  h6a678d5_0  
+networkx                  2.6.3              pyhd3eb1b0_0  
+numpy                     1.17.0           py37h99e49ec_0    r
+numpy-base                1.17.0           py37h2f8d375_0    r
+openjdk                   8.0.152              h7b6447c_3  
+openssl                   1.0.2u               h7b6447c_0  
+pcre                      8.45                 h295c915_0  
+perl                      5.32.1          4_hd590300_perl5    conda-forge
+perl-base                 2.23            pl5321hdfd78af_2    bioconda
+perl-business-isbn        3.007           pl5321hdfd78af_0    bioconda
+perl-business-isbn-data   20210112.006    pl5321hdfd78af_0    bioconda
+perl-carp                 1.38            pl5321hdfd78af_4    bioconda
+perl-cgi                  4.56            pl5321h031d066_1    bioconda
+perl-compress-raw-zlib    2.105           pl5321h87f3376_0    bioconda
+perl-constant             1.33            pl5321hdfd78af_2    bioconda
+perl-data-dumper          2.183           pl5321hec16e2b_1    bioconda
+perl-encode               3.19            pl5321hec16e2b_1    bioconda
+perl-encode-locale        1.05            pl5321hdfd78af_7    bioconda
+perl-exporter             5.72            pl5321hdfd78af_2    bioconda
+perl-extutils-makemaker   7.70            pl5321hd8ed1ab_0    conda-forge
+perl-file-path            2.18            pl5321hd8ed1ab_0    conda-forge
+perl-file-spec            3.48_01         pl5321hdfd78af_2    bioconda
+perl-file-temp            0.2304          pl5321hd8ed1ab_0    conda-forge
+perl-html-parser          3.81            pl5321h4ac6f70_1    bioconda
+perl-html-tagset          3.20            pl5321hdfd78af_4    bioconda
+perl-html-template        2.97            pl5321hdfd78af_2    bioconda
+perl-http-date            6.06            pl5321hdfd78af_0    bioconda
+perl-http-message         6.36            pl5321hdfd78af_0    bioconda
+perl-io-html              1.004           pl5321hdfd78af_0    bioconda
+perl-lwp-mediatypes       6.04            pl5321hdfd78af_1    bioconda
+perl-mime-base64          3.16            pl5321hec16e2b_2    bioconda
+perl-parent               0.236           pl5321hdfd78af_2    bioconda
+perl-scalar-list-utils    1.62            pl5321hec16e2b_1    bioconda
+perl-test-nowarnings      1.06            pl5321hdfd78af_0    bioconda
+perl-time-local           1.35            pl5321hdfd78af_0    bioconda
+perl-timedate             2.33            pl5321hdfd78af_2    bioconda
+perl-uri                  5.12            pl5321hdfd78af_0    bioconda
+perl-url-encode           0.03            pl5321h9ee0642_0    bioconda
+perl-xml-namespacesupport 1.12            pl5321hdfd78af_1    bioconda
+perl-xml-parser           2.44_01         pl5340hf309648_0  
+perl-xml-sax              1.02            pl5321hdfd78af_1    bioconda
+perl-xml-sax-base         1.09            pl5321hdfd78af_1    bioconda
+perl-xml-sax-expat        0.51            pl5321hdfd78af_4    bioconda
+perl-xml-simple           2.25            pl5321hdfd78af_2    bioconda
+perl-yaml                 1.30            pl5321hdfd78af_0    bioconda
+pillow                    9.4.0            py37h6a678d5_0  
+pip                       22.3.1           py37h06a4308_0  
+pkgutil-resolve-name      1.3.10           py37h06a4308_0  
+prodigal                  2.6.3                h031d066_6    bioconda
+pyparsing                 3.0.9            py37h06a4308_0  
+pyrsistent                0.18.0           py37heee7806_0  
+pyscss                    1.4.0            py37h47c6b31_2    conda-forge
+pysocks                   1.7.1                    py37_1  
+pysvg-py3                 0.2.2.post3      py37h89c1867_5    conda-forge
+python                    3.7.0                h6e4f718_3  
+python-dateutil           2.8.2              pyhd3eb1b0_0  
+python-lzo                1.14             py37hd06c622_1    conda-forge
+python_abi                3.7                     2_cp37m    conda-forge
+readline                  7.0                  h7b6447c_5  
+requests                  2.31.0             pyhd8ed1ab_0    conda-forge
+scikit-learn              0.19.2           py37h22eb022_0  
+scipy                     1.7.3            py37h492baa0_0  
+setuptools                65.6.3           py37h06a4308_0  
+six                       1.16.0             pyhd3eb1b0_1  
+sqlite                    3.33.0               h62c20be_0  
+threadpoolctl             2.2.0              pyh0d69192_0  
+tk                        8.6.12               h1ccaba5_0  
+tornado                   6.2              py37h5eee18b_0  
+tqdm                      4.64.1           py37h06a4308_0  
+typing_extensions         4.3.0            py37h06a4308_0  
+urllib3                   2.0.4              pyhd8ed1ab_0    conda-forge
+wheel                     0.38.4           py37h06a4308_0  
+xz                        5.2.6                h166bdaf_0    conda-forge
+yaml                      0.2.5                h7b6447c_0  
+zipp                      3.11.0           py37h06a4308_0  
+zlib                      1.2.13               hd590300_5    conda-forge
+zstd                      1.5.2                ha4553b6_0  
+
