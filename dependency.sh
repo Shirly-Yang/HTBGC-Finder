@@ -26,19 +26,3 @@ export PFAM_PATH="your/path/to/HTBGCFinder/lib/python3.7/site-packages/antismash
 
 
 
-channels:
-  #- https://mirrors.ustc.edu.cn/anaconda/cloud/bioconda/
-  #- https://mirrors.ustc.edu.cn/anaconda/pkgs/free/
-  #- https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/bioconda/
-  #- https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/msys2/
-  #- https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/
-  #- https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
-  #- bioconda
-  - r
-  - defaults
-  - conda-forge
-  #- https://mirrors.ustc.edu.cn/anaconda/pkgs/free/
-  #- https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/
-  - bioconda
-
-
