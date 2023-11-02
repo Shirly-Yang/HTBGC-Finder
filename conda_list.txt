@@ -1,4 +1,4 @@
-packages in environment at your/path/to/miniconda2/envs/HTBGCFinder:                            
+# packages in environment at your/path/to/miniconda2/envs/HTBGCFinder:                            
                                                                                                                                 
 Name                    Version                   Build  Channel                                                                
 _libgcc_mutex             0.1                 conda_forge    conda-forge                                                          
