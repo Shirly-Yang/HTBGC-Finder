@@ -1,0 +1,119 @@
+ 90.42	283	283	U	0	unclassified
+  9.58	30	0	R	1	root
+  9.58	30	0	R1	131567	  cellular organisms
+  8.95	28	6	D	2	    Bacteria
+  4.15	13	0	D1	1783272	      Terrabacteria group
+  3.83	12	1	P	1239	        Firmicutes
+  2.88	9	1	C	186801	          Clostridia
+  2.24	7	1	O	186802	            Clostridiales
+  0.64	2	0	O1	538999	              Clostridiales incertae sedis
+  0.32	1	0	F	543314	                Clostridiales Family XIII. Incertae Sedis
+  0.32	1	0	G	86331	                  Mogibacterium
+  0.32	1	1	S	114527	                    Mogibacterium diversum
+  0.32	1	0	G	2039302	                Monoglobus
+  0.32	1	1	S	1981510	                  Monoglobus pectinilyticus
+  0.64	2	0	F	541000	              Ruminococcaceae
+  0.64	2	0	G	1263	                Ruminococcus
+  0.64	2	2	S	1160721	                  Ruminococcus bicirculans
+  0.32	1	1	F	216572	              Oscillospiraceae
+  0.32	1	0	F	2304686	              Hungateiclostridiaceae
+  0.32	1	0	G	2304691	                Thermoclostridium
+  0.32	1	1	S	1510	                  Thermoclostridium stercorarium
+  0.32	1	0	O	68295	            Thermoanaerobacterales
+  0.32	1	0	F	186814	              Thermoanaerobacteraceae
+  0.32	1	0	G	1754	                Thermoanaerobacter
+  0.32	1	0	S	106578	                  Thermoanaerobacter siderophilus
+  0.32	1	1	S1	880478	                    Thermoanaerobacter siderophilus SR4
+  0.64	2	0	C	91061	          Bacilli
+  0.32	1	0	O	1385	            Bacillales
+  0.32	1	0	F	186817	              Bacillaceae
+  0.32	1	1	G	1386	                Bacillus
+  0.32	1	0	O	186826	            Lactobacillales
+  0.32	1	0	F	1300	              Streptococcaceae
+  0.32	1	0	G	1301	                Streptococcus
+  0.32	1	1	S	400065	                  Streptococcus merionis
+  0.32	1	0	P	201174	        Actinobacteria
+  0.32	1	0	C	84995	          Rubrobacteria
+  0.32	1	0	O	84996	            Rubrobacterales
+  0.32	1	0	F	84997	              Rubrobacteraceae
+  0.32	1	0	G	42255	                Rubrobacter
+  0.32	1	0	G1	2637691	                  unclassified Rubrobacter
+  0.32	1	1	S	2653852	                    Rubrobacter sp. SCSIO 52915
+  2.24	7	0	P	1224	      Proteobacteria
+  1.28	4	0	C	1236	        Gammaproteobacteria
+  0.32	1	0	O	91347	          Enterobacterales
+  0.32	1	1	F	543	            Enterobacteriaceae
+  0.32	1	0	O	118969	          Legionellales
+  0.32	1	0	F	118968	            Coxiellaceae
+  0.32	1	0	G	254245	              Aquicella
+  0.32	1	1	S	254246	                Aquicella lusitana
+  0.32	1	0	O	135613	          Chromatiales
+  0.32	1	0	F	72276	            Ectothiorhodospiraceae
+  0.32	1	0	G	1335745	              Spiribacter
+  0.32	1	0	G1	2629425	                unclassified Spiribacter
+  0.32	1	1	S	2666185	                  Spiribacter sp. 2438
+  0.32	1	0	O	135622	          Alteromonadales
+  0.32	1	0	F	267890	            Shewanellaceae
+  0.32	1	0	G	22	              Shewanella
+  0.32	1	0	G1	196818	                unclassified Shewanella
+  0.32	1	1	S	2593656	                  Shewanella sp. YLB-08
+  0.32	1	0	C	28211	        Alphaproteobacteria
+  0.32	1	0	O	204441	          Rhodospirillales
+  0.32	1	0	F	433	            Acetobacteraceae
+  0.32	1	0	G	1079922	              Commensalibacter
+  0.32	1	0	G1	2630218	                unclassified Commensalibacter
+  0.32	1	1	S	2070537	                  Commensalibacter sp. ESL0284
+  0.32	1	0	C	28216	        Betaproteobacteria
+  0.32	1	0	O	80840	          Burkholderiales
+  0.32	1	0	F	80864	            Comamonadaceae
+  0.32	1	0	G	12916	              Acidovorax
+  0.32	1	0	S	80867	                Acidovorax avenae
+  0.32	1	1	S1	80870	                  Acidovorax avenae subsp. avenae
+  0.32	1	0	P1	68525	        delta/epsilon subdivisions
+  0.32	1	0	C	29547	          Epsilonproteobacteria
+  0.32	1	0	O	213849	            Campylobacterales
+  0.32	1	0	F	72294	              Campylobacteraceae
+  0.32	1	0	G	194	                Campylobacter
+  0.32	1	1	S	28080	                  Campylobacter upsaliensis
+  0.64	2	0	D1	1783270	      FCB group
+  0.64	2	0	D2	68336	        Bacteroidetes/Chlorobi group
+  0.64	2	0	P	976	          Bacteroidetes
+  0.64	2	0	C	200643	            Bacteroidia
+  0.64	2	0	O	171549	              Bacteroidales
+  0.32	1	0	F	815	                Bacteroidaceae
+  0.32	1	1	G	816	                  Bacteroides
+  0.32	1	0	F	171552	                Prevotellaceae
+  0.32	1	0	G	838	                  Prevotella
+  0.32	1	0	S	839	                    Prevotella ruminicola
+  0.32	1	1	S1	264731	                      Prevotella ruminicola 23
+  0.64	2	0	D	2759	    Eukaryota
+  0.64	2	0	K	33090	      Viridiplantae
+  0.64	2	0	P	35493	        Streptophyta
+  0.64	2	0	P1	131221	          Streptophytina
+  0.64	2	0	P2	3193	            Embryophyta
+  0.64	2	0	P3	58023	              Tracheophyta
+  0.64	2	0	P4	78536	                Euphyllophyta
+  0.64	2	0	P5	58024	                  Spermatophyta
+  0.64	2	0	C	3398	                    Magnoliopsida
+  0.64	2	0	C1	1437183	                      Mesangiospermae
+  0.32	1	0	C2	4447	                        Liliopsida
+  0.32	1	0	C3	1437197	                          Petrosaviidae
+  0.32	1	0	C4	4734	                            commelinids
+  0.32	1	0	O	38820	                              Poales
+  0.32	1	0	F	4479	                                Poaceae
+  0.32	1	0	F1	359160	                                  BOP clade
+  0.32	1	0	F2	147368	                                    Pooideae
+  0.32	1	0	F3	1648038	                                      Triticodae
+  0.32	1	0	F4	147389	                                        Triticeae
+  0.32	1	0	F5	1648030	                                          Triticinae
+  0.32	1	0	G	4564	                                            Triticum
+  0.32	1	1	S	85692	                                              Triticum dicoccoides
+  0.32	1	0	C2	71240	                        eudicotyledons
+  0.32	1	0	C3	91827	                          Gunneridae
+  0.32	1	0	C4	1437201	                            Pentapetalae
+  0.32	1	0	C5	71275	                              rosids
+  0.32	1	0	C6	91836	                                malvids
+  0.32	1	0	O	3699	                                  Brassicales
+  0.32	1	0	F	3700	                                    Brassicaceae
+  0.32	1	0	F1	981071	                                      Brassiceae
+  0.32	1	1	G	3705	                                        Brassica

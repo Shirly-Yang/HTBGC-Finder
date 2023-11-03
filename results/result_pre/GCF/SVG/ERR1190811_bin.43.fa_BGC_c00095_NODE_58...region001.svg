@@ -1,0 +1,80 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="264.0333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="254.03333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg95_1)</title>
+			<polygon class=" (ctg95_1)" points="10,10 36,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sulfate_transp (PF00916)
+"Sulfate permease family"</title>
+				<rect class="PF00916" x="10" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(180,204,56)" stroke="rgb(144,163,44)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>STAS (PF01740)
+"STAS domain"</title>
+				<polygon class="PF01740" points="24,31 32,40 24,49" stroke-linejoin="round" width="10" height="24" fill="rgb(190,159,84)" stroke="rgb(152,127,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg95_2)</title>
+			<polygon class=" (ctg95_2)" points="42,40 55,10 55,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg95_3)</title>
+			<polygon class=" (ctg95_3)" points="62,40 83,10 83,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg95_4)</title>
+			<polygon class=" (ctg95_4)" points="81,40 95,10 95,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg95_5)</title>
+			<polygon class=" (ctg95_5)" points="95,40 102,10 102,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg95_6)</title>
+			<polygon class=" (ctg95_6)" points="121,40 131,10 131,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HMA (PF00403)
+"Heavy-metal-associated domain"</title>
+				<polygon class="PF00403" points="124,40 128,28 128,28 128,52 128,52" stroke-linejoin="round" width="6" height="24" fill="rgb(213,85,145)" stroke="rgb(170,68,116)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg95_7)</title>
+			<polygon class=" (ctg95_7)" points="213,25 162,25 162,10 132,40 162,70 162,55 213,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TonB_dep_Rec (PF00593)
+"TonB dependent receptor"</title>
+				<polygon class="PF00593" points="136,40 148,28 184,28 184,52 148,52" stroke-linejoin="round" width="52" height="24" fill="rgb(192,50,77)" stroke="rgb(153,40,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>CarbopepD_reg_2 (PF13715)
+"CarboxypepD_reg-like domain"</title>
+				<rect class="PF13715" x="202" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(137,223,103)" stroke="rgb(109,178,82)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg95_8)</title>
+			<polygon class=" (ctg95_8)" points="218,40 232,10 232,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg95_9)</title>
+			<polygon class=" (ctg95_9)" points="232,40 241,10 241,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PqqD (PF05402)
+"Coenzyme PQQ synthesis protein D (PqqD)"</title>
+				<polygon class="PF05402" points="235,40 239,28 239,28 239,52 239,52" stroke-linejoin="round" width="7" height="24" fill="rgb(218,64,155)" stroke="rgb(174,51,124)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg95_10)</title>
+			<polygon class=" (ctg95_10)" points="245,10 253,40 245,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DEAD (PF00270)
+"DEAD/DEAH box helicase"</title>
+				<polygon class="PF00270" points="247,28 250,40 247,52" stroke-linejoin="round" width="6" height="24" fill="rgb(136,63,185)" stroke="rgb(108,50,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

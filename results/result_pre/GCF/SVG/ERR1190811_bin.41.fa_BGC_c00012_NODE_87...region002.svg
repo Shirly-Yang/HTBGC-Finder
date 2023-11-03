@@ -1,0 +1,107 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="551.7333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="541.7333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg12_63)</title>
+			<polygon class=" (ctg12_63)" points="57,40 85,10 85,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AP_endonuc_2 (PF01261)
+"Xylose isomerase-like TIM barrel"</title>
+				<polygon class="PF01261" points="61,40 72,28 83,28 83,52 72,52" stroke-linejoin="round" width="26" height="24" fill="rgb(145,220,103)" stroke="rgb(116,176,82)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12_64)</title>
+			<polygon class=" (ctg12_64)" points="92,40 118,10 118,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_18 (PF12833)
+"Helix-turn-helix domain"</title>
+				<polygon class="PF12833" points="96,40 99,37 99,43" stroke-linejoin="round" width="7" height="24" fill="rgb(83,220,97)" stroke="rgb(66,176,77)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12_65)</title>
+			<polygon class=" (ctg12_65)" points="123,25 138,25 138,10 168,40 138,70 138,55 123,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_hydro_39 (PF01229)
+"Glycosyl hydrolases family 39"</title>
+				<rect class="PF01229" x="128" y="28" stroke-linejoin="round" width="22" height="24" fill="rgb(106,200,213)" stroke="rgb(84,160,170)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12_66)</title>
+			<polygon class=" (ctg12_66)" points="170,40 180,10 180,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg12_67)</title>
+			<polygon class=" (ctg12_67)" points="229,25 214,25 214,10 184,40 214,70 214,55 229,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg12_68)</title>
+			<polygon class=" (ctg12_68)" points="260,25 260,25 260,10 230,40 260,70 260,55 260,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DHDPS (PF00701)
+"Dihydrodipicolinate synthetase family"</title>
+				<polygon class="PF00701" points="234,40 246,28 259,28 259,52 246,52" stroke-linejoin="round" width="28" height="24" fill="rgb(206,187,75)" stroke="rgb(164,149,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12_69)</title>
+			<polygon class=" (ctg12_69)" points="303,25 299,25 299,10 269,40 299,70 299,55 303,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NTP_transf_5 (PF14907)
+"Uncharacterised nucleotidyltransferase"</title>
+				<polygon class="PF14907" points="276,37 285,28 301,28 301,52 285,52 276,43" stroke-linejoin="round" width="25" height="24" fill="rgb(193,150,83)" stroke="rgb(154,120,66)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12_70)</title>
+			<polygon class=" (ctg12_70)" points="342,25 333,25 333,10 303,40 333,70 333,55 342,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="335" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(191,92,64)" stroke="rgb(152,73,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12_71)</title>
+			<polygon class=" (ctg12_71)" points="377,25 373,25 373,10 343,40 373,70 373,55 377,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<rect class="PF04055" x="360" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(184,71,96)" stroke="rgb(147,56,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12_72)</title>
+			<polygon class=" (ctg12_72)" points="377,40 401,10 401,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PqqD (PF05402)
+"Coenzyme PQQ synthesis protein D (PqqD)"</title>
+				<polygon class="PF05402" points="381,40 383,38 383,42" stroke-linejoin="round" width="6" height="24" fill="rgb(218,64,155)" stroke="rgb(174,51,124)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Peptidase_S24 (PF00717)
+"Peptidase S24-like"</title>
+				<polygon class="PF00717" points="391,28 391,28 400,28 400,52 391,52 391,52" stroke-linejoin="round" width="9" height="24" fill="rgb(212,82,60)" stroke="rgb(169,65,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12_73)</title>
+			<polygon class=" (ctg12_73)" points="401,40 427,10 427,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg12_74)</title>
+			<polygon class=" (ctg12_74)" points="434,25 438,25 438,10 468,40 438,70 438,55 434,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_20 (PF12840)
+"Helix-turn-helix domain"</title>
+				<polygon class="PF12840" points="460,36 464,40 460,44" stroke-linejoin="round" width="6" height="24" fill="rgb(72,211,60)" stroke="rgb(57,168,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12_75)</title>
+			<polygon class=" (ctg12_75)" points="487,25 492,25 492,10 522,40 492,70 492,55 487,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

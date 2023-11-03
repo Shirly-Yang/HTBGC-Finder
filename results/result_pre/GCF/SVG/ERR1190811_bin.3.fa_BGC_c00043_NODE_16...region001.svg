@@ -1,0 +1,136 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="452.06666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="442.06666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg43_14)</title>
+			<polygon class=" (ctg43_14)" points="111,25 56,25 56,10 26,40 56,70 56,55 111,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SEC-C (PF02810)
+"SEC-C motif"</title>
+				<polygon class="PF02810" points="30,40 27,43 27,37" stroke-linejoin="round" width="1" height="24" fill="rgb(213,106,167)" stroke="rgb(170,84,133)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SecA_SW (PF07516)
+"SecA Wing and Scaffold domain"</title>
+				<polygon class="PF07516" points="31,39 42,28 52,28 52,52 42,52 31,41" stroke-linejoin="round" width="21" height="24" fill="rgb(183,55,59)" stroke="rgb(146,44,47)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SecA_DEAD (PF07517)
+"SecA DEAD-like domain"</title>
+				<rect class="PF07517" x="71" y="28" stroke-linejoin="round" width="39" height="24" fill="rgb(214,98,159)" stroke="rgb(171,78,127)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg43_15)</title>
+			<polygon class=" (ctg43_15)" points="119,40 136,10 136,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ribosom_S30AE_C (PF16321)
+"Sigma 54 modulation/S30EA ribosomal protein C terminus"</title>
+				<polygon class="PF16321" points="122,40 124,37 124,43" stroke-linejoin="round" width="5" height="24" fill="rgb(190,188,92)" stroke="rgb(152,150,73)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ribosomal_S30AE (PF02482)
+"Sigma 54 modulation protein / S30EA ribosomal protein"</title>
+				<polygon class="PF02482" points="127,31 129,28 136,28 136,52 129,52 127,49" stroke-linejoin="round" width="9" height="24" fill="rgb(146,98,226)" stroke="rgb(116,78,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg43_16)</title>
+			<polygon class=" (ctg43_16)" points="185,25 174,25 174,10 144,40 174,70 174,55 185,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NLPC_P60 (PF00877)
+"NlpC/P60 family"</title>
+				<polygon class="PF00877" points="148,40 154,34 154,46" stroke-linejoin="round" width="10" height="24" fill="rgb(83,76,201)" stroke="rgb(66,60,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SH3_3 (PF08239)
+"Bacterial SH3 domain"</title>
+				<polygon class="PF08239" points="160,28 160,28 165,28 165,52 160,52 160,52" stroke-linejoin="round" width="5" height="24" fill="rgb(91,191,166)" stroke="rgb(72,152,132)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SH3_3 (PF08239)
+"Bacterial SH3 domain"</title>
+				<rect class="PF08239" x="168" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(91,191,166)" stroke="rgb(72,152,132)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg43_17)</title>
+			<polygon class=" (ctg43_17)" points="232,25 228,25 228,10 198,40 228,70 228,55 232,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Transposase_31 (PF04754)
+"Putative transposase, YhgA-like"</title>
+				<polygon class="PF04754" points="208,34 214,28 229,28 229,52 214,52 208,46" stroke-linejoin="round" width="21" height="24" fill="rgb(58,190,156)" stroke="rgb(46,152,124)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg43_18)</title>
+			<polygon class=" (ctg43_18)" points="237,40 251,10 251,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg43_19)</title>
+			<polygon class=" (ctg43_19)" points="253,40 257,10 257,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg43_20)</title>
+			<polygon class=" (ctg43_20)" points="299,25 290,25 290,10 260,40 290,70 290,55 299,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="266,38 276,28 297,28 297,52 276,52 266,42" stroke-linejoin="round" width="31" height="24" fill="rgb(62,205,126)" stroke="rgb(49,164,100)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg43_21)</title>
+			<polygon class=" (ctg43_21)" points="305,40 311,10 311,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YjfB_motility (PF14070)
+"Putative motility protein"</title>
+				<polygon class="PF14070" points="308,40 310,31 310,49" stroke-linejoin="round" width="5" height="24" fill="rgb(100,95,200)" stroke="rgb(79,76,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg43_22)</title>
+			<polygon class=" (ctg43_22)" points="325,10 341,40 325,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LytTR (PF04397)
+"LytTr DNA-binding domain"</title>
+				<polygon class="PF04397" points="331,28 331,28 337,40 331,52 331,52" stroke-linejoin="round" width="9" height="24" fill="rgb(154,92,215)" stroke="rgb(123,73,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg43_23)</title>
+			<polygon class=" (ctg43_23)" points="343,40 370,10 370,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AgrB (PF04647)
+"Accessory gene regulator B"</title>
+				<polygon class="PF04647" points="353,33 358,28 369,28 369,52 358,52 353,47" stroke-linejoin="round" width="16" height="24" fill="rgb(67,227,212)" stroke="rgb(53,181,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg43_24)</title>
+			<polygon class=" (ctg43_24)" points="376,40 384,10 384,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg43_25)</title>
+			<polygon class=" (ctg43_25)" points="385,10 390,40 385,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg43_26)</title>
+			<polygon class=" (ctg43_26)" points="397,25 400,25 400,10 430,40 400,70 400,55 397,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HATPase_c (PF02518)
+"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"</title>
+				<polygon class="PF02518" points="419,34 425,40 419,46" stroke-linejoin="round" width="10" height="24" fill="rgb(192,73,161)" stroke="rgb(153,58,128)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg43_27)</title>
+			<polygon class=" (ctg43_27)" points="430,40 441,10 441,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amidase_3 (PF01520)
+"N-acetylmuramoyl-L-alanine amidase"</title>
+				<polygon class="PF01520" points="433,40 438,28 441,28 441,52 438,52" stroke-linejoin="round" width="11" height="24" fill="rgb(218,69,105)" stroke="rgb(174,55,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

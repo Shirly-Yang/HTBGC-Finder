@@ -1,0 +1,119 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="709.9" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="699.9" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg13_43)</title>
+			<polygon class=" (ctg13_43)" points="45,40 72,10 72,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M23 (PF01551)
+"Peptidase family M23"</title>
+				<polygon class="PF01551" points="49,40 54,35 54,45" stroke-linejoin="round" width="9" height="24" fill="rgb(147,197,84)" stroke="rgb(117,157,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_44)</title>
+			<polygon class=" (ctg13_44)" points="108,25 106,25 106,10 76,40 106,70 106,55 108,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SpoIID (PF08486)
+"Stage II sporulation protein"</title>
+				<polygon class="PF08486" points="92,28 92,28 101,28 101,52 92,52 92,52" stroke-linejoin="round" width="9" height="24" fill="rgb(103,64,185)" stroke="rgb(82,51,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_45)</title>
+			<polygon class=" (ctg13_45)" points="193,25 141,25 141,10 111,40 141,70 141,55 193,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Phosphorylase (PF00343)
+"Carbohydrate phosphorylase"</title>
+				<polygon class="PF00343" points="115,40 127,28 182,28 182,52 127,52" stroke-linejoin="round" width="71" height="24" fill="rgb(217,83,214)" stroke="rgb(173,66,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_46)</title>
+			<polygon class=" (ctg13_46)" points="244,25 231,25 231,10 201,40 231,70 231,55 244,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HATPase_c_5 (PF14501)
+"GHKL domain"</title>
+				<polygon class="PF14501" points="205,40 211,34 211,46" stroke-linejoin="round" width="10" height="24" fill="rgb(187,81,89)" stroke="rgb(149,64,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_47)</title>
+			<polygon class=" (ctg13_47)" points="246,40 269,10 269,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LytTR (PF04397)
+"LytTr DNA-binding domain"</title>
+				<polygon class="PF04397" points="250,40 255,34 255,46" stroke-linejoin="round" width="9" height="24" fill="rgb(154,92,215)" stroke="rgb(123,73,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="257,31 260,28 268,28 268,52 260,52 257,49" stroke-linejoin="round" width="11" height="24" fill="rgb(209,129,92)" stroke="rgb(167,103,73)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_48)</title>
+			<polygon class=" (ctg13_48)" points="324,25 309,25 309,10 279,40 309,70 309,55 324,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg13_49)</title>
+			<polygon class=" (ctg13_49)" points="327,40 341,10 341,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg13_50)</title>
+			<polygon class=" (ctg13_50)" points="343,40 347,10 347,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg13_51)</title>
+			<polygon class=" (ctg13_51)" points="346,40 365,10 365,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AgrB (PF04647)
+"Accessory gene regulator B"</title>
+				<polygon class="PF04647" points="350,40 358,28 364,28 364,52 358,52" stroke-linejoin="round" width="17" height="24" fill="rgb(67,227,212)" stroke="rgb(53,181,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_52)</title>
+			<polygon class=" (ctg13_52)" points="404,25 403,25 403,10 373,40 403,70 403,55 404,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="385,32 389,28 401,28 401,52 389,52 385,48" stroke-linejoin="round" width="16" height="24" fill="rgb(63,205,104)" stroke="rgb(50,164,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_53)</title>
+			<polygon class=" (ctg13_53)" points="479,25 437,25 437,10 407,40 437,70 437,55 479,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg13_54)</title>
+			<polygon class=" (ctg13_54)" points="527,25 511,25 511,10 481,40 511,70 511,55 527,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg13_55)</title>
+			<polygon class=" (ctg13_55)" points="528,40 542,10 542,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg13_56)</title>
+			<polygon class=" (ctg13_56)" points="551,40 566,10 566,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg13_57)</title>
+			<polygon class=" (ctg13_57)" points="606,25 598,25 598,10 568,40 598,70 598,55 606,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M56 (PF05569)
+"BlaR1 peptidase M56"</title>
+				<polygon class="PF05569" points="579,33 584,28 604,28 604,52 584,52 579,47" stroke-linejoin="round" width="25" height="24" fill="rgb(199,177,62)" stroke="rgb(159,141,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_58)</title>
+			<polygon class=" (ctg13_58)" points="608,40 619,10 619,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Penicillinase_R (PF03965)
+"Penicillinase repressor"</title>
+				<polygon class="PF03965" points="611,40 616,28 618,28 618,52 616,52" stroke-linejoin="round" width="10" height="24" fill="rgb(188,78,53)" stroke="rgb(150,62,42)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

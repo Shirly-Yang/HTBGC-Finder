@@ -1,0 +1,204 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="658.8333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="648.8333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg6_55)</title>
+			<polygon class=" (ctg6_55)" points="28,25 61,25 61,10 91,40 61,70 61,55 28,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<rect class="PF00005" x="29" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(63,205,104)" stroke="rgb(50,164,83)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran_Xtn (PF12848)
+"ABC transporter"</title>
+				<rect class="PF12848" x="50" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(103,218,64)" stroke="rgb(82,174,51)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<rect class="PF00005" x="62" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(63,205,104)" stroke="rgb(50,164,83)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran_CTD (PF16326)
+"ABC transporter C-terminal domain"</title>
+				<polygon class="PF16326" points="84,37 87,40 84,43" stroke-linejoin="round" width="6" height="24" fill="rgb(147,69,193)" stroke="rgb(117,55,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_56)</title>
+			<polygon class=" (ctg6_56)" points="96,10 105,40 96,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Bac_DNA_binding (PF00216)
+"Bacterial DNA-binding protein"</title>
+				<polygon class="PF00216" points="96,28 98,28 102,40 98,52 96,52" stroke-linejoin="round" width="8" height="24" fill="rgb(184,105,83)" stroke="rgb(147,84,66)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_57)</title>
+			<polygon class=" (ctg6_57)" points="109,10 124,40 109,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CYTH (PF01928)
+"CYTH domain"</title>
+				<polygon class="PF01928" points="109,28 114,28 120,40 114,52 109,52" stroke-linejoin="round" width="14" height="24" fill="rgb(191,53,138)" stroke="rgb(152,42,110)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_58)</title>
+			<polygon class=" (ctg6_58)" points="125,25 138,25 138,10 168,40 138,70 138,55 125,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Voltage_CLC (PF00654)
+"Voltage gated chloride channel"</title>
+				<polygon class="PF00654" points="132,28 151,28 163,40 151,52 132,52" stroke-linejoin="round" width="33" height="24" fill="rgb(202,178,82)" stroke="rgb(161,142,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_59)</title>
+			<polygon class=" (ctg6_59)" points="206,25 202,25 202,10 172,40 202,70 202,55 206,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NMT1 (PF09084)
+"NMT1/THI5 like"</title>
+				<polygon class="PF09084" points="178,38 188,28 194,28 194,52 188,52 178,42" stroke-linejoin="round" width="16" height="24" fill="rgb(69,196,196)" stroke="rgb(55,156,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_60)</title>
+			<polygon class=" (ctg6_60)" points="263,25 236,25 236,10 206,40 236,70 236,55 263,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RecJ_OB (PF17768)
+"RecJ OB domain"</title>
+				<polygon class="PF17768" points="210,40 216,34 216,46" stroke-linejoin="round" width="10" height="24" fill="rgb(205,145,86)" stroke="rgb(164,116,68)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DHHA1 (PF02272)
+"DHHA1 domain"</title>
+				<polygon class="PF02272" points="218,32 222,28 231,28 231,52 222,52 218,48" stroke-linejoin="round" width="13" height="24" fill="rgb(228,113,185)" stroke="rgb(182,90,148)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DHH (PF01368)
+"DHH family"</title>
+				<rect class="PF01368" x="239" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(81,73,191)" stroke="rgb(64,58,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_61)</title>
+			<polygon class=" (ctg6_61)" points="341,25 297,25 297,10 267,40 297,70 297,55 341,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SecD_SecF (PF02355)
+"Protein export membrane protein"</title>
+				<polygon class="PF02355" points="271,40 283,28 288,28 288,52 283,52" stroke-linejoin="round" width="19" height="24" fill="rgb(61,192,83)" stroke="rgb(48,153,66)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SecD_SecF (PF02355)
+"Protein export membrane protein"</title>
+				<rect class="PF02355" x="300" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(61,192,83)" stroke="rgb(48,153,66)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sec_GG (PF07549)
+"SecD/SecF GG Motif"</title>
+				<rect class="PF07549" x="335" y="28" stroke-linejoin="round" width="1" height="24" fill="rgb(100,222,112)" stroke="rgb(80,177,89)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_62)</title>
+			<polygon class=" (ctg6_62)" points="388,25 373,25 373,10 343,40 373,70 373,55 388,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Fer4_12 (PF13353)
+"4Fe-4S single cluster domain"</title>
+				<rect class="PF13353" x="364" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(86,133,197)" stroke="rgb(68,106,157)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_63)</title>
+			<polygon class=" (ctg6_63)" points="394,40 398,10 398,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SCIFF (PF13165)
+"Six-cysteine peptide SCIFF"</title>
+				<polygon class="PF13165" points="397,40 398,34 398,46" stroke-linejoin="round" width="4" height="24" fill="rgb(153,48,181)" stroke="rgb(122,38,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_64)</title>
+			<polygon class=" (ctg6_64)" points="433,25 431,25 431,10 401,40 431,70 431,55 433,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Mem_trans (PF03547)
+"Membrane transport protein"</title>
+				<polygon class="PF03547" points="405,40 416,29 416,51" stroke-linejoin="round" width="14" height="24" fill="rgb(68,212,125)" stroke="rgb(54,169,99)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Mem_trans (PF03547)
+"Membrane transport protein"</title>
+				<polygon class="PF03547" points="416,29 417,28 432,28 432,52 417,52 416,51" stroke-linejoin="round" width="16" height="24" fill="rgb(68,212,125)" stroke="rgb(54,169,99)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_65)</title>
+			<polygon class=" (ctg6_65)" points="434,40 460,10 460,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Phos_pyr_kin (PF08543)
+"Phosphomethylpyrimidine kinase"</title>
+				<polygon class="PF08543" points="438,40 449,28 458,28 458,52 449,52" stroke-linejoin="round" width="24" height="24" fill="rgb(161,196,75)" stroke="rgb(128,156,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_66)</title>
+			<polygon class=" (ctg6_66)" points="488,40 508,10 508,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pro_isomerase (PF00160)
+"Cyclophilin type peptidyl-prolyl cis-trans isomerase/CLD"</title>
+				<polygon class="PF00160" points="492,40 500,28 503,28 503,52 500,52" stroke-linejoin="round" width="15" height="24" fill="rgb(180,145,57)" stroke="rgb(144,116,45)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_67)</title>
+			<polygon class=" (ctg6_67)" points="510,40 517,10 517,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PTS-HPr (PF00381)
+"PTS HPr component phosphorylation site"</title>
+				<polygon class="PF00381" points="513,40 516,28 516,28 516,52 516,52" stroke-linejoin="round" width="6" height="24" fill="rgb(92,200,148)" stroke="rgb(73,160,118)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_68)</title>
+			<polygon class=" (ctg6_68)" points="525,40 544,10 544,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MMR_HSR1 (PF01926)
+"50S ribosome-binding GTPase"</title>
+				<polygon class="PF01926" points="530,38 537,28 541,28 541,52 537,52 530,42" stroke-linejoin="round" width="11" height="24" fill="rgb(88,66,216)" stroke="rgb(70,52,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_69)</title>
+			<polygon class=" (ctg6_69)" points="623,25 575,25 575,10 545,40 575,70 575,55 623,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lon_C (PF05362)
+"Lon protease (S16) C-terminal proteolytic domain"</title>
+				<polygon class="PF05362" points="549,40 561,28 565,28 565,52 561,52" stroke-linejoin="round" width="20" height="24" fill="rgb(228,152,94)" stroke="rgb(182,121,75)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AAA (PF00004)
+"ATPase family associated with various cellular activities (AAA)"</title>
+				<rect class="PF00004" x="574" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(73,183,160)" stroke="rgb(58,146,128)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LON_substr_bdg (PF02190)
+"ATP-dependent protease La (LON) substrate-binding domain"</title>
+				<rect class="PF02190" x="603" y="28" stroke-linejoin="round" width="19" height="24" fill="rgb(198,52,55)" stroke="rgb(158,41,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_70)</title>
+			<polygon class=" (ctg6_70)" points="623,40 648,10 648,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ClpB_D2-small (PF10431)
+"C-terminal, D2-small domain, of ClpB protein"</title>
+				<polygon class="PF10431" points="627,40 633,33 633,47" stroke-linejoin="round" width="8" height="24" fill="rgb(182,63,199)" stroke="rgb(145,50,159)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AAA_2 (PF07724)
+"AAA domain (Cdc48 subfamily)"</title>
+				<polygon class="PF07724" points="634,32 637,28 647,28 647,52 637,52 634,48" stroke-linejoin="round" width="13" height="24" fill="rgb(197,65,55)" stroke="rgb(157,51,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

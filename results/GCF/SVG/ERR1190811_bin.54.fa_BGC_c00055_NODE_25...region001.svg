@@ -1,0 +1,125 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="534.8" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="524.8" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg55_1)</title>
+			<polygon class=" (ctg55_1)" points="21,25 31,25 31,10 61,40 31,70 31,55 21,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AAA_14 (PF13173)
+"AAA domain"</title>
+				<rect class="PF13173" x="22" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(84,216,70)" stroke="rgb(67,172,56)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF4143 (PF13635)
+"Domain of unknown function (DUF4143)"</title>
+				<polygon class="PF13635" points="41,28 45,28 56,39 56,41 45,52 41,52" stroke-linejoin="round" width="15" height="24" fill="rgb(90,204,142)" stroke="rgb(72,163,113)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg55_2)</title>
+			<polygon class=" (ctg55_2)" points="105,25 94,25 94,10 64,40 94,70 94,55 105,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HATPase_c_5 (PF14501)
+"GHKL domain"</title>
+				<polygon class="PF14501" points="68,40 74,34 74,46" stroke-linejoin="round" width="10" height="24" fill="rgb(187,81,89)" stroke="rgb(149,64,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg55_3)</title>
+			<polygon class=" (ctg55_3)" points="106,40 130,10 130,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LytTR (PF04397)
+"LytTr DNA-binding domain"</title>
+				<polygon class="PF04397" points="110,40 115,34 115,46" stroke-linejoin="round" width="9" height="24" fill="rgb(154,92,215)" stroke="rgb(123,73,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="117,31 120,28 128,28 128,52 120,52 117,49" stroke-linejoin="round" width="11" height="24" fill="rgb(209,129,92)" stroke="rgb(167,103,73)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg55_4)</title>
+			<polygon class=" (ctg55_4)" points="130,40 148,10 148,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AgrB (PF04647)
+"Accessory gene regulator B"</title>
+				<polygon class="PF04647" points="134,40 142,28 148,28 148,52 142,52" stroke-linejoin="round" width="17" height="24" fill="rgb(67,227,212)" stroke="rgb(53,181,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg55_5)</title>
+			<polygon class=" (ctg55_5)" points="149,40 170,10 170,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="154,39 162,28 168,28 168,52 162,52 154,41" stroke-linejoin="round" width="14" height="24" fill="rgb(63,205,104)" stroke="rgb(50,164,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg55_6)</title>
+			<polygon class=" (ctg55_6)" points="171,40 199,10 199,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2705 (PF10920)
+"Protein of unknown function (DUF2705)"</title>
+				<polygon class="PF10920" points="175,40 186,28 194,28 194,52 186,52" stroke-linejoin="round" width="23" height="24" fill="rgb(147,100,202)" stroke="rgb(117,80,161)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg55_7)</title>
+			<polygon class=" (ctg55_7)" points="199,40 224,10 224,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg55_8)</title>
+			<polygon class=" (ctg55_8)" points="224,40 243,10 243,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg55_9)</title>
+			<polygon class=" (ctg55_9)" points="242,40 269,10 269,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg55_10)</title>
+			<polygon class=" (ctg55_10)" points="270,40 299,10 299,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg55_11)</title>
+			<polygon class=" (ctg55_11)" points="302,40 316,10 316,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg55_12)</title>
+			<polygon class=" (ctg55_12)" points="317,40 321,10 321,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg55_13)</title>
+			<polygon class=" (ctg55_13)" points="328,25 328,25 328,10 358,40 328,70 328,55 328,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Phage_int_SAM_1 (PF02899)
+"Phage integrase, N-terminal SAM-like domain"</title>
+				<rect class="PF02899" x="328" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(178,85,126)" stroke="rgb(142,68,100)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Phage_integrase (PF00589)
+"Phage integrase family"</title>
+				<polygon class="PF00589" points="340,28 342,28 354,40 342,52 340,52" stroke-linejoin="round" width="16" height="24" fill="rgb(104,180,218)" stroke="rgb(83,144,174)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg55_14)</title>
+			<polygon class=" (ctg55_14)" points="363,25 447,25 447,10 477,40 447,70 447,55 363,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Mrr_cat (PF04471)
+"Restriction endonuclease"</title>
+				<rect class="PF04471" x="365" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(85,170,213)" stroke="rgb(68,136,170)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg55_15)</title>
+			<polygon class=" (ctg55_15)" points="515,25 508,25 508,10 478,40 508,70 508,55 515,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<rect class="PF00535" x="500" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(212,83,152)" stroke="rgb(169,66,121)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

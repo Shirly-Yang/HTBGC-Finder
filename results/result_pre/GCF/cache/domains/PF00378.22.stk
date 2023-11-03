@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+ERR1190811_bin.2.fa_BGC_c00003_NODE_59...region001_ORF3:gid::pid::loc:3414:4218:strand:-:10:266            dva---DQIAVLAISRPAALNALNSETLDELNVALTEIEARDDVKVLILTGGPdkkgnefKSFVAGADISEMVNFTAPQARAFGIKASEPFFKLMNMRQVTIAAVNGFALGGGCEISMACDIRIASENAIFGQPETGLGIIPGFGGTQRLARLVGMGRAKEMIFTCDNVDAAEAYRIGLVNKVVAKEELMPTAKAMAAKI
+#=GR ERR1190811_bin.2.fa_BGC_c00003_NODE_59...region001_ORF3:gid::pid::loc:3414:4218:strand:-:10:266    PP 886...5799*****************************999*********76455555558************99899999**********************************************************************************************************************
+ERR1190811_bin.4.fa_BGC_c00008_NODE_68...region001_ORF17:gid::pid::loc:19955:20759:strand:+:10:266         .ev--ADGIAVLAISRPAALNALNSETLDELNVCLSEIEANDDIKAVILTGGPdkkgnefKSFVAGADIAEMVNFTAPEARAFGIKASEPFFKLMNMRQVTIAAVNGFALGGGCEISMACDIRIASENAIFGQPECGLGIIPGFGGTQRLARLVGMGRAKEMIFTCDNVDANEAYRIGLVNKVVAKEELMPTAKAMAAKI
+#=GR ERR1190811_bin.4.fa_BGC_c00008_NODE_68...region001_ORF17:gid::pid::loc:19955:20759:strand:+:10:266 PP .76..679*******************************************76455555558************99899999**********************************************************************************************************************
+#=GC PP_cons                                                                                               .....6689******************************************76.......58************99899999**********************************************************************************************************************
+#=GC RF                                                                                                    ...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ERR1190811_bin.2.fa_BGC_c00003_NODE_59...region001_ORF3:gid::pid::loc:3414:4218:strand:-:10:266            ISKGSYAIAVAKAAINNGYDMDIKNAVEMEANLFGVVNDTNDKKEGMGAFLEKRAANL---td.
+#=GR ERR1190811_bin.2.fa_BGC_c00003_NODE_59...region001_ORF3:gid::pid::loc:3414:4218:strand:-:10:266    PP ******************************************************9876...56.
+ERR1190811_bin.4.fa_BGC_c00008_NODE_68...region001_ORF17:gid::pid::loc:19955:20759:strand:+:10:266         ISKGSYAVSVAKAAINNGYDMDIKNAVEMEANLFGVVNDTHDKKEGMGAFLEKRAAT----ltd
+#=GR ERR1190811_bin.4.fa_BGC_c00008_NODE_68...region001_ORF17:gid::pid::loc:19955:20759:strand:+:10:266 PP ******************************************************876....567
+#=GC PP_cons                                                                                               ******************************************************9766......
+#=GC RF                                                                                                    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...
+//

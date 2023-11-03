@@ -1,0 +1,169 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="638.3666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="628.3666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg19_4)</title>
+			<polygon class=" (ctg19_4)" points="82,25 78,25 78,10 48,40 78,70 78,55 82,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_S58 (PF03576)
+"Peptidase family S58"</title>
+				<polygon class="PF03576" points="52,40 64,28 80,28 80,52 64,52" stroke-linejoin="round" width="32" height="24" fill="rgb(168,59,213)" stroke="rgb(134,47,170)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19_5)</title>
+			<polygon class=" (ctg19_5)" points="84,40 102,10 102,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ECF_trnsprt (PF12822)
+"ECF transporter, substrate-specific component"</title>
+				<polygon class="PF12822" points="88,40 96,28 102,28 102,52 96,52" stroke-linejoin="round" width="17" height="24" fill="rgb(176,70,205)" stroke="rgb(140,56,164)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19_6)</title>
+			<polygon class=" (ctg19_6)" points="113,25 161,25 161,10 191,40 161,70 161,55 113,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="134" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(125,63,227)" stroke="rgb(99,50,181)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="168,28 174,28 182,36 182,44 174,52 168,52" stroke-linejoin="round" width="14" height="24" fill="rgb(63,205,104)" stroke="rgb(50,164,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19_7)</title>
+			<polygon class=" (ctg19_7)" points="191,25 222,25 222,10 252,40 222,70 222,55 191,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="195" y="28" stroke-linejoin="round" width="28" height="24" fill="rgb(125,63,227)" stroke="rgb(99,50,181)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="230,28 236,28 244,36 244,44 236,52 230,52" stroke-linejoin="round" width="14" height="24" fill="rgb(63,205,104)" stroke="rgb(50,164,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19_8)</title>
+			<polygon class=" (ctg19_8)" points="258,10 272,40 258,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg19_9)</title>
+			<polygon class=" (ctg19_9)" points="275,10 298,40 275,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="275,28 285,28 286,29 286,51 285,52 275,52" stroke-linejoin="round" width="11" height="24" fill="rgb(209,129,92)" stroke="rgb(167,103,73)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LytTR (PF04397)
+"LytTr DNA-binding domain"</title>
+				<polygon class="PF04397" points="288,32 294,40 288,48" stroke-linejoin="round" width="9" height="24" fill="rgb(154,92,215)" stroke="rgb(123,73,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19_10)</title>
+			<polygon class=" (ctg19_10)" points="299,25 312,25 312,10 342,40 312,70 312,55 299,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HATPase_c_5 (PF14501)
+"GHKL domain"</title>
+				<polygon class="PF14501" points="331,34 337,40 331,46" stroke-linejoin="round" width="10" height="24" fill="rgb(187,81,89)" stroke="rgb(149,64,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19_11)</title>
+			<polygon class=" (ctg19_11)" points="343,40 362,10 362,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AgrB (PF04647)
+"Accessory gene regulator B"</title>
+				<polygon class="PF04647" points="347,40 355,28 361,28 361,52 355,52" stroke-linejoin="round" width="17" height="24" fill="rgb(67,227,212)" stroke="rgb(53,181,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19_12)</title>
+			<polygon class=" (ctg19_12)" points="379,10 400,40 379,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_19 (PF12844)
+"Helix-turn-helix domain"</title>
+				<polygon class="PF12844" points="391,32 397,40 397,40 391,48" stroke-linejoin="round" width="6" height="24" fill="rgb(200,226,103)" stroke="rgb(160,180,82)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19_13)</title>
+			<polygon class=" (ctg19_13)" points="401,10 412,40 401,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_19 (PF12844)
+"Helix-turn-helix domain"</title>
+				<polygon class="PF12844" points="401,28 404,28 407,35 407,45 404,52 401,52" stroke-linejoin="round" width="6" height="24" fill="rgb(200,226,103)" stroke="rgb(160,180,82)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19_14)</title>
+			<polygon class=" (ctg19_14)" points="413,25 432,25 432,10 462,40 432,70 432,55 413,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HHH (PF00633)
+"Helix-hairpin-helix motif"</title>
+				<polygon class="PF00633" points="452,34 454,36 454,44 452,46" stroke-linejoin="round" width="2" height="24" fill="rgb(157,67,201)" stroke="rgb(125,53,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19_15)</title>
+			<polygon class=" (ctg19_15)" points="464,10 489,40 464,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4130 (PF13566)
+"Domain of unknown function (DUF4130"</title>
+				<polygon class="PF13566" points="472,28 475,28 485,40 475,52 472,52" stroke-linejoin="round" width="16" height="24" fill="rgb(98,198,227)" stroke="rgb(78,158,181)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19_16)</title>
+			<polygon class=" (ctg19_16)" points="491,25 494,25 494,10 524,40 494,70 494,55 491,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF3878 (PF12994)
+"Domain of unknown function, E. rectale Gene description (DUF3878)"</title>
+				<polygon class="PF12994" points="493,28 507,28 519,40 507,52 493,52" stroke-linejoin="round" width="28" height="24" fill="rgb(224,88,182)" stroke="rgb(179,70,145)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19_17)</title>
+			<polygon class=" (ctg19_17)" points="527,25 572,25 572,10 602,40 572,70 572,55 527,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF6382 (PF19909)
+"Domain of unknown function (DUF6382)"</title>
+				<rect class="PF19909" x="527" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(155,60,205)" stroke="rgb(123,48,164)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DZR (PF12773)
+"Double zinc ribbon"</title>
+				<rect class="PF12773" x="551" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(192,82,67)" stroke="rgb(153,65,53)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Amidohydro_1 (PF01979)
+"Amidohydrolase family"</title>
+				<polygon class="PF01979" points="564,28 585,28 597,40 585,52 564,52" stroke-linejoin="round" width="36" height="24" fill="rgb(192,197,90)" stroke="rgb(153,157,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19_18)</title>
+			<polygon class=" (ctg19_18)" points="605,10 616,40 605,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LytTR (PF04397)
+"LytTr DNA-binding domain"</title>
+				<polygon class="PF04397" points="607,28 608,28 613,40 608,52 607,52" stroke-linejoin="round" width="9" height="24" fill="rgb(154,92,215)" stroke="rgb(123,73,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19_19)</title>
+			<polygon class=" (ctg19_19)" points="619,10 628,40 619,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_trans_CmpB (PF06541)
+"Putative ABC-transporter type IV"</title>
+				<polygon class="PF06541" points="620,28 620,28 624,40 620,52 620,52" stroke-linejoin="round" width="8" height="24" fill="rgb(92,99,216)" stroke="rgb(73,79,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

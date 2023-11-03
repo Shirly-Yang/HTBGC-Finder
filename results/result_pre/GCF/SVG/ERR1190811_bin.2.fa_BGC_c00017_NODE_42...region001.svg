@@ -1,0 +1,107 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="454.96666666666664" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="444.96666666666664" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg17_1)</title>
+			<polygon class=" (ctg17_1)" points="10,10 12,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg17_2)</title>
+			<polygon class=" (ctg17_2)" points="20,10 44,40 20,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<rect class="PF00072" x="20" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(209,129,92)" stroke="rgb(167,103,73)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LytTR (PF04397)
+"LytTr DNA-binding domain"</title>
+				<polygon class="PF04397" points="34,33 40,40 34,47" stroke-linejoin="round" width="9" height="24" fill="rgb(154,92,215)" stroke="rgb(123,73,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg17_3)</title>
+			<polygon class=" (ctg17_3)" points="44,25 58,25 58,10 88,40 58,70 58,55 44,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HATPase_c_5 (PF14501)
+"GHKL domain"</title>
+				<polygon class="PF14501" points="76,33 83,40 76,47" stroke-linejoin="round" width="10" height="24" fill="rgb(187,81,89)" stroke="rgb(149,64,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg17_4)</title>
+			<polygon class=" (ctg17_4)" points="91,10 110,40 91,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AgrB (PF04647)
+"Accessory gene regulator B"</title>
+				<polygon class="PF04647" points="91,28 99,28 107,40 99,52 91,52" stroke-linejoin="round" width="17" height="24" fill="rgb(67,227,212)" stroke="rgb(53,181,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg17_5)</title>
+			<polygon class=" (ctg17_5)" points="126,10 144,40 126,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg17_6)</title>
+			<polygon class=" (ctg17_6)" points="146,25 151,25 151,10 181,40 151,70 151,55 146,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg17_7)</title>
+			<polygon class=" (ctg17_7)" points="203,10 215,40 203,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg17_8)</title>
+			<polygon class=" (ctg17_8)" points="223,10 248,40 223,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_25 (PF13649)
+"Methyltransferase domain"</title>
+				<polygon class="PF13649" points="227,28 234,28 236,31 236,49 234,52 227,52" stroke-linejoin="round" width="9" height="24" fill="rgb(209,77,154)" stroke="rgb(167,61,123)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg17_9)</title>
+			<polygon class=" (ctg17_9)" points="249,10 277,40 249,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HSP33 (PF01430)
+"Hsp33 protein"</title>
+				<polygon class="PF01430" points="249,28 261,28 273,40 261,52 249,52" stroke-linejoin="round" width="27" height="24" fill="rgb(62,106,202)" stroke="rgb(49,84,161)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg17_10)</title>
+			<polygon class=" (ctg17_10)" points="278,25 311,25 311,10 341,40 311,70 311,55 278,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CN_hydrolase (PF00795)
+"Carbon-nitrogen hydrolase"</title>
+				<rect class="PF00795" x="278" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(59,181,72)" stroke="rgb(47,144,57)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>NAD_synthase (PF02540)
+"NAD synthase"</title>
+				<polygon class="PF02540" points="310,28 325,28 332,35 332,45 325,52 310,52" stroke-linejoin="round" width="22" height="24" fill="rgb(221,106,99)" stroke="rgb(176,84,79)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg17_11)</title>
+			<polygon class=" (ctg17_11)" points="342,25 344,25 344,10 374,40 344,70 344,55 342,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_C39_2 (PF13529)
+"Peptidase_C39 like family"</title>
+				<polygon class="PF13529" points="357,28 357,28 369,40 357,52 357,52" stroke-linejoin="round" width="13" height="24" fill="rgb(77,192,95)" stroke="rgb(61,153,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg17_12)</title>
+			<polygon class=" (ctg17_12)" points="411,25 408,25 408,10 378,40 408,70 408,55 411,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AsnA (PF03590)
+"Aspartate-ammonia ligase"</title>
+				<polygon class="PF03590" points="387,35 394,28 409,28 409,52 394,52 387,45" stroke-linejoin="round" width="22" height="24" fill="rgb(79,114,180)" stroke="rgb(63,91,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg17_13)</title>
+			<polygon class=" (ctg17_13)" points="418,10 432,40 418,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

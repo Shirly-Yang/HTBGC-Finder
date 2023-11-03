@@ -1,0 +1,73 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="446.1333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="436.1333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg42_12)</title>
+			<polygon class=" (ctg42_12)" points="49,40 53,10 53,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg42_13)</title>
+			<polygon class=" (ctg42_13)" points="121,25 83,25 83,10 53,40 83,70 83,55 121,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg42_14)</title>
+			<polygon class=" (ctg42_14)" points="163,25 152,25 152,10 122,40 152,70 152,55 163,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg42_15)</title>
+			<polygon class=" (ctg42_15)" points="163,40 185,10 185,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg42_16)</title>
+			<polygon class=" (ctg42_16)" points="256,25 219,25 219,10 189,40 219,70 219,55 256,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg42_17)</title>
+			<polygon class=" (ctg42_17)" points="298,25 289,25 289,10 259,40 289,70 289,55 298,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg42_18)</title>
+			<polygon class=" (ctg42_18)" points="300,40 324,10 324,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg42_19)</title>
+			<polygon class=" (ctg42_19)" points="326,40 339,10 339,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg42_20)</title>
+			<polygon class=" (ctg42_20)" points="343,40 347,10 347,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg42_21)</title>
+			<polygon class=" (ctg42_21)" points="347,40 368,10 368,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AgrB (PF04647)
+"Accessory gene regulator B"</title>
+				<polygon class="PF04647" points="351,40 360,28 367,28 367,52 360,52" stroke-linejoin="round" width="19" height="24" fill="rgb(67,227,212)" stroke="rgb(53,181,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg42_22)</title>
+			<polygon class=" (ctg42_22)" points="414,25 401,25 401,10 371,40 401,70 401,55 414,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HATPase_c_5 (PF14501)
+"GHKL domain"</title>
+				<polygon class="PF14501" points="375,40 381,34 381,46" stroke-linejoin="round" width="9" height="24" fill="rgb(187,81,89)" stroke="rgb(149,64,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg42_23)</title>
+			<polygon class=" (ctg42_23)" points="415,40 435,10 435,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LytTR (PF04397)
+"LytTr DNA-binding domain"</title>
+				<polygon class="PF04397" points="419,40 423,34 423,46" stroke-linejoin="round" width="8" height="24" fill="rgb(154,92,215)" stroke="rgb(123,73,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="425,31 427,28 434,28 434,52 427,52 425,49" stroke-linejoin="round" width="9" height="24" fill="rgb(209,129,92)" stroke="rgb(167,103,73)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

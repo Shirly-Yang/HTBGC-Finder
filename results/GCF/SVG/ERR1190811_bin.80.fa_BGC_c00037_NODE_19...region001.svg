@@ -1,0 +1,175 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="660.3333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="650.3333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg37_1)</title>
+			<polygon class=" (ctg37_1)" points="13,40 23,10 23,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AzlD (PF05437)
+"Branched-chain amino acid transport protein (AzlD)"</title>
+				<polygon class="PF05437" points="16,40 20,28 22,28 22,52 20,52" stroke-linejoin="round" width="9" height="24" fill="rgb(48,67,186)" stroke="rgb(38,53,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg37_2)</title>
+			<polygon class=" (ctg37_2)" points="23,40 47,10 47,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AzlC (PF03591)
+"AzlC protein"</title>
+				<polygon class="PF03591" points="31,35 37,28 44,28 44,52 37,52 31,45" stroke-linejoin="round" width="13" height="24" fill="rgb(199,172,55)" stroke="rgb(159,137,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg37_3)</title>
+			<polygon class=" (ctg37_3)" points="56,10 66,40 56,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg37_4)</title>
+			<polygon class=" (ctg37_4)" points="68,10 95,40 68,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg37_5)</title>
+			<polygon class=" (ctg37_5)" points="103,10 116,40 103,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HATPase_c_2 (PF13581)
+"Histidine kinase-like ATPase domain"</title>
+				<polygon class="PF13581" points="103,28 107,28 113,40 107,52 103,52" stroke-linejoin="round" width="12" height="24" fill="rgb(86,155,224)" stroke="rgb(68,124,179)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg37_6)</title>
+			<polygon class=" (ctg37_6)" points="122,10 132,40 122,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>STAS (PF01740)
+"STAS domain"</title>
+				<polygon class="PF01740" points="122,28 124,28 129,40 124,52 122,52" stroke-linejoin="round" width="9" height="24" fill="rgb(190,159,84)" stroke="rgb(152,127,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg37_7)</title>
+			<polygon class=" (ctg37_7)" points="133,25 161,25 161,10 191,40 161,70 161,55 133,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MatE (PF01554)
+"MatE"</title>
+				<rect class="PF01554" x="135" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(220,99,114)" stroke="rgb(176,79,91)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MatE (PF01554)
+"MatE"</title>
+				<rect class="PF01554" x="158" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(220,99,114)" stroke="rgb(176,79,91)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HATPase_c_2 (PF13581)
+"Histidine kinase-like ATPase domain"</title>
+				<polygon class="PF13581" points="180,33 187,40 180,47" stroke-linejoin="round" width="11" height="24" fill="rgb(86,155,224)" stroke="rgb(68,124,179)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg37_8)</title>
+			<polygon class=" (ctg37_8)" points="192,25 406,25 406,10 436,40 406,70 406,55 192,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="193" y="28" stroke-linejoin="round" width="42" height="24" fill="rgb(55,186,48)" stroke="rgb(43,148,38)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="237" y="28" stroke-linejoin="round" width="38" height="24" fill="rgb(111,178,63)" stroke="rgb(88,142,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="287" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(191,92,64)" stroke="rgb(152,73,51)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="296" y="28" stroke-linejoin="round" width="42" height="24" fill="rgb(55,186,48)" stroke="rgb(43,148,38)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="340" y="28" stroke-linejoin="round" width="38" height="24" fill="rgb(111,178,63)" stroke="rgb(88,142,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="389" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(191,92,64)" stroke="rgb(152,73,51)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>NAD_binding_4 (PF07993)
+"Male sterility protein"</title>
+				<polygon class="PF07993" points="400,28 420,28 423,31 423,49 420,52 400,52" stroke-linejoin="round" width="23" height="24" fill="rgb(140,99,209)" stroke="rgb(112,79,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg37_9)</title>
+			<polygon class=" (ctg37_9)" points="457,10 480,40 457,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="457,28 467,28 468,29 468,51 467,52 457,52" stroke-linejoin="round" width="11" height="24" fill="rgb(209,129,92)" stroke="rgb(167,103,73)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LytTR (PF04397)
+"LytTr DNA-binding domain"</title>
+				<polygon class="PF04397" points="470,32 476,40 470,48" stroke-linejoin="round" width="9" height="24" fill="rgb(154,92,215)" stroke="rgb(123,73,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg37_10)</title>
+			<polygon class=" (ctg37_10)" points="481,25 493,25 493,10 523,40 493,70 493,55 481,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HATPase_c_5 (PF14501)
+"GHKL domain"</title>
+				<polygon class="PF14501" points="513,34 519,40 513,46" stroke-linejoin="round" width="9" height="24" fill="rgb(187,81,89)" stroke="rgb(149,64,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg37_11)</title>
+			<polygon class=" (ctg37_11)" points="523,40 540,10 540,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DNA_binding_1 (PF01035)
+"6-O-methylguanine DNA methyltransferase, DNA binding domain"</title>
+				<polygon class="PF01035" points="526,40 532,30 532,50" stroke-linejoin="round" width="8" height="24" fill="rgb(55,213,141)" stroke="rgb(44,170,112)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Methyltransf_1N (PF02870)
+"6-O-methylguanine DNA methyltransferase, ribonuclease-like domain"</title>
+				<polygon class="PF02870" points="533,28 533,28 540,28 540,52 533,52 533,52" stroke-linejoin="round" width="7" height="24" fill="rgb(86,150,227)" stroke="rgb(68,119,181)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg37_12)</title>
+			<polygon class=" (ctg37_12)" points="543,40 555,10 555,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg37_13)</title>
+			<polygon class=" (ctg37_13)" points="557,40 563,10 563,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TM2 (PF05154)
+"TM2 domain"</title>
+				<polygon class="PF05154" points="560,40 562,31 562,49" stroke-linejoin="round" width="4" height="24" fill="rgb(209,136,96)" stroke="rgb(167,108,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg37_14)</title>
+			<polygon class=" (ctg37_14)" points="625,25 599,25 599,10 569,40 599,70 599,55 625,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GTP_EFTU (PF00009)
+"Elongation factor Tu GTP binding domain"</title>
+				<rect class="PF00009" x="594" y="28" stroke-linejoin="round" width="31" height="24" fill="rgb(127,205,76)" stroke="rgb(101,164,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg37_15)</title>
+			<polygon class=" (ctg37_15)" points="625,40 649,10 649,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PAPS_reduct (PF01507)
+"Phosphoadenosine phosphosulfate reductase family"</title>
+				<polygon class="PF01507" points="629,40 639,28 648,28 648,52 639,52 629,40" stroke-linejoin="round" width="19" height="24" fill="rgb(69,187,179)" stroke="rgb(55,149,143)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

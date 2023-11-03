@@ -1,0 +1,25 @@
+100.00	133	0	R	1	root
+100.00	133	0	R1	131567	  cellular organisms
+100.00	133	6	D	2	    Bacteria
+ 94.74	126	0	D1	1783270	      FCB group
+ 94.74	126	0	D2	68336	        Bacteroidetes/Chlorobi group
+ 94.74	126	0	P	976	          Bacteroidetes
+ 94.74	126	0	C	200643	            Bacteroidia
+ 94.74	126	2	O	171549	              Bacteroidales
+ 93.23	124	0	F	171550	                Rikenellaceae
+ 93.23	124	28	G	239759	                  Alistipes
+ 61.65	82	0	S	214856	                    Alistipes finegoldii
+ 61.65	82	82	S1	679935	                      Alistipes finegoldii DSM 17242
+  3.76	5	0	S	328813	                    Alistipes onderdonkii
+  3.76	5	5	S1	2585117	                      Alistipes onderdonkii subsp. vulgaris
+  2.26	3	3	S	2585118	                    Alistipes communis
+  1.50	2	0	S	328814	                    Alistipes shahii
+  1.50	2	2	S1	717959	                      Alistipes shahii WAL 8301
+  1.50	2	2	S	2364787	                    Alistipes megaguti
+  1.50	2	2	S	2585119	                    Alistipes dispar
+  0.75	1	0	P	1224	      Proteobacteria
+  0.75	1	0	C	1236	        Gammaproteobacteria
+  0.75	1	0	O	135614	          Xanthomonadales
+  0.75	1	0	F	32033	            Xanthomonadaceae
+  0.75	1	0	G	338	              Xanthomonas
+  0.75	1	1	S	339	                Xanthomonas campestris

@@ -1,0 +1,21 @@
+#                                                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Peptidase_C26        PF07722.15   217 ERR1190811_bin.51.fa_BGC_c00125_NODE_66...region001_ORF1:gid::pid::loc:2:680:strand:+ -            225   2.7e-25   89.5   0.1   1   2   9.5e-09   9.1e-05   22.4   0.1    94   120    69    95    67    98 0.90 Peptidase C26
+Peptidase_C26        PF07722.15   217 ERR1190811_bin.51.fa_BGC_c00125_NODE_66...region001_ORF1:gid::pid::loc:2:680:strand:+ -            225   2.7e-25   89.5   0.1   2   2   1.6e-17   1.5e-13   51.1   0.0   139   217   137   212   117   212 0.90 Peptidase C26
+GATase               PF00117.30   191 ERR1190811_bin.51.fa_BGC_c00125_NODE_66...region001_ORF1:gid::pid::loc:2:680:strand:+ -            225   6.4e-15   55.5   0.0   1   1   1.1e-18     1e-14   54.8   0.0    57   176    66   215    30   222 0.76 Glutamine amidotransferase class-I
+PqqD                 PF05402.14    67 ERR1190811_bin.51.fa_BGC_c00125_NODE_66...region001_ORF3:gid::pid::loc:1824:2091:strand:+ -             88   1.5e-15   57.3   0.1   1   1     1e-19   1.9e-15   57.0   0.1     4    66    18    85    15    86 0.89 Coenzyme PQQ synthesis protein D (PqqD)
+NTP_transf_5         PF14907.8    250 ERR1190811_bin.51.fa_BGC_c00125_NODE_66...region001_ORF5:gid::pid::loc:2609:3575:strand:+ -            321     1e-39  136.7   0.4   1   1   6.7e-44   1.3e-39  136.3   0.4    10   250    40   272    35   272 0.88 Uncharacterised nucleotidyltransferase
+Polysacc_synt_2      PF02719.17   294 ERR1190811_bin.51.fa_BGC_c00125_NODE_66...region001_ORF6:gid::pid::loc:3550:4474:strand:+ -            307   7.7e-72  242.0   0.0   1   1   1.7e-75   3.3e-71  239.9   0.0   114   287     5   205     1   211 0.96 Polysaccharide biosynthesis protein
+Peptidase_M3         PF01432.22   458 ERR1190811_bin.51.fa_BGC_c00125_NODE_66...region001_ORF7:gid::pid::loc:4569:6288:strand:- -            572   1.3e-19   70.9   9.7   1   2   7.3e-09   0.00014   21.4   0.0     4   110   171   272   169   282 0.91 Peptidase family M3
+Peptidase_M3         PF01432.22   458 ERR1190811_bin.51.fa_BGC_c00125_NODE_66...region001_ORF7:gid::pid::loc:4569:6288:strand:- -            572   1.3e-19   70.9   9.7   2   2     2e-17   3.9e-13   49.6   7.3   187   450   316   547   291   554 0.83 Peptidase family M3
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut/Sample/SAMEA3708737/results/GCF/cache/fasta/ERR1190811_bin.51.fa_BGC_c00125_NODE_66...region001.fasta
+# Target file:     /mnt/nfs/5110v5/Server_27_backup/yangxiao_new/miniconda2/envs/bigscape/lib/python3.7/site-packages/antismash/databases/pfam/34.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut/Sample/SAMEA3708737/results/GCF/cache/domtable/ERR1190811_bin.51.fa_BGC_c00125_NODE_66...region001.domtable --cut_tc --cpu 0 /mnt/nfs/5110v5/Server_27_backup/yangxiao_new/miniconda2/envs/bigscape/lib/python3.7/site-packages/antismash/databases/pfam/34.0/Pfam-A.hmm /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut/Sample/SAMEA3708737/results/GCF/cache/fasta/ERR1190811_bin.51.fa_BGC_c00125_NODE_66...region001.fasta 
+# Current dir:     /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut
+# Date:            Sun Jun 18 02:48:48 2023
+# [ok]

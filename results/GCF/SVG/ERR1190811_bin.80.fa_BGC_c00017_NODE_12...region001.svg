@@ -1,0 +1,197 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="638.5333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="628.5333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg17_1)</title>
+			<polygon class=" (ctg17_1)" points="10,40 29,10 29,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Wzy_C (PF04932)
+"O-Antigen ligase"</title>
+				<polygon class="PF04932" points="14,40 22,28 27,28 27,52 22,52" stroke-linejoin="round" width="17" height="24" fill="rgb(66,203,118)" stroke="rgb(52,162,94)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg17_2)</title>
+			<polygon class=" (ctg17_2)" points="29,10 39,40 29,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg17_3)</title>
+			<polygon class=" (ctg17_3)" points="49,40 71,10 71,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Bac_transf (PF02397)
+"Bacterial sugar transferase"</title>
+				<polygon class="PF02397" points="53,40 62,28 68,28 68,52 62,52" stroke-linejoin="round" width="19" height="24" fill="rgb(76,226,203)" stroke="rgb(60,180,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg17_4)</title>
+			<polygon class=" (ctg17_4)" points="88,10 97,40 88,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1292 (PF06949)
+"Protein of unknown function (DUF1292)"</title>
+				<polygon class="PF06949" points="89,28 90,28 94,40 90,52 89,52" stroke-linejoin="round" width="7" height="24" fill="rgb(114,194,49)" stroke="rgb(91,155,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg17_5)</title>
+			<polygon class=" (ctg17_5)" points="108,25 110,25 110,10 140,40 110,70 110,55 108,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NAD_Gly3P_dh_N (PF01210)
+"NAD-dependent glycerol-3-phosphate dehydrogenase N-terminus"</title>
+				<rect class="PF01210" x="108" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(62,138,228)" stroke="rgb(49,110,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>NAD_Gly3P_dh_C (PF07479)
+"NAD-dependent glycerol-3-phosphate dehydrogenase C-terminus"</title>
+				<polygon class="PF07479" points="125,30 135,40 125,50" stroke-linejoin="round" width="13" height="24" fill="rgb(214,158,98)" stroke="rgb(171,126,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg17_6)</title>
+			<polygon class=" (ctg17_6)" points="140,25 166,25 166,10 196,40 166,70 166,55 140,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PMT_2 (PF13231)
+"Dolichyl-phosphate-mannose-protein mannosyltransferase"</title>
+				<rect class="PF13231" x="157" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(54,76,195)" stroke="rgb(43,60,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg17_7)</title>
+			<polygon class=" (ctg17_7)" points="197,40 225,10 225,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DegV (PF02645)
+"Uncharacterised protein, DegV family COG1307"</title>
+				<polygon class="PF02645" points="201,40 213,28 224,28 224,52 213,52" stroke-linejoin="round" width="27" height="24" fill="rgb(193,71,74)" stroke="rgb(154,56,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg17_8)</title>
+			<polygon class=" (ctg17_8)" points="270,25 260,25 260,10 230,40 260,70 260,55 270,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NTP_transf_5 (PF14907)
+"Uncharacterised nucleotidyltransferase"</title>
+				<polygon class="PF14907" points="243,31 246,28 267,28 267,52 246,52 243,49" stroke-linejoin="round" width="24" height="24" fill="rgb(193,150,83)" stroke="rgb(154,120,66)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg17_9)</title>
+			<polygon class=" (ctg17_9)" points="270,40 286,10 286,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg17_10)</title>
+			<polygon class=" (ctg17_10)" points="286,40 294,10 294,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PqqD (PF05402)
+"Coenzyme PQQ synthesis protein D (PqqD)"</title>
+				<polygon class="PF05402" points="289,40 293,28 293,28 293,52 293,52" stroke-linejoin="round" width="7" height="24" fill="rgb(218,64,155)" stroke="rgb(174,51,124)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg17_11)</title>
+			<polygon class=" (ctg17_11)" points="354,25 330,25 330,10 300,40 330,70 330,55 354,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cpn60_TCP1 (PF00118)
+"TCP-1/cpn60 chaperonin family"</title>
+				<polygon class="PF00118" points="304,40 316,28 351,28 351,52 316,52" stroke-linejoin="round" width="50" height="24" fill="rgb(49,190,162)" stroke="rgb(39,152,129)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg17_12)</title>
+			<polygon class=" (ctg17_12)" points="355,40 364,10 364,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cpn10 (PF00166)
+"Chaperonin 10 Kd subunit"</title>
+				<polygon class="PF00166" points="358,40 362,28 364,28 364,52 362,52" stroke-linejoin="round" width="9" height="24" fill="rgb(196,63,71)" stroke="rgb(156,50,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg17_13)</title>
+			<polygon class=" (ctg17_13)" points="427,25 403,25 403,10 373,40 403,70 403,55 427,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PASTA (PF03793)
+"PASTA domain"</title>
+				<polygon class="PF03793" points="377,40 380,37 380,43" stroke-linejoin="round" width="6" height="24" fill="rgb(225,102,119)" stroke="rgb(180,81,95)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PASTA (PF03793)
+"PASTA domain"</title>
+				<polygon class="PF03793" points="381,36 387,30 387,50 381,44" stroke-linejoin="round" width="6" height="24" fill="rgb(225,102,119)" stroke="rgb(180,81,95)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Pkinase (PF00069)
+"Protein kinase domain"</title>
+				<rect class="PF00069" x="393" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(213,112,90)" stroke="rgb(170,89,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg17_14)</title>
+			<polygon class=" (ctg17_14)" points="438,40 459,10 459,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TPK_B1_binding (PF04265)
+"Thiamin pyrophosphokinase, vitamin B1 binding domain"</title>
+				<polygon class="PF04265" points="442,40 446,34 446,46" stroke-linejoin="round" width="7" height="24" fill="rgb(191,124,58)" stroke="rgb(152,99,46)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPK_catalytic (PF04263)
+"Thiamin pyrophosphokinase, catalytic domain"</title>
+				<polygon class="PF04263" points="446,34 450,28 456,28 456,52 450,52 446,46" stroke-linejoin="round" width="10" height="24" fill="rgb(64,148,225)" stroke="rgb(51,118,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg17_15)</title>
+			<polygon class=" (ctg17_15)" points="459,40 487,10 487,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RsgA_GTPase (PF03193)
+"RsgA GTPase"</title>
+				<polygon class="PF03193" points="466,37 475,28 482,28 482,52 475,52 466,43" stroke-linejoin="round" width="16" height="24" fill="rgb(159,186,62)" stroke="rgb(127,148,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>RsgA_N (PF16745)
+"RsgA N-terminal domain"</title>
+				<rect class="PF16745" x="482" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(196,57,212)" stroke="rgb(156,45,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg17_16)</title>
+			<polygon class=" (ctg17_16)" points="559,25 519,25 519,10 489,40 519,70 519,55 559,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PASTA (PF03793)
+"PASTA domain"</title>
+				<polygon class="PF03793" points="501,32 505,28 507,28 507,52 505,52 501,48" stroke-linejoin="round" width="6" height="24" fill="rgb(225,102,119)" stroke="rgb(180,81,95)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PASTA (PF03793)
+"PASTA domain"</title>
+				<rect class="PF03793" x="508" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(225,102,119)" stroke="rgb(180,81,95)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PASTA (PF03793)
+"PASTA domain"</title>
+				<rect class="PF03793" x="515" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(225,102,119)" stroke="rgb(180,81,95)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Pkinase (PF00069)
+"Protein kinase domain"</title>
+				<rect class="PF00069" x="532" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(213,112,90)" stroke="rgb(170,89,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg17_17)</title>
+			<polygon class=" (ctg17_17)" points="560,40 584,10 584,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP2C_2 (PF13672)
+"Protein phosphatase 2C"</title>
+				<polygon class="PF13672" points="564,40 574,28 582,28 582,52 574,52" stroke-linejoin="round" width="21" height="24" fill="rgb(54,81,198)" stroke="rgb(43,64,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg17_18)</title>
+			<polygon class=" (ctg17_18)" points="617,25 614,25 614,10 584,40 614,70 614,55 617,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<polygon class="PF04055" points="591,37 600,28 607,28 607,52 600,52 591,43" stroke-linejoin="round" width="16" height="24" fill="rgb(184,71,96)" stroke="rgb(147,56,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

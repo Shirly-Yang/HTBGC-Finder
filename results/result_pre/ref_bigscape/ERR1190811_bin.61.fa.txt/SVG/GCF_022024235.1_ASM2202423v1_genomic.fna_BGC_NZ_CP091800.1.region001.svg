@@ -1,0 +1,163 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="823.3666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="813.3666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg2_535)</title>
+			<polygon class=" (ctg2_535)" points="57,10 62,40 57,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2_536)</title>
+			<polygon class=" (ctg2_536)" points="65,10 90,40 65,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Porph_ging (PF09697)
+"Protein of unknown function (Porph_ging)"</title>
+				<polygon class="PF09697" points="80,33 83,36 83,44 80,47" stroke-linejoin="round" width="3" height="24" fill="rgb(213,82,211)" stroke="rgb(170,65,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_537)</title>
+			<polygon class=" (ctg2_537)" points="90,25 145,25 145,10 175,40 145,70 145,55 90,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2_538)</title>
+			<polygon class=" (ctg2_538)" points="177,25 219,25 219,10 249,40 219,70 219,55 177,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_C39 (PF03412)
+"Peptidase C39 family"</title>
+				<rect class="PF03412" x="177" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(74,164,188)" stroke="rgb(59,131,150)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="193" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(125,63,227)" stroke="rgb(99,50,181)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="226,28 233,28 240,35 240,45 233,52 226,52" stroke-linejoin="round" width="14" height="24" fill="rgb(63,205,104)" stroke="rgb(50,164,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_539)</title>
+			<polygon class=" (ctg2_539)" points="252,10 267,40 252,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2_540)</title>
+			<polygon class=" (ctg2_540)" points="270,25 293,25 293,10 323,40 293,70 293,55 270,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2_541)</title>
+			<polygon class=" (ctg2_541)" points="329,10 340,40 329,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF3244 (PF11589)
+"Domain of unknown function (DUF3244)"</title>
+				<polygon class="PF11589" points="330,28 332,28 337,40 332,52 330,52" stroke-linejoin="round" width="10" height="24" fill="rgb(206,57,68)" stroke="rgb(164,45,54)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_542)</title>
+			<polygon class=" (ctg2_542)" points="343,25 355,25 355,10 385,40 355,70 355,55 343,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<rect class="PF04055" x="351" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(184,71,96)" stroke="rgb(147,56,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_543)</title>
+			<polygon class=" (ctg2_543)" points="386,10 393,40 386,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2_544)</title>
+			<polygon class=" (ctg2_544)" points="395,25 432,25 432,10 462,40 432,70 432,55 395,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2_545)</title>
+			<polygon class=" (ctg2_545)" points="471,40 480,10 480,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PqqD (PF05402)
+"Coenzyme PQQ synthesis protein D (PqqD)"</title>
+				<polygon class="PF05402" points="474,40 478,28 478,28 478,52 478,52" stroke-linejoin="round" width="7" height="24" fill="rgb(218,64,155)" stroke="rgb(174,51,124)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_546)</title>
+			<polygon class=" (ctg2_546)" points="479,40 493,10 493,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_S24 (PF00717)
+"Peptidase S24-like"</title>
+				<polygon class="PF00717" points="483,38 488,28 493,28 493,52 488,52 483,42" stroke-linejoin="round" width="10" height="24" fill="rgb(212,82,60)" stroke="rgb(169,65,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_547)</title>
+			<polygon class=" (ctg2_547)" points="493,40 521,10 521,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2_548)</title>
+			<polygon class=" (ctg2_548)" points="558,25 552,25 552,10 522,40 552,70 552,55 558,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NTP_transf_5 (PF14907)
+"Uncharacterised nucleotidyltransferase"</title>
+				<polygon class="PF14907" points="531,35 538,28 555,28 555,52 538,52 531,45" stroke-linejoin="round" width="24" height="24" fill="rgb(193,150,83)" stroke="rgb(154,120,66)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_549)</title>
+			<polygon class=" (ctg2_549)" points="561,40 579,10 579,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2_550)</title>
+			<polygon class=" (ctg2_550)" points="592,10 607,40 592,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2_551)</title>
+			<polygon class=" (ctg2_551)" points="607,10 626,40 607,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sigma70_r2 (PF04542)
+"Sigma-70 region 2"</title>
+				<polygon class="PF04542" points="610,28 615,28 617,32 617,48 615,52 610,52" stroke-linejoin="round" width="7" height="24" fill="rgb(89,63,196)" stroke="rgb(71,50,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sigma70_r4 (PF04545)
+"Sigma-70, region 4"</title>
+				<polygon class="PF04545" points="620,36 622,40 620,44" stroke-linejoin="round" width="4" height="24" fill="rgb(190,171,50)" stroke="rgb(152,136,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_552)</title>
+			<polygon class=" (ctg2_552)" points="626,10 648,40 626,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2_553)</title>
+			<polygon class=" (ctg2_553)" points="648,25 703,25 703,10 733,40 703,70 703,55 648,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OMP_b-brl_3 (PF14905)
+"Outer membrane protein beta-barrel family"</title>
+				<polygon class="PF14905" points="692,28 717,28 729,40 717,52 692,52" stroke-linejoin="round" width="38" height="24" fill="rgb(195,147,52)" stroke="rgb(156,117,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_554)</title>
+			<polygon class=" (ctg2_554)" points="739,10 762,40 739,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4840 (PF16128)
+"Domain of unknown function (DUF4840)"</title>
+				<polygon class="PF16128" points="743,28 749,28 758,40 758,40 749,52 743,52" stroke-linejoin="round" width="15" height="24" fill="rgb(170,51,181)" stroke="rgb(136,40,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_555)</title>
+			<polygon class=" (ctg2_555)" points="762,10 771,40 762,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2_556)</title>
+			<polygon class=" (ctg2_556)" points="777,40 797,10 797,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RloB (PF13707)
+"RloB-like protein"</title>
+				<polygon class="PF13707" points="781,40 789,28 796,28 796,52 789,52" stroke-linejoin="round" width="19" height="24" fill="rgb(181,73,180)" stroke="rgb(144,58,143)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

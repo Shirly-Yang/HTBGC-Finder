@@ -1,0 +1,112 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="526.9666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="516.9666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg5_1)</title>
+			<polygon class=" (ctg5_1)" points="15,40 38,10 38,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg5_2)</title>
+			<polygon class=" (ctg5_2)" points="108,25 69,25 69,10 39,40 69,70 69,55 108,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg5_3)</title>
+			<polygon class=" (ctg5_3)" points="147,25 138,25 138,10 108,40 138,70 138,55 147,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg5_4)</title>
+			<polygon class=" (ctg5_4)" points="149,40 162,10 162,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg5_5)</title>
+			<polygon class=" (ctg5_5)" points="164,40 182,10 182,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AgrB (PF04647)
+"Accessory gene regulator B"</title>
+				<polygon class="PF04647" points="168,40 176,28 181,28 181,52 176,52" stroke-linejoin="round" width="17" height="24" fill="rgb(67,227,212)" stroke="rgb(53,181,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_6)</title>
+			<polygon class=" (ctg5_6)" points="194,10 217,40 194,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="194,28 204,28 205,29 205,51 204,52 194,52" stroke-linejoin="round" width="11" height="24" fill="rgb(209,129,92)" stroke="rgb(167,103,73)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LytTR (PF04397)
+"LytTr DNA-binding domain"</title>
+				<polygon class="PF04397" points="207,32 213,40 207,48" stroke-linejoin="round" width="9" height="24" fill="rgb(154,92,215)" stroke="rgb(123,73,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_7)</title>
+			<polygon class=" (ctg5_7)" points="218,25 231,25 231,10 261,40 231,70 231,55 218,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HATPase_c_5 (PF14501)
+"GHKL domain"</title>
+				<polygon class="PF14501" points="250,33 257,40 250,47" stroke-linejoin="round" width="10" height="24" fill="rgb(187,81,89)" stroke="rgb(149,64,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_8)</title>
+			<polygon class=" (ctg5_8)" points="303,25 292,25 292,10 262,40 292,70 292,55 303,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AAA_14 (PF13173)
+"AAA domain"</title>
+				<rect class="PF13173" x="287" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(84,216,70)" stroke="rgb(67,172,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_9)</title>
+			<polygon class=" (ctg5_9)" points="307,40 326,10 326,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HD_3 (PF13023)
+"HD domain"</title>
+				<polygon class="PF13023" points="311,40 319,28 325,28 325,52 319,52" stroke-linejoin="round" width="16" height="24" fill="rgb(195,88,98)" stroke="rgb(156,70,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_10)</title>
+			<polygon class=" (ctg5_10)" points="375,25 358,25 358,10 328,40 358,70 358,55 375,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TP_methylase (PF00590)
+"Tetrapyrrole (Corrin/Porphyrin) Methylases"</title>
+				<polygon class="PF00590" points="332,40 344,28 351,28 351,52 344,52" stroke-linejoin="round" width="21" height="24" fill="rgb(73,199,57)" stroke="rgb(58,159,45)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>NAD_binding_7 (PF13241)
+"Putative NAD(P)-binding"</title>
+				<rect class="PF13241" x="362" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(51,194,64)" stroke="rgb(40,155,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_11)</title>
+			<polygon class=" (ctg5_11)" points="436,25 418,25 418,10 388,40 418,70 418,55 436,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GATase_7 (PF13537)
+"Glutamine amidotransferase domain"</title>
+				<rect class="PF13537" x="413" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(217,57,109)" stroke="rgb(173,45,87)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_12)</title>
+			<polygon class=" (ctg5_12)" points="437,40 466,10 466,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SAICAR_synt (PF01259)
+"SAICAR synthetase"</title>
+				<polygon class="PF01259" points="441,40 453,28 465,28 465,52 453,52" stroke-linejoin="round" width="25" height="24" fill="rgb(165,89,180)" stroke="rgb(132,71,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_13)</title>
+			<polygon class=" (ctg5_13)" points="475,10 487,40 475,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PilZ (PF07238)
+"PilZ domain"</title>
+				<polygon class="PF07238" points="475,28 478,28 484,40 478,52 475,52" stroke-linejoin="round" width="10" height="24" fill="rgb(65,146,209)" stroke="rgb(52,116,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

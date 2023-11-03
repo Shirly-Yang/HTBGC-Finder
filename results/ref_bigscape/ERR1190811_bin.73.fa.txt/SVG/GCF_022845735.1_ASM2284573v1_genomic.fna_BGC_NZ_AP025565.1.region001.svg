@@ -1,0 +1,169 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="609.9666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="599.9666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg1_1003)</title>
+			<polygon class=" (ctg1_1003)" points="10,25 33,25 33,10 63,40 33,70 33,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>zf-ISL3 (PF14690)
+"zinc-finger of transposase IS204/IS1001/IS1096/IS1165"</title>
+				<rect class="PF14690" x="16" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(186,72,124)" stroke="rgb(148,57,99)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_Tnp_ISL3 (PF13542)
+"Helix-turn-helix domain of transposase family ISL3"</title>
+				<rect class="PF13542" x="21" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(87,125,205)" stroke="rgb(69,100,164)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DDE_Tnp_ISL3 (PF01610)
+"Transposase"</title>
+				<polygon class="PF01610" points="28,28 46,28 58,40 58,40 46,52 28,52" stroke-linejoin="round" width="30" height="24" fill="rgb(114,51,192)" stroke="rgb(91,40,153)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_1004)</title>
+			<polygon class=" (ctg1_1004)" points="62,10 70,40 62,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_1005)</title>
+			<polygon class=" (ctg1_1005)" points="130,25 108,25 108,10 78,40 108,70 108,55 130,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="83,39 94,28 98,28 98,52 94,52 83,41" stroke-linejoin="round" width="15" height="24" fill="rgb(63,205,104)" stroke="rgb(50,164,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_1006)</title>
+			<polygon class=" (ctg1_1006)" points="135,40 144,10 144,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_1007)</title>
+			<polygon class=" (ctg1_1007)" points="219,25 178,25 178,10 148,40 178,70 178,55 219,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<rect class="PF04055" x="200" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(184,71,96)" stroke="rgb(147,56,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_1008)</title>
+			<polygon class=" (ctg1_1008)" points="226,40 232,10 232,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_1009)</title>
+			<polygon class=" (ctg1_1009)" points="235,40 243,10 243,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_1010)</title>
+			<polygon class=" (ctg1_1010)" points="259,10 270,40 259,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_3 (PF01381)
+"Helix-turn-helix"</title>
+				<polygon class="PF01381" points="260,28 262,28 265,35 265,45 262,52 260,52" stroke-linejoin="round" width="5" height="24" fill="rgb(219,185,98)" stroke="rgb(175,148,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_1011)</title>
+			<polygon class=" (ctg1_1011)" points="272,10 295,40 272,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="272,28 282,28 283,30 283,50 282,52 272,52" stroke-linejoin="round" width="11" height="24" fill="rgb(209,129,92)" stroke="rgb(167,103,73)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LytTR (PF04397)
+"LytTr DNA-binding domain"</title>
+				<polygon class="PF04397" points="285,32 291,40 285,48" stroke-linejoin="round" width="9" height="24" fill="rgb(154,92,215)" stroke="rgb(123,73,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_1012)</title>
+			<polygon class=" (ctg1_1012)" points="295,25 304,25 304,10 334,40 304,70 304,55 295,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_1013)</title>
+			<polygon class=" (ctg1_1013)" points="335,10 352,40 335,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AgrB (PF04647)
+"Accessory gene regulator B"</title>
+				<polygon class="PF04647" points="335,28 341,28 349,40 341,52 335,52" stroke-linejoin="round" width="16" height="24" fill="rgb(67,227,212)" stroke="rgb(53,181,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_1014)</title>
+			<polygon class=" (ctg1_1014)" points="355,10 358,40 355,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_1015)</title>
+			<polygon class=" (ctg1_1015)" points="365,10 380,40 365,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_1016)</title>
+			<polygon class=" (ctg1_1016)" points="396,10 406,40 396,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_1017)</title>
+			<polygon class=" (ctg1_1017)" points="409,25 410,25 410,10 440,40 410,70 410,55 409,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_1018)</title>
+			<polygon class=" (ctg1_1018)" points="443,25 569,25 569,10 599,40 569,70 569,55 443,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SpaA (PF17802)
+"Prealbumin-like fold domain"</title>
+				<rect class="PF17802" x="471" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(54,139,201)" stroke="rgb(43,111,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SpaA (PF17802)
+"Prealbumin-like fold domain"</title>
+				<rect class="PF17802" x="480" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(54,139,201)" stroke="rgb(43,111,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SpaA (PF17802)
+"Prealbumin-like fold domain"</title>
+				<rect class="PF17802" x="490" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(54,139,201)" stroke="rgb(43,111,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SpaA (PF17802)
+"Prealbumin-like fold domain"</title>
+				<rect class="PF17802" x="501" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(54,139,201)" stroke="rgb(43,111,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SpaA (PF17802)
+"Prealbumin-like fold domain"</title>
+				<rect class="PF17802" x="511" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(54,139,201)" stroke="rgb(43,111,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SpaA (PF17802)
+"Prealbumin-like fold domain"</title>
+				<rect class="PF17802" x="525" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(54,139,201)" stroke="rgb(43,111,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SpaA (PF17802)
+"Prealbumin-like fold domain"</title>
+				<rect class="PF17802" x="547" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(54,139,201)" stroke="rgb(43,111,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SpaA (PF17802)
+"Prealbumin-like fold domain"</title>
+				<rect class="PF17802" x="557" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(54,139,201)" stroke="rgb(43,111,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SpaA (PF17802)
+"Prealbumin-like fold domain"</title>
+				<rect class="PF17802" x="569" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(54,139,201)" stroke="rgb(43,111,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SpaA (PF17802)
+"Prealbumin-like fold domain"</title>
+				<polygon class="PF17802" points="578,28 583,28 584,29 584,51 583,52 578,52" stroke-linejoin="round" width="6" height="24" fill="rgb(54,139,201)" stroke="rgb(43,111,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SpaA (PF17802)
+"Prealbumin-like fold domain"</title>
+				<polygon class="PF17802" points="587,32 593,38 593,42 587,48" stroke-linejoin="round" width="6" height="24" fill="rgb(54,139,201)" stroke="rgb(43,111,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

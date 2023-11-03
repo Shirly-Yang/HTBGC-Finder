@@ -1,0 +1,156 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="695.5666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="685.5666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg1_48)</title>
+			<polygon class=" (ctg1_48)" points="58,25 107,25 107,10 137,40 107,70 107,55 58,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Omp85 (PF01103)
+"Omp85 superfamily domain"</title>
+				<polygon class="PF01103" points="96,28 121,28 133,40 121,52 96,52" stroke-linejoin="round" width="41" height="24" fill="rgb(226,174,59)" stroke="rgb(180,139,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_49)</title>
+			<polygon class=" (ctg1_49)" points="144,25 144,25 144,10 174,40 144,70 144,55 144,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_50)</title>
+			<polygon class=" (ctg1_50)" points="175,25 179,25 179,10 209,40 179,70 179,55 175,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DHH (PF01368)
+"DHH family"</title>
+				<rect class="PF01368" x="177" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(81,73,191)" stroke="rgb(64,58,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_51)</title>
+			<polygon class=" (ctg1_51)" points="215,10 238,40 215,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4827 (PF16109)
+"Domain of unknown function (DUF4827)"</title>
+				<polygon class="PF16109" points="216,28 225,28 234,40 225,52 216,52" stroke-linejoin="round" width="20" height="24" fill="rgb(203,152,86)" stroke="rgb(162,121,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_52)</title>
+			<polygon class=" (ctg1_52)" points="239,25 255,25 255,10 285,40 255,70 255,55 239,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PGM_PMM_I (PF02878)
+"Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain I"</title>
+				<rect class="PF02878" x="239" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(214,82,65)" stroke="rgb(171,65,52)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PGM_PMM_II (PF02879)
+"Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain II"</title>
+				<rect class="PF02879" x="255" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(178,184,57)" stroke="rgb(142,147,45)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PGM_PMM_III (PF02880)
+"Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain III"</title>
+				<polygon class="PF02880" points="265,28 269,28 276,35 276,45 269,52 265,52" stroke-linejoin="round" width="11" height="24" fill="rgb(121,218,81)" stroke="rgb(96,174,64)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PGM_PMM_IV (PF00408)
+"Phosphoglucomutase/phosphomannomutase, C-terminal domain"</title>
+				<polygon class="PF00408" points="277,36 281,40 277,44" stroke-linejoin="round" width="7" height="24" fill="rgb(87,145,209)" stroke="rgb(69,116,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_53)</title>
+			<polygon class=" (ctg1_53)" points="294,25 294,25 294,10 324,40 294,70 294,55 294,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_54)</title>
+			<polygon class=" (ctg1_54)" points="326,10 342,40 326,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_55)</title>
+			<polygon class=" (ctg1_55)" points="343,10 351,40 343,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PqqD (PF05402)
+"Coenzyme PQQ synthesis protein D (PqqD)"</title>
+				<polygon class="PF05402" points="344,28 344,28 348,40 344,52 344,52" stroke-linejoin="round" width="7" height="24" fill="rgb(218,64,155)" stroke="rgb(174,51,124)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_56)</title>
+			<polygon class=" (ctg1_56)" points="352,25 377,25 377,10 407,40 377,70 377,55 352,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="353" y="28" stroke-linejoin="round" width="28" height="24" fill="rgb(125,63,227)" stroke="rgb(99,50,181)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="388,28 391,28 402,39 402,41 391,52 388,52" stroke-linejoin="round" width="14" height="24" fill="rgb(63,205,104)" stroke="rgb(50,164,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_57)</title>
+			<polygon class=" (ctg1_57)" points="407,10 411,40 407,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_58)</title>
+			<polygon class=" (ctg1_58)" points="467,25 442,25 442,10 412,40 442,70 442,55 467,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Fumerase_C (PF05683)
+"Fumarase C-terminus"</title>
+				<polygon class="PF05683" points="416,40 428,28 433,28 433,52 428,52" stroke-linejoin="round" width="20" height="24" fill="rgb(157,67,196)" stroke="rgb(125,53,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Fumerase (PF05681)
+"Fumarate hydratase (Fumerase)"</title>
+				<rect class="PF05681" x="434" y="28" stroke-linejoin="round" width="28" height="24" fill="rgb(217,102,209)" stroke="rgb(173,81,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_59)</title>
+			<polygon class=" (ctg1_59)" points="530,25 499,25 499,10 469,40 499,70 499,55 530,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4954 (PF16314)
+"Domain of unknown function (DUF4954)"</title>
+				<polygon class="PF16314" points="473,40 485,28 529,28 529,52 485,52" stroke-linejoin="round" width="59" height="24" fill="rgb(77,86,223)" stroke="rgb(61,68,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_60)</title>
+			<polygon class=" (ctg1_60)" points="573,25 562,25 562,10 532,40 562,70 562,55 573,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MMR_HSR1 (PF01926)
+"50S ribosome-binding GTPase"</title>
+				<polygon class="PF01926" points="540,36 548,28 551,28 551,52 548,52 540,44" stroke-linejoin="round" width="11" height="24" fill="rgb(88,66,216)" stroke="rgb(70,52,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GTP-bdg_M (PF16360)
+"GTP-binding GTPase Middle Region"</title>
+				<rect class="PF16360" x="552" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(220,100,115)" stroke="rgb(176,80,92)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GTP-bdg_N (PF13167)
+"GTP-binding GTPase N-terminal"</title>
+				<rect class="PF13167" x="561" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(213,90,164)" stroke="rgb(170,72,131)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_61)</title>
+			<polygon class=" (ctg1_61)" points="594,25 630,25 630,10 660,40 630,70 630,55 594,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GH97_N (PF14508)
+"Glycosyl-hydrolase 97 N-terminal"</title>
+				<rect class="PF14508" x="596" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(81,184,64)" stroke="rgb(64,147,51)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glyco_hydro_97 (PF10566)
+"Glycoside hydrolase 97"</title>
+				<polygon class="PF10566" points="623,28 644,28 649,33 649,47 644,52 623,52" stroke-linejoin="round" width="26" height="24" fill="rgb(187,228,80)" stroke="rgb(149,182,64)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GH97_C (PF14509)
+"Glycosyl-hydrolase 97 C-terminal, oligomerisation"</title>
+				<polygon class="PF14509" points="650,34 656,40 650,46" stroke-linejoin="round" width="10" height="24" fill="rgb(69,186,172)" stroke="rgb(55,148,137)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,90 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="384.6333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="374.6333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg76_1)</title>
+			<polygon class=" (ctg76_1)" points="31,10 40,40 31,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PqqD (PF05402)
+"Coenzyme PQQ synthesis protein D (PqqD)"</title>
+				<polygon class="PF05402" points="32,28 33,28 37,40 33,52 32,52" stroke-linejoin="round" width="7" height="24" fill="rgb(218,64,155)" stroke="rgb(174,51,124)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg76_2)</title>
+			<polygon class=" (ctg76_2)" points="41,10 66,40 41,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg76_3)</title>
+			<polygon class=" (ctg76_3)" points="77,10 84,40 77,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg76_4)</title>
+			<polygon class=" (ctg76_4)" points="89,40 111,10 111,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TrkA_C (PF02080)
+"TrkA-C domain"</title>
+				<polygon class="PF02080" points="93,40 95,37 95,43" stroke-linejoin="round" width="6" height="24" fill="rgb(172,104,228)" stroke="rgb(137,83,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TrkA_N (PF02254)
+"TrkA-N domain"</title>
+				<polygon class="PF02254" points="98,33 102,28 109,28 109,52 102,52 98,47" stroke-linejoin="round" width="11" height="24" fill="rgb(125,206,100)" stroke="rgb(100,164,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg76_5)</title>
+			<polygon class=" (ctg76_5)" points="163,25 143,25 143,10 113,40 143,70 143,55 163,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TrkH (PF02386)
+"Cation transport protein"</title>
+				<polygon class="PF02386" points="117,40 129,28 155,28 155,52 129,52" stroke-linejoin="round" width="42" height="24" fill="rgb(204,130,83)" stroke="rgb(163,104,66)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg76_6)</title>
+			<polygon class=" (ctg76_6)" points="163,25 172,25 172,10 202,40 172,70 172,55 163,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amidohydro_3 (PF07969)
+"Amidohydrolase family"</title>
+				<polygon class="PF07969" points="167,28 186,28 198,40 186,52 167,52" stroke-linejoin="round" width="35" height="24" fill="rgb(188,196,79)" stroke="rgb(150,156,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg76_7)</title>
+			<polygon class=" (ctg76_7)" points="204,10 214,40 204,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amidohydro_3 (PF07969)
+"Amidohydrolase family"</title>
+				<polygon class="PF07969" points="204,28 206,28 211,40 206,52 204,52" stroke-linejoin="round" width="8" height="24" fill="rgb(188,196,79)" stroke="rgb(150,156,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg76_8)</title>
+			<polygon class=" (ctg76_8)" points="215,25 217,25 217,10 247,40 217,70 217,55 215,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Beta-lactamase (PF00144)
+"Beta-lactamase"</title>
+				<polygon class="PF00144" points="216,28 231,28 243,40 231,52 216,52" stroke-linejoin="round" width="29" height="24" fill="rgb(184,52,116)" stroke="rgb(147,41,92)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg76_9)</title>
+			<polygon class=" (ctg76_9)" points="264,25 277,25 277,10 307,40 277,70 277,55 264,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ATG22 (PF11700)
+"Vacuole effluxer Atg22 like"</title>
+				<polygon class="PF11700" points="276,28 291,28 303,40 291,52 276,52" stroke-linejoin="round" width="29" height="24" fill="rgb(217,90,184)" stroke="rgb(173,72,147)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg76_10)</title>
+			<polygon class=" (ctg76_10)" points="309,10 332,40 309,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RadC (PF04002)
+"RadC-like JAB domain"</title>
+				<polygon class="PF04002" points="318,28 319,28 328,40 319,52 318,52" stroke-linejoin="round" width="12" height="24" fill="rgb(187,74,89)" stroke="rgb(149,59,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

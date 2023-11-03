@@ -1,0 +1,9 @@
+# STOCKHOLM 1.0
+
+GCF_022024235.1_ASM2202423v1_genomic.fna_BGC_NZ_CP091799.1.region001_ORF20:gid::pid::loc:16669:20260:strand:-:691:760         NCIQCNKCSFVCPHAAVRPF---VLDEAEKANFqgat..qdilAPKALKGMNFRIQVSV--LDCLGCGNCADVCP--gk
+#=GR GCF_022024235.1_ASM2202423v1_genomic.fna_BGC_NZ_CP091799.1.region001_ORF20:gid::pid::loc:16669:20260:strand:-:691:760 PP 6***************9977...44444333332223..33434555566666666555..89************..68
+GCF_022024115.1_ASM2202411v1_genomic.fna_BGC_NZ_CP091792.1.region001_ORF14:gid::pid::loc:12573:16149:strand:-:691:762         NCIQCNQCAYICPHAAIRPF---VLDENEIKGFaaaadtlemkAPAAMKGMHFRIETSV--LDCLGCGNCADICPGN..
+#=GR GCF_022024115.1_ASM2202411v1_genomic.fna_BGC_NZ_CP091792.1.region001_ORF14:gid::pid::loc:12573:16149:strand:-:691:762 PP 6*****************88...444444222222233444446777789999998888..89************76..
+#=GC PP_cons                                                                                                                  6***************9977...4444443222..........5666677777777776..89************76..
+#=GC RF                                                                                                                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

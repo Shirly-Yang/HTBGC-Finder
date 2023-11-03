@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+ERR1190811_bin.56.fa_BGC_c00083_NODE_57...region001_ORF13:gid::pid::loc:7023:7503:strand:-:1:143         r-------------------------------------------------------------PHGVPRNVKLER-GFLTMDFGCILNGYCSDMTRTVSVGKADEEMKKVYNTVLRAQTAAIDFIREGVLCCDADKVARDIIDA-DYKGYFGHSLGHGVGMYIHEE-PRLS--ARCTKVLKVGHVVTVEPGIY-IPGKYGV
+#=GR ERR1190811_bin.56.fa_BGC_c00083_NODE_57...region001_ORF13:gid::pid::loc:7023:7503:strand:-:1:143 PP 8.............................................................89***9999977.8******************************************************************7.57778***************9.**99..79******************.9******
+ERR1190811_bin.7.fa_BGC_c00001_NODE_10...region001_ORF4:gid::pid::loc:4425:5511:strand:-:142:345         .EKIKKAQKIAEGAFDDICGFIKPGVTEKEIALRLEHY-MLTHGAEGLSFETIAVSGKNTSMPHGVPTDKKIEIGDFVTMDYGALYDGYHSDMTRTVAVGKVSDEQKKVYNTVLEAQKAGLDFIRPGVSGKDADRVSRDIIENAGYGEYFGHSLGHGVGVEIHEK-PNLS--PSSEFILKKGNVVTVEPGIY-VPGKFGV
+#=GR ERR1190811_bin.7.fa_BGC_c00001_NODE_10...region001_ORF4:gid::pid::loc:4425:5511:strand:-:142:345 PP .689********************************99.889*************************************************************************************************************************99.**99..688*****************.9******
+#=GC PP_cons                                                                                             .689********************************99.889********************9*****9***99*9******************************************************************8*88999***************9.**99..789*****************.9******
+#=GC RF                                                                                                  .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ERR1190811_bin.56.fa_BGC_c00083_NODE_57...region001_ORF13:gid::pid::loc:7023:7503:strand:-:1:143         RIEDMMQITP
+#=GR ERR1190811_bin.56.fa_BGC_c00083_NODE_57...region001_ORF13:gid::pid::loc:7023:7503:strand:-:1:143 PP *******995
+ERR1190811_bin.7.fa_BGC_c00001_NODE_10...region001_ORF4:gid::pid::loc:4425:5511:strand:-:142:345         RIEDFAVITE
+#=GR ERR1190811_bin.7.fa_BGC_c00001_NODE_10...region001_ORF4:gid::pid::loc:4425:5511:strand:-:142:345 PP ********97
+#=GC PP_cons                                                                                             ********96
+#=GC RF                                                                                                  xxxxxxxxxx
+//

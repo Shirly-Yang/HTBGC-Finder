@@ -1,0 +1,143 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="416.9" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="406.9" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg20_1)</title>
+			<polygon class=" (ctg20_1)" points="72,25 52,25 52,10 22,40 52,70 52,55 72,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SPASM (PF13186)
+"Iron-sulfur cluster-binding domain"</title>
+				<polygon class="PF13186" points="28,38 34,32 34,48 28,42" stroke-linejoin="round" width="6" height="24" fill="rgb(65,145,179)" stroke="rgb(52,116,143)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Fer4_12 (PF13353)
+"4Fe-4S single cluster domain"</title>
+				<rect class="PF13353" x="45" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(86,133,197)" stroke="rgb(68,106,157)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg20_2)</title>
+			<polygon class=" (ctg20_2)" points="87,10 91,40 87,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg20_3)</title>
+			<polygon class=" (ctg20_3)" points="91,10 118,40 91,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Fer4_5 (PF12801)
+"4Fe-4S binding domain"</title>
+				<rect class="PF12801" x="97" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(66,167,213)" stroke="rgb(52,133,170)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Fer4_5 (PF12801)
+"4Fe-4S binding domain"</title>
+				<polygon class="PF12801" points="103,28 106,31 106,49 103,52" stroke-linejoin="round" width="3" height="24" fill="rgb(66,167,213)" stroke="rgb(52,133,170)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Fer4_5 (PF12801)
+"4Fe-4S binding domain"</title>
+				<polygon class="PF12801" points="108,34 112,38 112,42 108,46" stroke-linejoin="round" width="4" height="24" fill="rgb(66,167,213)" stroke="rgb(52,133,170)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Fer4 (PF00037)
+"4Fe-4S binding domain"</title>
+				<polygon class="PF00037" points="115,40 114,40 115,40" stroke-linejoin="round" width="2" height="24" fill="rgb(80,128,186)" stroke="rgb(64,102,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg20_4)</title>
+			<polygon class=" (ctg20_4)" points="120,10 137,40 120,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Redoxin (PF08534)
+"Redoxin"</title>
+				<polygon class="PF08534" points="124,28 127,28 134,40 127,52 124,52" stroke-linejoin="round" width="13" height="24" fill="rgb(208,142,81)" stroke="rgb(166,113,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg20_5)</title>
+			<polygon class=" (ctg20_5)" points="140,40 158,10 158,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BioY (PF02632)
+"BioY family"</title>
+				<polygon class="PF02632" points="144,40 151,28 154,28 154,52 151,52" stroke-linejoin="round" width="14" height="24" fill="rgb(191,50,152)" stroke="rgb(152,39,121)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg20_6)</title>
+			<polygon class=" (ctg20_6)" points="163,40 191,10 191,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Polysacc_deac_1 (PF01522)
+"Polysaccharide deacetylase"</title>
+				<polygon class="PF01522" points="169,38 179,28 181,28 181,52 179,52 169,42" stroke-linejoin="round" width="12" height="24" fill="rgb(68,185,57)" stroke="rgb(54,148,45)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg20_7)</title>
+			<polygon class=" (ctg20_7)" points="223,25 222,25 222,10 192,40 222,70 222,55 223,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_WhiA (PF02650)
+"WhiA C-terminal HTH domain"</title>
+				<polygon class="PF02650" points="196,40 201,35 201,45" stroke-linejoin="round" width="8" height="24" fill="rgb(73,179,87)" stroke="rgb(58,143,69)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LAGLIDADG_WhiA (PF14527)
+"WhiA LAGLIDADG-like domain"</title>
+				<polygon class="PF14527" points="201,35 208,28 210,28 210,52 208,52 201,45" stroke-linejoin="round" width="9" height="24" fill="rgb(80,207,160)" stroke="rgb(63,165,127)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>WhiA_N (PF10298)
+"WhiA N-terminal LAGLIDADG-like domain"</title>
+				<rect class="PF10298" x="212" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(63,192,103)" stroke="rgb(50,153,82)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg20_8)</title>
+			<polygon class=" (ctg20_8)" points="270,25 255,25 255,10 225,40 255,70 255,55 270,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CofD (PF01933)
+"2-phospho-L-lactate transferase CofD"</title>
+				<polygon class="PF01933" points="230,39 241,28 258,28 258,52 241,52 230,41" stroke-linejoin="round" width="28" height="24" fill="rgb(154,214,56)" stroke="rgb(123,171,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg20_9)</title>
+			<polygon class=" (ctg20_9)" points="270,40 298,10 298,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ATP_bind_2 (PF03668)
+"P-loop ATPase protein family"</title>
+				<polygon class="PF03668" points="274,40 285,28 298,28 298,52 285,52" stroke-linejoin="round" width="28" height="24" fill="rgb(224,110,119)" stroke="rgb(179,88,95)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg20_10)</title>
+			<polygon class=" (ctg20_10)" points="343,25 340,25 340,10 310,40 340,70 340,55 343,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BATS (PF06968)
+"Biotin and Thiamin Synthesis associated domain"</title>
+				<polygon class="PF06968" points="314,40 318,36 318,44" stroke-linejoin="round" width="8" height="24" fill="rgb(192,86,62)" stroke="rgb(153,68,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<polygon class="PF04055" points="320,34 326,28 336,28 336,52 326,52 320,46" stroke-linejoin="round" width="16" height="24" fill="rgb(184,71,96)" stroke="rgb(147,56,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg20_11)</title>
+			<polygon class=" (ctg20_11)" points="349,40 368,10 368,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Chromate_transp (PF02417)
+"Chromate transporter"</title>
+				<polygon class="PF02417" points="353,40 361,28 367,28 367,52 361,52" stroke-linejoin="round" width="18" height="24" fill="rgb(182,75,182)" stroke="rgb(145,60,145)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg20_12)</title>
+			<polygon class=" (ctg20_12)" points="369,40 387,10 387,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Chromate_transp (PF02417)
+"Chromate transporter"</title>
+				<polygon class="PF02417" points="373,40 381,28 386,28 386,52 381,52" stroke-linejoin="round" width="16" height="24" fill="rgb(182,75,182)" stroke="rgb(145,60,145)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,166 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="699.7666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="689.7666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg1_1401)</title>
+			<polygon class=" (ctg1_1401)" points="33,25 96,25 96,10 126,40 96,70 96,55 33,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M16 (PF00675)
+"Insulinase (Peptidase family M16)"</title>
+				<rect class="PF00675" x="37" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(183,105,218)" stroke="rgb(146,84,174)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Peptidase_M16_C (PF05193)
+"Peptidase M16 inactive domain"</title>
+				<rect class="PF05193" x="53" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(209,191,80)" stroke="rgb(167,152,64)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Peptidase_M16_C (PF05193)
+"Peptidase M16 inactive domain"</title>
+				<polygon class="PF05193" points="102,28 110,28 120,38 120,42 110,52 102,52" stroke-linejoin="round" width="18" height="24" fill="rgb(209,191,80)" stroke="rgb(167,152,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_1402)</title>
+			<polygon class=" (ctg1_1402)" points="132,40 138,10 138,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_1403)</title>
+			<polygon class=" (ctg1_1403)" points="142,25 149,25 149,10 179,40 149,70 149,55 142,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DNA_pol3_delta2 (PF13177)
+"DNA polymerase III, delta subunit"</title>
+				<rect class="PF13177" x="142" y="28" stroke-linejoin="round" width="20" height="24" fill="rgb(139,79,228)" stroke="rgb(111,63,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_1404)</title>
+			<polygon class=" (ctg1_1404)" points="183,25 195,25 195,10 225,40 195,70 195,55 183,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PSP1 (PF04468)
+"PSP1 C-terminal conserved region"</title>
+				<rect class="PF04468" x="193" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(67,185,198)" stroke="rgb(53,147,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_1405)</title>
+			<polygon class=" (ctg1_1405)" points="225,10 241,40 225,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GldH_lipo (PF14109)
+"GldH lipoprotein"</title>
+				<polygon class="PF14109" points="227,28 231,28 238,40 231,52 227,52" stroke-linejoin="round" width="13" height="24" fill="rgb(221,136,71)" stroke="rgb(176,108,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_1406)</title>
+			<polygon class=" (ctg1_1406)" points="249,10 277,40 249,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sigma70_r1_2 (PF00140)
+"Sigma-70 factor, region 1.2"</title>
+				<rect class="PF00140" x="250" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(142,187,82)" stroke="rgb(113,149,65)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sigma70_r2 (PF04542)
+"Sigma-70 region 2"</title>
+				<rect class="PF04542" x="254" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(89,63,196)" stroke="rgb(71,50,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sigma70_r3 (PF04539)
+"Sigma-70 region 3"</title>
+				<polygon class="PF04539" points="262,28 269,36 269,44 262,52" stroke-linejoin="round" width="7" height="24" fill="rgb(192,162,53)" stroke="rgb(153,129,42)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sigma70_r4 (PF04545)
+"Sigma-70, region 4"</title>
+				<polygon class="PF04545" points="271,38 273,40 271,42" stroke-linejoin="round" width="5" height="24" fill="rgb(190,171,50)" stroke="rgb(152,136,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_1407)</title>
+			<polygon class=" (ctg1_1407)" points="280,10 295,40 280,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_1408)</title>
+			<polygon class=" (ctg1_1408)" points="296,10 325,40 296,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_1409)</title>
+			<polygon class=" (ctg1_1409)" points="326,10 342,40 326,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_1410)</title>
+			<polygon class=" (ctg1_1410)" points="343,10 356,40 343,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PqqD (PF05402)
+"Coenzyme PQQ synthesis protein D (PqqD)"</title>
+				<polygon class="PF05402" points="344,28 347,28 351,36 351,44 347,52 344,52" stroke-linejoin="round" width="7" height="24" fill="rgb(218,64,155)" stroke="rgb(174,51,124)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_1411)</title>
+			<polygon class=" (ctg1_1411)" points="358,40 382,10 382,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_1412)</title>
+			<polygon class=" (ctg1_1412)" points="446,25 443,25 443,10 413,40 443,70 443,55 446,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LPG_synthase_TM (PF03706)
+"Lysylphosphatidylglycerol synthase TM region"</title>
+				<polygon class="PF03706" points="417,40 429,28 445,28 445,52 429,52" stroke-linejoin="round" width="31" height="24" fill="rgb(99,211,78)" stroke="rgb(79,168,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_1413)</title>
+			<polygon class=" (ctg1_1413)" points="486,25 480,25 480,10 450,40 480,70 480,55 486,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PdxA (PF04166)
+"Pyridoxal phosphate biosynthetic protein PdxA"</title>
+				<polygon class="PF04166" points="454,40 466,28 482,28 482,52 466,52 454,40" stroke-linejoin="round" width="28" height="24" fill="rgb(203,73,130)" stroke="rgb(162,58,104)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_1414)</title>
+			<polygon class=" (ctg1_1414)" points="517,25 517,25 517,10 487,40 517,70 517,55 517,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4837 (PF16125)
+"Domain of unknown function (DUF4837)"</title>
+				<polygon class="PF16125" points="491,40 503,28 514,28 514,52 503,52" stroke-linejoin="round" width="27" height="24" fill="rgb(155,184,67)" stroke="rgb(124,147,53)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_1415)</title>
+			<polygon class=" (ctg1_1415)" points="551,25 547,25 547,10 517,40 547,70 547,55 551,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<polygon class="PF04055" points="524,37 533,28 540,28 540,52 533,52 524,43" stroke-linejoin="round" width="16" height="24" fill="rgb(184,71,96)" stroke="rgb(147,56,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_1416)</title>
+			<polygon class=" (ctg1_1416)" points="556,40 573,10 573,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_1417)</title>
+			<polygon class=" (ctg1_1417)" points="579,10 606,40 579,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LCM (PF04072)
+"Leucine carboxyl methyltransferase"</title>
+				<polygon class="PF04072" points="580,28 590,28 596,34 596,46 590,52 580,52" stroke-linejoin="round" width="16" height="24" fill="rgb(84,143,194)" stroke="rgb(67,114,155)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_1418)</title>
+			<polygon class=" (ctg1_1418)" points="650,25 646,25 646,10 616,40 646,70 646,55 650,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GDP_Man_Dehyd (PF16363)
+"GDP-mannose 4,6 dehydratase"</title>
+				<polygon class="PF16363" points="620,40 632,28 649,28 649,52 632,52" stroke-linejoin="round" width="32" height="24" fill="rgb(84,210,164)" stroke="rgb(67,168,131)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_1419)</title>
+			<polygon class=" (ctg1_1419)" points="658,10 672,40 658,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

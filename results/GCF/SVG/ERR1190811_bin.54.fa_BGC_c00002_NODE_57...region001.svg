@@ -1,0 +1,194 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="713.2" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="703.2" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg2_52)</title>
+			<polygon class=" (ctg2_52)" points="14,40 42,10 42,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NIR_SIR (PF01077)
+"Nitrite and sulphite reductase 4Fe-4S domain"</title>
+				<polygon class="PF01077" points="18,40 30,28 33,28 33,52 30,52" stroke-linejoin="round" width="19" height="24" fill="rgb(161,75,182)" stroke="rgb(128,60,145)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>NIR_SIR_ferr (PF03460)
+"Nitrite/Sulfite reductase ferredoxin-like half domain"</title>
+				<rect class="PF03460" x="34" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(183,50,137)" stroke="rgb(146,39,109)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_53)</title>
+			<polygon class=" (ctg2_53)" points="85,25 74,25 74,10 44,40 74,70 74,55 85,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cys_Met_Meta_PP (PF01053)
+"Cys/Met metabolism PLP-dependent enzyme"</title>
+				<polygon class="PF01053" points="48,40 60,28 84,28 84,52 60,52" stroke-linejoin="round" width="40" height="24" fill="rgb(62,188,140)" stroke="rgb(49,150,112)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_54)</title>
+			<polygon class=" (ctg2_54)" points="91,25 95,25 95,10 125,40 95,70 95,55 91,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FecCD (PF01032)
+"FecCD transport family"</title>
+				<polygon class="PF01032" points="93,28 109,28 121,40 109,52 93,52" stroke-linejoin="round" width="30" height="24" fill="rgb(226,107,97)" stroke="rgb(180,85,77)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_55)</title>
+			<polygon class=" (ctg2_55)" points="125,10 150,40 125,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="126,28 136,28 140,33 140,47 136,52 126,52" stroke-linejoin="round" width="14" height="24" fill="rgb(63,205,104)" stroke="rgb(50,164,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_56)</title>
+			<polygon class=" (ctg2_56)" points="200,25 181,25 181,10 151,40 181,70 181,55 200,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Flg_new (PF09479)
+"Listeria-Bacteroides repeat domain (List_Bact_rpt)"</title>
+				<polygon class="PF09479" points="158,37 165,30 165,50 158,43" stroke-linejoin="round" width="7" height="24" fill="rgb(176,220,108)" stroke="rgb(140,176,86)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Flg_new (PF09479)
+"Listeria-Bacteroides repeat domain (List_Bact_rpt)"</title>
+				<rect class="PF09479" x="169" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(176,220,108)" stroke="rgb(140,176,86)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_57)</title>
+			<polygon class=" (ctg2_57)" points="226,10 239,40 226,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2_58)</title>
+			<polygon class=" (ctg2_58)" points="243,10 247,40 243,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2_59)</title>
+			<polygon class=" (ctg2_59)" points="252,10 256,40 252,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2_60)</title>
+			<polygon class=" (ctg2_60)" points="260,40 275,10 275,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Coat_F (PF07875)
+"Coat F domain"</title>
+				<polygon class="PF07875" points="263,40 265,36 265,44" stroke-linejoin="round" width="5" height="24" fill="rgb(143,184,82)" stroke="rgb(114,147,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_61)</title>
+			<polygon class=" (ctg2_61)" points="281,40 298,10 298,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HD (PF01966)
+"HD domain"</title>
+				<polygon class="PF01966" points="284,40 291,28 295,28 295,52 291,52" stroke-linejoin="round" width="12" height="24" fill="rgb(56,126,222)" stroke="rgb(44,100,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_62)</title>
+			<polygon class=" (ctg2_62)" points="337,25 333,25 333,10 303,40 333,70 333,55 337,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2_63)</title>
+			<polygon class=" (ctg2_63)" points="343,40 363,10 363,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AgrB (PF04647)
+"Accessory gene regulator B"</title>
+				<polygon class="PF04647" points="347,40 355,28 362,28 362,52 355,52" stroke-linejoin="round" width="19" height="24" fill="rgb(67,227,212)" stroke="rgb(53,181,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_64)</title>
+			<polygon class=" (ctg2_64)" points="365,40 369,10 369,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2_65)</title>
+			<polygon class=" (ctg2_65)" points="420,25 406,25 406,10 376,40 406,70 406,55 420,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HATPase_c_5 (PF14501)
+"GHKL domain"</title>
+				<polygon class="PF14501" points="380,40 386,34 386,46" stroke-linejoin="round" width="10" height="24" fill="rgb(187,81,89)" stroke="rgb(149,64,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_66)</title>
+			<polygon class=" (ctg2_66)" points="424,40 448,10 448,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LytTR (PF04397)
+"LytTr DNA-binding domain"</title>
+				<polygon class="PF04397" points="428,40 433,34 433,46" stroke-linejoin="round" width="8" height="24" fill="rgb(154,92,215)" stroke="rgb(123,73,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="436,30 438,28 447,28 447,52 438,52 436,50" stroke-linejoin="round" width="11" height="24" fill="rgb(209,129,92)" stroke="rgb(167,103,73)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_67)</title>
+			<polygon class=" (ctg2_67)" points="520,25 492,25 492,10 462,40 492,70 492,55 520,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GTP_EFTU (PF00009)
+"Elongation factor Tu GTP binding domain"</title>
+				<rect class="PF00009" x="497" y="28" stroke-linejoin="round" width="21" height="24" fill="rgb(127,205,76)" stroke="rgb(101,164,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_68)</title>
+			<polygon class=" (ctg2_68)" points="549,25 549,25 549,10 519,40 549,70 549,55 549,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PAPS_reduct (PF01507)
+"Phosphoadenosine phosphosulfate reductase family"</title>
+				<polygon class="PF01507" points="523,40 535,28 545,28 545,52 535,52 523,40" stroke-linejoin="round" width="22" height="24" fill="rgb(69,187,179)" stroke="rgb(55,149,143)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_69)</title>
+			<polygon class=" (ctg2_69)" points="550,40 560,10 560,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Fer4_9 (PF13187)
+"4Fe-4S dicluster domain"</title>
+				<polygon class="PF13187" points="554,37 557,28 558,28 558,52 557,52 554,43" stroke-linejoin="round" width="4" height="24" fill="rgb(101,126,228)" stroke="rgb(80,100,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_70)</title>
+			<polygon class=" (ctg2_70)" points="617,25 590,25 590,10 560,40 590,70 590,55 617,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Succ_DH_flav_C (PF02910)
+"Fumarate reductase flavoprotein C-term"</title>
+				<polygon class="PF02910" points="564,40 571,33 571,47" stroke-linejoin="round" width="11" height="24" fill="rgb(198,64,227)" stroke="rgb(158,51,181)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FAD_binding_2 (PF00890)
+"FAD binding domain"</title>
+				<rect class="PF00890" x="579" y="28" stroke-linejoin="round" width="37" height="24" fill="rgb(108,93,212)" stroke="rgb(86,74,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_71)</title>
+			<polygon class=" (ctg2_71)" points="656,25 651,25 651,10 621,40 651,70 651,55 656,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TOBE_2 (PF08402)
+"TOBE domain"</title>
+				<polygon class="PF08402" points="625,40 629,36 629,44" stroke-linejoin="round" width="6" height="24" fill="rgb(202,198,87)" stroke="rgb(161,158,69)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<rect class="PF00005" x="640" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(63,205,104)" stroke="rgb(50,164,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_72)</title>
+			<polygon class=" (ctg2_72)" points="656,40 685,10 685,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BPD_transp_1 (PF00528)
+"Binding-protein-dependent transport system inner membrane component"</title>
+				<polygon class="PF00528" points="660,40 672,28 676,28 676,52 672,52" stroke-linejoin="round" width="20" height="24" fill="rgb(163,215,87)" stroke="rgb(130,172,69)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

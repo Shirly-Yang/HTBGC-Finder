@@ -1,0 +1,158 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="506.43333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="496.43333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg26_1)</title>
+			<polygon class=" (ctg26_1)" points="10,40 18,10 18,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Integrase_DNA (PF02920)
+"DNA binding domain of tn916 integrase"</title>
+				<polygon class="PF02920" points="13,40 16,28 18,28 18,52 16,52" stroke-linejoin="round" width="7" height="24" fill="rgb(66,152,203)" stroke="rgb(52,121,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg26_2)</title>
+			<polygon class=" (ctg26_2)" points="19,40 33,10 33,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg26_3)</title>
+			<polygon class=" (ctg26_3)" points="34,40 49,10 49,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF3990 (PF13151)
+"Protein of unknown function (DUF3990)"</title>
+				<polygon class="PF13151" points="37,40 43,28 49,28 49,52 43,52" stroke-linejoin="round" width="14" height="24" fill="rgb(215,73,130)" stroke="rgb(172,58,104)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg26_4)</title>
+			<polygon class=" (ctg26_4)" points="101,25 82,25 82,10 52,40 82,70 82,55 101,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M56 (PF05569)
+"BlaR1 peptidase M56"</title>
+				<rect class="PF05569" x="70" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(199,177,62)" stroke="rgb(159,141,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg26_5)</title>
+			<polygon class=" (ctg26_5)" points="101,40 114,10 114,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Penicillinase_R (PF03965)
+"Penicillinase repressor"</title>
+				<polygon class="PF03965" points="104,40 109,28 112,28 112,52 109,52" stroke-linejoin="round" width="11" height="24" fill="rgb(188,78,53)" stroke="rgb(150,62,42)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg26_6)</title>
+			<polygon class=" (ctg26_6)" points="122,10 139,40 122,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg26_7)</title>
+			<polygon class=" (ctg26_7)" points="143,40 163,10 163,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AgrB (PF04647)
+"Accessory gene regulator B"</title>
+				<polygon class="PF04647" points="147,40 155,28 161,28 161,52 155,52" stroke-linejoin="round" width="17" height="24" fill="rgb(67,227,212)" stroke="rgb(53,181,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg26_8)</title>
+			<polygon class=" (ctg26_8)" points="215,25 205,25 205,10 175,40 205,70 205,55 215,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg26_9)</title>
+			<polygon class=" (ctg26_9)" points="216,40 245,10 245,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="229,31 232,28 243,28 243,52 232,52 229,49" stroke-linejoin="round" width="14" height="24" fill="rgb(63,205,104)" stroke="rgb(50,164,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg26_10)</title>
+			<polygon class=" (ctg26_10)" points="244,40 259,10 259,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg26_11)</title>
+			<polygon class=" (ctg26_11)" points="259,40 263,10 263,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg26_12)</title>
+			<polygon class=" (ctg26_12)" points="269,40 288,10 288,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sigma70_r4_2 (PF08281)
+"Sigma-70, region 4"</title>
+				<polygon class="PF08281" points="273,40 276,35 276,45" stroke-linejoin="round" width="5" height="24" fill="rgb(79,193,213)" stroke="rgb(63,154,170)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sigma70_r2 (PF04542)
+"Sigma-70 region 2"</title>
+				<polygon class="PF04542" points="278,32 281,28 284,28 284,52 281,52 278,48" stroke-linejoin="round" width="6" height="24" fill="rgb(89,63,196)" stroke="rgb(71,50,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg26_13)</title>
+			<polygon class=" (ctg26_13)" points="299,40 303,10 303,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg26_14)</title>
+			<polygon class=" (ctg26_14)" points="308,10 320,40 308,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GntR (PF00392)
+"Bacterial regulatory proteins, gntR family"</title>
+				<polygon class="PF00392" points="309,28 311,28 315,36 315,44 311,52 309,52" stroke-linejoin="round" width="6" height="24" fill="rgb(213,55,85)" stroke="rgb(170,44,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg26_15)</title>
+			<polygon class=" (ctg26_15)" points="323,40 333,10 333,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg26_16)</title>
+			<polygon class=" (ctg26_16)" points="333,40 344,10 344,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg26_17)</title>
+			<polygon class=" (ctg26_17)" points="354,10 366,40 354,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg26_18)</title>
+			<polygon class=" (ctg26_18)" points="385,10 393,40 385,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg26_19)</title>
+			<polygon class=" (ctg26_19)" points="393,40 401,10 401,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg26_20)</title>
+			<polygon class=" (ctg26_20)" points="412,10 424,40 412,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TrkH (PF02386)
+"Cation transport protein"</title>
+				<polygon class="PF02386" points="412,28 415,28 420,40 415,52 412,52" stroke-linejoin="round" width="10" height="24" fill="rgb(204,130,83)" stroke="rgb(163,104,66)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg26_21)</title>
+			<polygon class=" (ctg26_21)" points="424,10 445,40 424,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TrkA_N (PF02254)
+"TrkA-N domain"</title>
+				<polygon class="PF02254" points="424,28 433,28 435,31 435,49 433,52 424,52" stroke-linejoin="round" width="11" height="24" fill="rgb(125,206,100)" stroke="rgb(100,164,80)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TrkA_C (PF02080)
+"TrkA-C domain"</title>
+				<polygon class="PF02080" points="438,35 441,40 438,45" stroke-linejoin="round" width="6" height="24" fill="rgb(172,104,228)" stroke="rgb(137,83,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg26_22)</title>
+			<polygon class=" (ctg26_22)" points="446,40 466,10 466,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4317 (PF14199)
+"Domain of unknown function (DUF4317)"</title>
+				<polygon class="PF14199" points="450,40 458,28 465,28 465,52 458,52" stroke-linejoin="round" width="19" height="24" fill="rgb(125,202,68)" stroke="rgb(100,161,54)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,166 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="464.6333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="454.6333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg18_15)</title>
+			<polygon class=" (ctg18_15)" points="27,25 27,25 27,10 57,40 27,70 27,55 27,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PfkB (PF00294)
+"pfkB family carbohydrate kinase"</title>
+				<polygon class="PF00294" points="27,28 41,28 53,40 41,52 27,52" stroke-linejoin="round" width="28" height="24" fill="rgb(168,213,68)" stroke="rgb(134,170,54)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg18_16)</title>
+			<polygon class=" (ctg18_16)" points="58,10 71,40 58,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ribonuclease_3 (PF00636)
+"Ribonuclease III domain"</title>
+				<polygon class="PF00636" points="59,28 62,28 68,40 68,40 62,52 59,52" stroke-linejoin="round" width="9" height="24" fill="rgb(75,186,153)" stroke="rgb(60,148,122)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg18_17)</title>
+			<polygon class=" (ctg18_17)" points="73,10 99,40 73,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YitT_membrane (PF02588)
+"Uncharacterised 5xTM membrane BCR, YitT family COG1284"</title>
+				<polygon class="PF02588" points="73,28 85,28 92,37 92,43 85,52 73,52" stroke-linejoin="round" width="19" height="24" fill="rgb(183,114,47)" stroke="rgb(146,91,37)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF2179 (PF10035)
+"Uncharacterized protein conserved in bacteria (DUF2179)"</title>
+				<polygon class="PF10035" points="93,38 95,40 93,42" stroke-linejoin="round" width="5" height="24" fill="rgb(200,81,103)" stroke="rgb(160,64,82)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg18_18)</title>
+			<polygon class=" (ctg18_18)" points="100,40 126,10 126,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lipase_GDSL_2 (PF13472)
+"GDSL-like Lipase/Acylhydrolase family"</title>
+				<polygon class="PF13472" points="104,40 115,28 121,28 121,52 115,52" stroke-linejoin="round" width="20" height="24" fill="rgb(63,200,191)" stroke="rgb(50,160,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg18_19)</title>
+			<polygon class=" (ctg18_19)" points="130,40 155,10 155,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg18_20)</title>
+			<polygon class=" (ctg18_20)" points="213,25 191,25 191,10 161,40 191,70 191,55 213,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_2 (PF13347)
+"MFS/sugar transport protein"</title>
+				<polygon class="PF13347" points="165,40 177,28 181,28 181,52 177,52" stroke-linejoin="round" width="18" height="24" fill="rgb(217,94,85)" stroke="rgb(173,75,68)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MFS_2 (PF13347)
+"MFS/sugar transport protein"</title>
+				<rect class="PF13347" x="182" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(217,94,85)" stroke="rgb(173,75,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg18_21)</title>
+			<polygon class=" (ctg18_21)" points="216,10 221,40 216,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg18_22)</title>
+			<polygon class=" (ctg18_22)" points="225,40 248,10 248,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_trans_CmpB (PF06541)
+"Putative ABC-transporter type IV"</title>
+				<polygon class="PF06541" points="229,40 239,28 244,28 244,52 239,52 229,40" stroke-linejoin="round" width="15" height="24" fill="rgb(92,99,216)" stroke="rgb(73,79,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg18_23)</title>
+			<polygon class=" (ctg18_23)" points="299,25 286,25 286,10 256,40 286,70 286,55 299,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HATPase_c_5 (PF14501)
+"GHKL domain"</title>
+				<polygon class="PF14501" points="260,40 266,34 266,46" stroke-linejoin="round" width="10" height="24" fill="rgb(187,81,89)" stroke="rgb(149,64,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg18_24)</title>
+			<polygon class=" (ctg18_24)" points="300,40 323,10 323,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LytTR (PF04397)
+"LytTr DNA-binding domain"</title>
+				<polygon class="PF04397" points="304,40 309,34 309,46" stroke-linejoin="round" width="9" height="24" fill="rgb(154,92,215)" stroke="rgb(123,73,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="312,30 314,28 323,28 323,52 314,52 312,50" stroke-linejoin="round" width="11" height="24" fill="rgb(209,129,92)" stroke="rgb(167,103,73)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg18_25)</title>
+			<polygon class=" (ctg18_25)" points="327,40 337,10 337,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_3 (PF01381)
+"Helix-turn-helix"</title>
+				<polygon class="PF01381" points="330,40 334,28 335,28 335,52 334,52 330,40" stroke-linejoin="round" width="5" height="24" fill="rgb(219,185,98)" stroke="rgb(175,148,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg18_26)</title>
+			<polygon class=" (ctg18_26)" points="340,10 345,40 340,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg18_27)</title>
+			<polygon class=" (ctg18_27)" points="343,10 348,40 343,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg18_28)</title>
+			<polygon class=" (ctg18_28)" points="348,10 367,40 348,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AgrB (PF04647)
+"Accessory gene regulator B"</title>
+				<polygon class="PF04647" points="348,28 356,28 363,40 356,52 348,52" stroke-linejoin="round" width="17" height="24" fill="rgb(67,227,212)" stroke="rgb(53,181,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg18_29)</title>
+			<polygon class=" (ctg18_29)" points="370,40 379,10 379,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PRC (PF05239)
+"PRC-barrel domain"</title>
+				<polygon class="PF05239" points="373,40 377,28 379,28 379,52 377,52" stroke-linejoin="round" width="7" height="24" fill="rgb(222,180,64)" stroke="rgb(177,144,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg18_30)</title>
+			<polygon class=" (ctg18_30)" points="381,40 407,10 407,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sigma70_r4 (PF04545)
+"Sigma-70, region 4"</title>
+				<polygon class="PF04545" points="385,40 385,40 385,40" stroke-linejoin="round" width="4" height="24" fill="rgb(190,171,50)" stroke="rgb(152,136,39)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sigma70_r3 (PF04539)
+"Sigma-70 region 3"</title>
+				<polygon class="PF04539" points="388,37 394,30 394,50 388,43" stroke-linejoin="round" width="6" height="24" fill="rgb(192,162,53)" stroke="rgb(153,129,42)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sigma70_r2 (PF04542)
+"Sigma-70 region 2"</title>
+				<polygon class="PF04542" points="395,29 396,28 402,28 402,52 396,52 395,51" stroke-linejoin="round" width="7" height="24" fill="rgb(89,63,196)" stroke="rgb(71,50,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg18_31)</title>
+			<polygon class=" (ctg18_31)" points="417,10 431,40 417,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg18_32)</title>
+			<polygon class=" (ctg18_32)" points="441,10 449,40 441,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg18_33)</title>
+			<polygon class=" (ctg18_33)" points="451,10 454,40 451,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

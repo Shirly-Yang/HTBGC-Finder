@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+ERR1190811_bin.3.fa_BGC_c00004_NODE_12...region001_ORF5:gid::pid::loc:3761:4427:strand:+:3:213            n-IILASQSPRRQEILSLGGYEYEVCVSSAEEQIPPeelENLTPQELVEKLARVKAEDVYRRNCsknmeksttdnqaadS----VeeitVIGADTVVAVdgcVLGKPKTEDEAKQMLARLSGRTHDVFTGVCILWTDsdTQEEIHGNTFHCHTKVTFYPMTEEEIDNYVATGDCMDKAGAYGIQSG-AAKYIQGIEGDYL
+#=GR ERR1190811_bin.3.fa_BGC_c00004_NODE_12...region001_ORF5:gid::pid::loc:3761:4427:strand:+:3:213    PP 5.9***************999**********99988999899999***************99879999988877766653....14445*********84435*******************************999553443444678999*********************************5.889**********
+ERR1190811_bin.7.fa_BGC_c00001_NODE_10...region001_ORF24:gid::pid::loc:22705:23272:strand:-:2:182         .KLILASGSPRRSEILKNAGYEFVVKPTSADESLP-...GGILPEDAVKLLSERKADAAKI---...............-ECSDV....VLSADTVVALgdrILGKPSDKAEAFSMLRSLSGKTHSVYTGVTIKSA-..----EKKRVFAVKTDVLFYPLTDDEINAYIATGEPFDKAGAYGIQGR-AAVFVEKIDGDYY
+#=GR ERR1190811_bin.7.fa_BGC_c00001_NODE_10...region001_ORF24:gid::pid::loc:22705:23272:strand:-:2:182 PP .69****************99*************9....55556778**********7754...................45669....*********98767******************************443.......2335799***********************************9.666**********
+#=GC PP_cons                                                                                              .69****************99***********9998...77777899**********8877987...............345665....*********9...6******************************7769..344333457899**********************************7.778**********
+#=GC RF                                                                                                   .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxx...............xxxxxx....xxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ERR1190811_bin.3.fa_BGC_c00004_NODE_12...region001_ORF5:gid::pid::loc:3761:4427:strand:+:3:213            NVVGLPLSKIYHVLRE-k
+#=GR ERR1190811_bin.3.fa_BGC_c00004_NODE_12...region001_ORF5:gid::pid::loc:3761:4427:strand:+:3:213    PP *************986.8
+ERR1190811_bin.7.fa_BGC_c00001_NODE_10...region001_ORF24:gid::pid::loc:22705:23272:strand:-:2:182         SVVGLPLSRCARVLRD-f
+#=GR ERR1190811_bin.7.fa_BGC_c00001_NODE_10...region001_ORF24:gid::pid::loc:22705:23272:strand:-:2:182 PP *************986.7
+#=GC PP_cons                                                                                              *************986..
+#=GC RF                                                                                                   xxxxxxxxxxxxxxxxx.
+//

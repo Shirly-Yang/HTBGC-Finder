@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+ERR1190811_bin.57.fa_BGC_c00013_NODE_11...region001_ORF7:gid::pid::loc:4402:4681:strand:-:1:91           ........................------------------------------------------------------------------------------------------.--------..-------------------------....--------MQMLQMMLE...YFLKPEQAAIICCAYALVSYSVGYFL
+#=GR ERR1190811_bin.57.fa_BGC_c00013_NODE_11...region001_ORF7:gid::pid::loc:4402:4681:strand:-:1:91   PP ..................................................................................................................................................................689******...**************************
+ERR1190811_bin.54.fa_BGC_c00055_NODE_25...region001_ORF6:gid::pid::loc:4836:5685:strand:-:37:274         flvrcnlkhymgeyttsdiilwmf-------------------------KGMTWITDGQKDINIPTAYILPNILIAFVIGNYPFKDINGYGGMILMRSGKKSVWWFSKCIWAVItAVVTYAVFivETVAVSLAGGKLSLQVNKDICCKVSgynkMYIVNNMNLTRLAVYMIaagLITTIAICFVQICVSQIMSPIIGYIV
+#=GR ERR1190811_bin.54.fa_BGC_c00055_NODE_25...region001_ORF6:gid::pid::loc:4836:5685:strand:-:37:274 PP 999999998888888888887776.........................56667777788888888999*************************************999865441344444440145556666655555555555555545555899999999999998852336779999****************999
+#=GC PP_cons                                                                                             .................................................56667777788888888999*************************************99986544.34444444..4555666665555555555555554....89999999889999998...88899********************9
+#=GC RF                                                                                                  ........................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ERR1190811_bin.57.fa_BGC_c00013_NODE_11...region001_ORF7:gid::pid::loc:4402:4681:strand:-:1:91           -ADSIIVRVLFFPCLMFGAVNGALTSE----.....TYYIKSFAVLLLICLCLIVGNIyKFKKTDI
+#=GR ERR1190811_bin.57.fa_BGC_c00013_NODE_11...region001_ORF7:gid::pid::loc:4402:4681:strand:-:1:91   PP .**************************.........9****************************8
+ERR1190811_bin.54.fa_BGC_c00055_NODE_25...region001_ORF6:gid::pid::loc:4836:5685:strand:-:37:274         VVMILVMG-VFFKSFAFIG-NGFMAIRNILYtseggDMTLTVAVDIVLIIVSSVVGYF.SFKRMDI
+#=GR ERR1190811_bin.54.fa_BGC_c00055_NODE_25...region001_ORF6:gid::pid::loc:4836:5685:strand:-:37:274 PP 44444444.4555555433.56666666544455557778888888888899999999.******8
+#=GC PP_cons                                                                                             47777777*7777777777*88888886544.....889999999999999999****.******8
+#=GC RF                                                                                                  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxx.xxxxxxx
+//

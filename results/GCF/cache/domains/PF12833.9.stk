@@ -1,0 +1,17 @@
+# STOCKHOLM 1.0
+
+ERR1190811_bin.50.fa_BGC_c00006_NODE_91...region001_ORF1:gid::pid::loc:3516:4263:strand:+:160:239            ....LAKLTGLNISYLSRLFKKETGQTISNYIRDKKIETAKNMLLY-SDFSPSEIASILAFPSQSYFTEVFRKTTGVTPRKYQE-s.
+#=GR ERR1190811_bin.50.fa_BGC_c00006_NODE_91...region001_ORF1:gid::pid::loc:3516:4263:strand:+:160:239    PP ....7999*************************************7.***********************************86.7.
+ERR1190811_bin.41.fa_BGC_c00001_NODE_6_...region001_ORF8:gid::pid::loc:7105:7930:strand:-:194:273            ....IANYVRLNRSYFGVIFKELTGLTPQEFLIDFRIDKAKKLLS-DMSMSIGDVSRSVGYDDPLTFSKLFKKNVGVSPNAYRKN..
+#=GR ERR1190811_bin.41.fa_BGC_c00001_NODE_6_...region001_ORF8:gid::pid::loc:7105:7930:strand:-:194:273    PP ....5899**********************************995.6************************************85..
+ERR1190811_bin.41.fa_BGC_c00012_NODE_87...region002_ORF2:gid::pid::loc:2462:3260:strand:-:183:261            palc-----GLKYSYFFRLFVKRFGISPSQYVKKMKIEKACQLLWI-NKFSVTQIAEMLGYSDVYYFSRQFKDQMGVAPSHYV--ss
+#=GR ERR1190811_bin.41.fa_BGC_c00012_NODE_87...region002_ORF2:gid::pid::loc:2462:3260:strand:-:183:261    PP *886.....78899****************************9975.99********************************96..68
+ERR1190811_bin.41.fa_BGC_c00012_NODE_87...region001_ORF3:gid::pid::loc:2518:3262:strand:-:167:245            ....IANAACVSKVYLGKVFVKELQITPFQYLTKIRMEQAVTYLQ--EFRRVGEVSASVGYGDVYQFSRAFKKYYGCSPKAYCRR..
+#=GR ERR1190811_bin.41.fa_BGC_c00012_NODE_87...region001_ORF3:gid::pid::loc:2518:3262:strand:-:167:245    PP ....699*************************************5..59*********************************876..
+ERR1190811_bin.41.fa_BGC_c00012_NODE_87...region001_ORF13:gid::pid::loc:12540:13344:strand:+:184:262         ....LADHVNLSKFHFSRLFKEITGLSPIVYLTRVRISRAIVLM-EQTDLTMTEISSACGFSSPNYFNRVFKAFTGSTPHKYKK-..
+#=GR ERR1190811_bin.41.fa_BGC_c00012_NODE_87...region001_ORF13:gid::pid::loc:12540:13344:strand:+:184:262 PP ....89************************************66.89**********************************975...
+ERR1190811_bin.50.fa_BGC_c00004_NODE_47...region001_ORF4:gid::pid::loc:5338:6208:strand:+:204:283            ...y-AESRGMSVSWFIRNFKKYTGMTPMQFIVSRRINNAQLLL-EQTNYSINEIAKVVGYDDQLYFSRLFRKQKGFSPSQYRKR..
+#=GR ERR1190811_bin.50.fa_BGC_c00004_NODE_47...region001_ORF4:gid::pid::loc:5338:6208:strand:+:204:283    PP ...5.77779*******************************988.88************************************97..
+#=GC PP_cons                                                                                                 ....7899999*******************************997789**********************************876..
+#=GC RF                                                                                                      ....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

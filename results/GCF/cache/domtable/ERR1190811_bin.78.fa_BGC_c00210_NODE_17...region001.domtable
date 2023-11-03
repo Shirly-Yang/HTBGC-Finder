@@ -1,0 +1,15 @@
+#                                                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Glyco_hydro_2_N      PF02837.20   169 ERR1190811_bin.78.fa_BGC_c00210_NODE_17...region001_ORF1:gid::pid::loc:2:545:strand:- -            181   3.8e-39  134.4   0.1   1   1   2.6e-43     5e-39  134.0   0.1     4   163    32   181    30   181 0.95 Glycosyl hydrolases family 2, sugar binding domain
+PqqD                 PF05402.14    67 ERR1190811_bin.78.fa_BGC_c00210_NODE_17...region001_ORF3:gid::pid::loc:1065:1332:strand:- -             88   3.3e-13   49.8   0.0   1   1   2.1e-17   4.1e-13   49.5   0.0     3    67    17    87    15    87 0.90 Coenzyme PQQ synthesis protein D (PqqD)
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut/Sample/SAMEA3708737/results/GCF/cache/fasta/ERR1190811_bin.78.fa_BGC_c00210_NODE_17...region001.fasta
+# Target file:     /mnt/nfs/5110v5/Server_27_backup/yangxiao_new/miniconda2/envs/bigscape/lib/python3.7/site-packages/antismash/databases/pfam/34.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut/Sample/SAMEA3708737/results/GCF/cache/domtable/ERR1190811_bin.78.fa_BGC_c00210_NODE_17...region001.domtable --cut_tc --cpu 0 /mnt/nfs/5110v5/Server_27_backup/yangxiao_new/miniconda2/envs/bigscape/lib/python3.7/site-packages/antismash/databases/pfam/34.0/Pfam-A.hmm /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut/Sample/SAMEA3708737/results/GCF/cache/fasta/ERR1190811_bin.78.fa_BGC_c00210_NODE_17...region001.fasta 
+# Current dir:     /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut
+# Date:            Sun Jun 18 02:48:46 2023
+# [ok]

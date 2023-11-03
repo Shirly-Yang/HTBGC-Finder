@@ -1,0 +1,199 @@
+ 10.26	4	4	U	0	unclassified
+ 89.74	35	0	R	1	root
+ 89.74	35	0	R1	131567	  cellular organisms
+ 51.28	20	0	D	2	    Bacteria
+ 38.46	15	1	D1	1783272	      Terrabacteria group
+ 33.33	13	1	P	1239	        Firmicutes
+ 20.51	8	0	C	186801	          Clostridia
+ 15.38	6	1	O	186802	            Clostridiales
+  5.13	2	0	F	31979	              Clostridiaceae
+  2.56	1	1	G	1485	                Clostridium
+  2.56	1	0	G	1848399	                Crassaminicella
+  2.56	1	0	G1	2633479	                  unclassified Crassaminicella
+  2.56	1	1	S	2599308	                    Crassaminicella sp. SY095
+  5.13	2	1	F	186804	              Peptostreptococcaceae
+  2.56	1	0	G	1870884	                Clostridioides
+  2.56	1	1	S	1496	                  Clostridioides difficile
+  2.56	1	0	F	541000	              Ruminococcaceae
+  2.56	1	0	G	1263	                Ruminococcus
+  2.56	1	1	S	1160721	                  Ruminococcus bicirculans
+  2.56	1	0	O	53433	            Halanaerobiales
+  2.56	1	0	F	972	              Halanaerobiaceae
+  2.56	1	0	G	2330	                Halanaerobium
+  2.56	1	1	S	656519	                  Halanaerobium hydrogeniformans
+  2.56	1	0	O	68295	            Thermoanaerobacterales
+  2.56	1	0	F	186814	              Thermoanaerobacteraceae
+  2.56	1	1	G	1754	                Thermoanaerobacter
+  7.69	3	0	C	91061	          Bacilli
+  5.13	2	0	O	1385	            Bacillales
+  5.13	2	0	F	186817	              Bacillaceae
+  2.56	1	0	G	1386	                Bacillus
+  2.56	1	0	G1	653685	                  Bacillus subtilis group
+  2.56	1	1	S	1452	                    Bacillus atrophaeus
+  2.56	1	0	G	29331	                Amphibacillus
+  2.56	1	0	S	1449	                  Amphibacillus xylanus
+  2.56	1	1	S1	698758	                    Amphibacillus xylanus NBRC 15112
+  2.56	1	0	O	186826	            Lactobacillales
+  2.56	1	0	F	81852	              Enterococcaceae
+  2.56	1	0	G	2737	                Vagococcus
+  2.56	1	0	G1	2648499	                  unclassified Vagococcus
+  2.56	1	1	S	2714946	                    Vagococcus sp. HDW17A
+  2.56	1	0	C	526524	          Erysipelotrichia
+  2.56	1	0	O	526525	            Erysipelotrichales
+  2.56	1	0	F	128827	              Erysipelotrichaceae
+  2.56	1	0	G	1918538	                Longibaculum
+  2.56	1	0	G1	2636055	                  unclassified Longibaculum
+  2.56	1	1	S	2584943	                    Longibaculum sp. KGMB06250
+  2.56	1	0	P	544448	        Tenericutes
+  2.56	1	0	C	31969	          Mollicutes
+  2.56	1	0	O	186328	            Entomoplasmatales
+  2.56	1	0	F	2131	              Spiroplasmataceae
+  2.56	1	0	G	2132	                Spiroplasma
+  2.56	1	0	S	216936	                  Spiroplasma diminutum
+  2.56	1	1	S1	1276221	                    Spiroplasma diminutum CUAS-1
+  5.13	2	0	D1	1783270	      FCB group
+  5.13	2	0	D2	68336	        Bacteroidetes/Chlorobi group
+  5.13	2	0	P	976	          Bacteroidetes
+  2.56	1	0	C	117743	            Flavobacteriia
+  2.56	1	0	O	200644	              Flavobacteriales
+  2.56	1	0	F	49546	                Flavobacteriaceae
+  2.56	1	0	G	76831	                  Myroides
+  2.56	1	1	S	480520	                    Myroides profundi
+  2.56	1	0	C	200643	            Bacteroidia
+  2.56	1	0	O	171549	              Bacteroidales
+  2.56	1	0	F	815	                Bacteroidaceae
+  2.56	1	0	G	816	                  Bacteroides
+  2.56	1	1	S	28116	                    Bacteroides ovatus
+  5.13	2	0	P	1224	      Proteobacteria
+  5.13	2	0	C	1236	        Gammaproteobacteria
+  5.13	2	0	O	91347	          Enterobacterales
+  5.13	2	0	F	543	            Enterobacteriaceae
+  2.56	1	0	G	570	              Klebsiella
+  2.56	1	1	S	244366	                Klebsiella variicola
+  2.56	1	0	F1	191675	              Enterobacteriaceae incertae sedis
+  2.56	1	0	F2	84563	                ant, tsetse, mealybug, aphid, etc. endosymbionts
+  2.56	1	0	F3	84564	                  ant endosymbionts
+  2.56	1	0	G	203804	                    Candidatus Blochmannia
+  2.56	1	0	G1	711328	                      unclassified Candidatus Blochmannia endosymbionts
+  2.56	1	1	S	2681987	                        Blochmannia endosymbiont of Colobopsis nipponica
+  2.56	1	0	D1	1783257	      PVC group
+  2.56	1	0	P	204428	        Chlamydiae
+  2.56	1	0	C	204429	          Chlamydiia
+  2.56	1	0	O	1963360	            Parachlamydiales
+  2.56	1	0	F	92713	              Parachlamydiaceae
+  2.56	1	0	G	112987	                Neochlamydia
+  2.56	1	0	G1	2643326	                  unclassified Neochlamydia
+  2.56	1	1	S	1353976	                    Neochlamydia sp. S13
+ 38.46	15	0	D	2759	    Eukaryota
+ 25.64	10	0	K	33090	      Viridiplantae
+ 25.64	10	0	P	35493	        Streptophyta
+ 25.64	10	0	P1	131221	          Streptophytina
+ 25.64	10	0	P2	3193	            Embryophyta
+ 25.64	10	0	P3	58023	              Tracheophyta
+ 25.64	10	0	P4	78536	                Euphyllophyta
+ 25.64	10	0	P5	58024	                  Spermatophyta
+ 25.64	10	0	C	3398	                    Magnoliopsida
+ 25.64	10	0	C1	1437183	                      Mesangiospermae
+ 23.08	9	0	C2	71240	                        eudicotyledons
+ 23.08	9	0	C3	91827	                          Gunneridae
+ 23.08	9	0	C4	1437201	                            Pentapetalae
+ 12.82	5	0	C5	71275	                              rosids
+ 12.82	5	0	C6	91835	                                fabids
+  7.69	3	0	O	72025	                                  Fabales
+  7.69	3	0	F	3803	                                    Fabaceae
+  7.69	3	0	F1	3814	                                      Papilionoideae
+  7.69	3	0	F2	2231393	                                        50 kb inversion clade
+  7.69	3	0	F3	2231382	                                          NPAAA clade
+  5.13	2	0	F4	2233855	                                            indigoferoid/millettioid clade
+  5.13	2	0	F5	163735	                                              Phaseoleae
+  2.56	1	0	G	3846	                                                Glycine
+  2.56	1	1	G1	1462606	                                                  Glycine subgen. Soja
+  2.56	1	0	G	3913	                                                Vigna
+  2.56	1	0	S	157791	                                                  Vigna radiata
+  2.56	1	1	S1	3916	                                                    Vigna radiata var. radiata
+  2.56	1	0	F4	2233838	                                            Hologalegina
+  2.56	1	0	F5	2233839	                                              IRL clade
+  2.56	1	0	F6	163742	                                                Trifolieae
+  2.56	1	0	G	3877	                                                  Medicago
+  2.56	1	1	S	3880	                                                    Medicago truncatula
+  2.56	1	0	O	3502	                                  Fagales
+  2.56	1	0	F	3503	                                    Fagaceae
+  2.56	1	0	G	3511	                                      Quercus
+  2.56	1	1	S	97700	                                        Quercus lobata
+  2.56	1	0	O	3744	                                  Rosales
+  2.56	1	0	F	3745	                                    Rosaceae
+  2.56	1	0	F1	171637	                                      Amygdaloideae
+  2.56	1	0	F2	721805	                                        Amygdaleae
+  2.56	1	0	G	3754	                                          Prunus
+  2.56	1	1	S	3755	                                            Prunus dulcis
+  7.69	3	0	C5	71274	                              asterids
+  7.69	3	0	C6	91888	                                lamiids
+  5.13	2	0	O	4069	                                  Solanales
+  5.13	2	0	F	4070	                                    Solanaceae
+  2.56	1	0	F1	424551	                                      Solanoideae
+  2.56	1	0	F2	424574	                                        Solaneae
+  2.56	1	0	G	4107	                                          Solanum
+  2.56	1	0	G1	49274	                                            Solanum subgen. Lycopersicon
+  2.56	1	1	S	4081	                                              Solanum lycopersicum
+  2.56	1	0	F1	424554	                                      Nicotianoideae
+  2.56	1	0	F2	424562	                                        Nicotianeae
+  2.56	1	0	G	4085	                                          Nicotiana
+  2.56	1	1	S	49451	                                            Nicotiana attenuata
+  2.56	1	0	O	4143	                                  Lamiales
+  2.56	1	0	F	4144	                                    Oleaceae
+  2.56	1	0	F1	426106	                                      Oleeae
+  2.56	1	0	G	4145	                                        Olea
+  2.56	1	0	S	4146	                                          Olea europaea
+  2.56	1	0	S1	158383	                                            Olea europaea subsp. europaea
+  2.56	1	1	S2	158386	                                              Olea europaea var. sylvestris
+  2.56	1	0	O	3524	                              Caryophyllales
+  2.56	1	0	F	1804623	                                Chenopodiaceae
+  2.56	1	0	F1	1804621	                                  Betoideae
+  2.56	1	0	G	3554	                                    Beta
+  2.56	1	0	S	161934	                                      Beta vulgaris
+  2.56	1	1	S1	3555	                                        Beta vulgaris subsp. vulgaris
+  2.56	1	0	O	41768	                        Ranunculales
+  2.56	1	0	F	3465	                          Papaveraceae
+  2.56	1	0	F1	1462614	                            Papaveroideae
+  2.56	1	0	G	3468	                              Papaver
+  2.56	1	1	S	3469	                                Papaver somniferum
+ 10.26	4	0	D1	33154	      Opisthokonta
+ 10.26	4	0	K	33208	        Metazoa
+ 10.26	4	0	K1	6072	          Eumetazoa
+ 10.26	4	0	K2	33213	            Bilateria
+ 10.26	4	0	K3	33511	              Deuterostomia
+ 10.26	4	0	P	7711	                Chordata
+ 10.26	4	0	P1	89593	                  Craniata
+ 10.26	4	0	P2	7742	                    Vertebrata
+ 10.26	4	0	P3	7776	                      Gnathostomata
+ 10.26	4	0	P4	117570	                        Teleostomi
+ 10.26	4	0	P5	117571	                          Euteleostomi
+ 10.26	4	0	P6	8287	                            Sarcopterygii
+ 10.26	4	0	P7	1338369	                              Dipnotetrapodomorpha
+ 10.26	4	0	P8	32523	                                Tetrapoda
+ 10.26	4	0	P9	32524	                                  Amniota
+ 10.26	4	0	C	40674	                                    Mammalia
+ 10.26	4	0	C1	32525	                                      Theria
+ 10.26	4	0	C2	9347	                                        Eutheria
+ 10.26	4	0	C3	1437010	                                          Boreoeutheria
+ 10.26	4	0	C4	314146	                                            Euarchontoglires
+ 10.26	4	0	O	9443	                                              Primates
+ 10.26	4	0	O1	376913	                                                Haplorrhini
+ 10.26	4	0	O2	314293	                                                  Simiiformes
+ 10.26	4	0	O3	9526	                                                    Catarrhini
+ 10.26	4	0	O4	314295	                                                      Hominoidea
+ 10.26	4	0	F	9604	                                                        Hominidae
+ 10.26	4	0	F1	207598	                                                          Homininae
+ 10.26	4	0	G	9605	                                                            Homo
+ 10.26	4	4	S	9606	                                                              Homo sapiens
+  2.56	1	0	D1	2698737	      Sar
+  2.56	1	0	D2	33630	        Alveolata
+  2.56	1	0	P	5794	          Apicomplexa
+  2.56	1	0	C	1280412	            Conoidasida
+  2.56	1	0	C1	5796	              Coccidia
+  2.56	1	0	O	75739	                Eucoccidiorida
+  2.56	1	0	O1	423054	                  Eimeriorina
+  2.56	1	0	F	5809	                    Sarcocystidae
+  2.56	1	0	G	5810	                      Toxoplasma
+  2.56	1	0	S	5811	                        Toxoplasma gondii
+  2.56	1	1	S1	508771	                          Toxoplasma gondii ME49

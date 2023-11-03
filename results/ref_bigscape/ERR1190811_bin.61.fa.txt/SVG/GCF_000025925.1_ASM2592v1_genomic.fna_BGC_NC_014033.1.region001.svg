@@ -1,0 +1,145 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="695.6666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="685.6666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg1_2199)</title>
+			<polygon class=" (ctg1_2199)" points="18,40 29,10 29,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ribosomal_L23 (PF00276)
+"Ribosomal protein L23"</title>
+				<polygon class="PF00276" points="21,40 26,28 28,28 28,52 26,52" stroke-linejoin="round" width="10" height="24" fill="rgb(180,171,61)" stroke="rgb(144,136,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_2200)</title>
+			<polygon class=" (ctg1_2200)" points="30,40 51,10 51,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ribosomal_L4 (PF00573)
+"Ribosomal protein L4/L1 family"</title>
+				<polygon class="PF00573" points="34,40 42,28 48,28 48,52 42,52" stroke-linejoin="round" width="18" height="24" fill="rgb(206,194,95)" stroke="rgb(164,155,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_2201)</title>
+			<polygon class=" (ctg1_2201)" points="51,40 71,10 71,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ribosomal_L3 (PF00297)
+"Ribosomal protein L3"</title>
+				<polygon class="PF00297" points="55,40 63,28 64,28 64,52 63,52" stroke-linejoin="round" width="11" height="24" fill="rgb(188,83,217)" stroke="rgb(150,66,173)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_2202)</title>
+			<polygon class=" (ctg1_2202)" points="73,10 76,40 73,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_2203)</title>
+			<polygon class=" (ctg1_2203)" points="100,40 104,10 104,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_2204)</title>
+			<polygon class=" (ctg1_2204)" points="147,25 135,25 135,10 105,40 135,70 135,55 147,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_2205)</title>
+			<polygon class=" (ctg1_2205)" points="249,25 179,25 179,10 149,40 179,70 179,55 249,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_2206)</title>
+			<polygon class=" (ctg1_2206)" points="251,40 269,10 269,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_2207)</title>
+			<polygon class=" (ctg1_2207)" points="270,40 278,10 278,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_2208)</title>
+			<polygon class=" (ctg1_2208)" points="341,25 318,25 318,10 288,40 318,70 318,55 341,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="293,39 304,28 306,28 306,52 304,52 293,41" stroke-linejoin="round" width="13" height="24" fill="rgb(63,205,104)" stroke="rgb(50,164,83)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="313" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(125,63,227)" stroke="rgb(99,50,181)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_2209)</title>
+			<polygon class=" (ctg1_2209)" points="343,40 352,10 352,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PqqD (PF05402)
+"Coenzyme PQQ synthesis protein D (PqqD)"</title>
+				<polygon class="PF05402" points="346,40 350,28 350,28 350,52 350,52" stroke-linejoin="round" width="7" height="24" fill="rgb(218,64,155)" stroke="rgb(174,51,124)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_2210)</title>
+			<polygon class=" (ctg1_2210)" points="353,40 367,10 367,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_2211)</title>
+			<polygon class=" (ctg1_2211)" points="368,40 396,10 396,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_2212)</title>
+			<polygon class=" (ctg1_2212)" points="433,25 427,25 427,10 397,40 427,70 427,55 433,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NTP_transf_5 (PF14907)
+"Uncharacterised nucleotidyltransferase"</title>
+				<polygon class="PF14907" points="406,35 413,28 430,28 430,52 413,52 406,45" stroke-linejoin="round" width="24" height="24" fill="rgb(193,150,83)" stroke="rgb(154,120,66)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_2213)</title>
+			<polygon class=" (ctg1_2213)" points="519,25 466,25 466,10 436,40 466,70 466,55 519,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_2214)</title>
+			<polygon class=" (ctg1_2214)" points="519,40 548,10 548,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Porph_ging (PF09697)
+"Protein of unknown function (Porph_ging)"</title>
+				<polygon class="PF09697" points="527,36 530,33 530,47 527,44" stroke-linejoin="round" width="3" height="24" fill="rgb(213,82,211)" stroke="rgb(170,65,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_2215)</title>
+			<polygon class=" (ctg1_2215)" points="591,25 580,25 580,10 550,40 580,70 580,55 591,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_2216)</title>
+			<polygon class=" (ctg1_2216)" points="644,25 621,25 621,10 591,40 621,70 621,55 644,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TonB_C (PF03544)
+"Gram-negative bacterial TonB protein C-terminal"</title>
+				<polygon class="PF03544" points="599,36 606,29 606,51 599,44" stroke-linejoin="round" width="7" height="24" fill="rgb(192,186,87)" stroke="rgb(153,148,69)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Peptidase_M56 (PF05569)
+"BlaR1 peptidase M56"</title>
+				<rect class="PF05569" x="619" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(199,177,62)" stroke="rgb(159,141,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_2217)</title>
+			<polygon class=" (ctg1_2217)" points="646,40 658,10 658,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Penicillinase_R (PF03965)
+"Penicillinase repressor"</title>
+				<polygon class="PF03965" points="649,40 654,28 657,28 657,52 654,52" stroke-linejoin="round" width="11" height="24" fill="rgb(188,78,53)" stroke="rgb(150,62,42)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_2218)</title>
+			<polygon class=" (ctg1_2218)" points="665,40 675,10 675,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ribosomal_S10 (PF00338)
+"Ribosomal protein S10p/S20e"</title>
+				<polygon class="PF00338" points="668,40 672,28 674,28 674,52 672,52" stroke-linejoin="round" width="9" height="24" fill="rgb(101,161,211)" stroke="rgb(80,128,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

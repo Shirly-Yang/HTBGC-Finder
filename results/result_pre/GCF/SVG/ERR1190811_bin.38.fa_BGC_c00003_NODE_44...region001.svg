@@ -1,0 +1,85 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="335.5" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="325.5" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg3_1)</title>
+			<polygon class=" (ctg3_1)" points="10,40 19,10 19,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CotJA (PF11007)
+"Spore coat associated protein JA (CotJA)"</title>
+				<polygon class="PF11007" points="13,40 14,37 14,43" stroke-linejoin="round" width="3" height="24" fill="rgb(181,68,163)" stroke="rgb(144,54,130)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_2)</title>
+			<polygon class=" (ctg3_2)" points="73,25 57,25 57,10 27,40 57,70 57,55 73,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SNF (PF00209)
+"Sodium:neurotransmitter symporter family"</title>
+				<polygon class="PF00209" points="31,40 43,28 60,28 60,52 43,52" stroke-linejoin="round" width="33" height="24" fill="rgb(92,121,196)" stroke="rgb(73,96,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_3)</title>
+			<polygon class=" (ctg3_3)" points="152,25 119,25 119,10 89,40 119,70 119,55 152,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sulfatase (PF00884)
+"Sulfatase"</title>
+				<polygon class="PF00884" points="95,38 105,28 126,28 126,52 105,52 95,42" stroke-linejoin="round" width="31" height="24" fill="rgb(57,196,55)" stroke="rgb(45,156,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_4)</title>
+			<polygon class=" (ctg3_4)" points="163,25 173,25 173,10 203,40 173,70 173,55 163,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LytR_cpsA_psr (PF03816)
+"LytR_cpsA_psr family"</title>
+				<polygon class="PF03816" points="176,28 187,28 193,34 193,46 187,52 176,52" stroke-linejoin="round" width="17" height="24" fill="rgb(227,213,82)" stroke="rgb(181,170,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_5)</title>
+			<polygon class=" (ctg3_5)" points="205,25 218,25 218,10 248,40 218,70 218,55 205,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LytR_cpsA_psr (PF03816)
+"LytR_cpsA_psr family"</title>
+				<rect class="PF03816" x="213" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(227,213,82)" stroke="rgb(181,170,65)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LytR_C (PF13399)
+"LytR cell envelope-related transcriptional attenuator"</title>
+				<polygon class="PF13399" points="239,35 244,40 239,45" stroke-linejoin="round" width="8" height="24" fill="rgb(216,68,191)" stroke="rgb(172,54,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_6)</title>
+			<polygon class=" (ctg3_6)" points="249,10 255,40 249,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3_7)</title>
+			<polygon class=" (ctg3_7)" points="258,40 269,10 269,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PemK_toxin (PF02452)
+"PemK-like, MazF-like toxin of type II toxin-antitoxin system"</title>
+				<polygon class="PF02452" points="261,40 266,28 268,28 268,52 266,52" stroke-linejoin="round" width="10" height="24" fill="rgb(81,214,160)" stroke="rgb(64,171,128)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_8)</title>
+			<polygon class=" (ctg3_8)" points="273,40 293,10 293,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3_9)</title>
+			<polygon class=" (ctg3_9)" points="300,10 304,40 300,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3_10)</title>
+			<polygon class=" (ctg3_10)" points="318,10 325,40 318,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PqqD (PF05402)
+"Coenzyme PQQ synthesis protein D (PqqD)"</title>
+				<polygon class="PF05402" points="319,27 322,40 319,53" stroke-linejoin="round" width="6" height="24" fill="rgb(218,64,155)" stroke="rgb(174,51,124)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

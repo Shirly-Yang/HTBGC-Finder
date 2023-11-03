@@ -1,0 +1,167 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="706.1666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="696.1666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg32_3)</title>
+			<polygon class=" (ctg32_3)" points="60,10 73,40 60,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FliS (PF02561)
+"Flagellar protein FliS"</title>
+				<polygon class="PF02561" points="60,28 64,28 69,40 64,52 60,52" stroke-linejoin="round" width="11" height="24" fill="rgb(46,173,181)" stroke="rgb(36,138,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg32_4)</title>
+			<polygon class=" (ctg32_4)" points="78,10 93,40 78,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg32_5)</title>
+			<polygon class=" (ctg32_5)" points="95,40 120,10 120,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4097 (PF13349)
+"Putative adhesin"</title>
+				<polygon class="PF13349" points="99,40 109,28 113,28 113,52 109,52" stroke-linejoin="round" width="17" height="24" fill="rgb(80,226,91)" stroke="rgb(64,180,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg32_6)</title>
+			<polygon class=" (ctg32_6)" points="156,25 153,25 153,10 123,40 153,70 153,55 156,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg32_7)</title>
+			<polygon class=" (ctg32_7)" points="157,40 168,10 168,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PadR (PF03551)
+"Transcriptional regulator PadR-like family"</title>
+				<polygon class="PF03551" points="160,40 164,28 165,28 165,52 164,52" stroke-linejoin="round" width="7" height="24" fill="rgb(198,89,196)" stroke="rgb(158,71,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg32_8)</title>
+			<polygon class=" (ctg32_8)" points="186,10 207,40 186,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Mntp (PF02659)
+"Putative manganese efflux pump"</title>
+				<polygon class="PF02659" points="190,28 195,28 203,40 195,52 190,52" stroke-linejoin="round" width="15" height="24" fill="rgb(205,64,59)" stroke="rgb(164,51,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg32_9)</title>
+			<polygon class=" (ctg32_9)" points="208,25 210,25 210,10 240,40 210,70 210,55 208,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Na_Ca_ex (PF01699)
+"Sodium/calcium exchanger protein"</title>
+				<rect class="PF01699" x="209" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(177,226,102)" stroke="rgb(141,180,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Na_Ca_ex (PF01699)
+"Sodium/calcium exchanger protein"</title>
+				<polygon class="PF01699" points="225,29 236,40 225,51" stroke-linejoin="round" width="14" height="24" fill="rgb(177,226,102)" stroke="rgb(141,180,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg32_10)</title>
+			<polygon class=" (ctg32_10)" points="251,10 272,40 251,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HD (PF01966)
+"HD domain"</title>
+				<polygon class="PF01966" points="254,28 260,28 266,36 266,44 260,52 254,52" stroke-linejoin="round" width="12" height="24" fill="rgb(56,126,222)" stroke="rgb(44,100,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg32_11)</title>
+			<polygon class=" (ctg32_11)" points="318,25 305,25 305,10 275,40 305,70 305,55 318,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HATPase_c_5 (PF14501)
+"GHKL domain"</title>
+				<polygon class="PF14501" points="279,40 285,34 285,46" stroke-linejoin="round" width="10" height="24" fill="rgb(187,81,89)" stroke="rgb(149,64,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg32_12)</title>
+			<polygon class=" (ctg32_12)" points="319,40 343,10 343,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LytTR (PF04397)
+"LytTr DNA-binding domain"</title>
+				<polygon class="PF04397" points="323,40 328,34 328,46" stroke-linejoin="round" width="9" height="24" fill="rgb(154,92,215)" stroke="rgb(123,73,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="331,30 333,28 342,28 342,52 333,52 331,50" stroke-linejoin="round" width="11" height="24" fill="rgb(209,129,92)" stroke="rgb(167,103,73)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg32_13)</title>
+			<polygon class=" (ctg32_13)" points="343,40 362,10 362,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AgrB (PF04647)
+"Accessory gene regulator B"</title>
+				<polygon class="PF04647" points="347,40 355,28 361,28 361,52 355,52" stroke-linejoin="round" width="17" height="24" fill="rgb(67,227,212)" stroke="rgb(53,181,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg32_14)</title>
+			<polygon class=" (ctg32_14)" points="378,25 391,25 391,10 421,40 391,70 391,55 378,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg32_15)</title>
+			<polygon class=" (ctg32_15)" points="422,25 457,25 457,10 487,40 457,70 457,55 422,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg32_16)</title>
+			<polygon class=" (ctg32_16)" points="487,10 516,40 487,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="489,28 499,28 503,31 503,49 499,52 489,52" stroke-linejoin="round" width="14" height="24" fill="rgb(63,205,104)" stroke="rgb(50,164,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg32_17)</title>
+			<polygon class=" (ctg32_17)" points="539,25 577,25 577,10 607,40 577,70 577,55 539,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>tRNA-synt_1g (PF09334)
+"tRNA synthetases class I (M)"</title>
+				<rect class="PF09334" x="539" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(91,182,114)" stroke="rgb(72,145,91)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>tRNA-synt_1g (PF09334)
+"tRNA synthetases class I (M)"</title>
+				<rect class="PF09334" x="554" y="28" stroke-linejoin="round" width="21" height="24" fill="rgb(91,182,114)" stroke="rgb(72,145,91)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Anticodon_3 (PF19303)
+"Anticodon binding domain of methionyl tRNA ligase"</title>
+				<polygon class="PF19303" points="576,28 590,28 591,29 591,51 590,52 576,52" stroke-linejoin="round" width="15" height="24" fill="rgb(71,214,181)" stroke="rgb(56,171,144)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>tRNA_bind (PF01588)
+"Putative tRNA binding domain"</title>
+				<polygon class="PF01588" points="597,35 602,40 597,45" stroke-linejoin="round" width="9" height="24" fill="rgb(174,73,205)" stroke="rgb(139,58,164)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg32_18)</title>
+			<polygon class=" (ctg32_18)" points="608,10 626,40 608,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NUDIX (PF00293)
+"NUDIX domain"</title>
+				<polygon class="PF00293" points="610,28 615,28 623,40 623,40 615,52 610,52" stroke-linejoin="round" width="13" height="24" fill="rgb(67,119,185)" stroke="rgb(53,95,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg32_19)</title>
+			<polygon class=" (ctg32_19)" points="630,10 636,40 630,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg32_20)</title>
+			<polygon class=" (ctg32_20)" points="642,25 659,25 659,10 689,40 659,70 659,55 642,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Na_Ala_symp (PF01235)
+"Sodium:alanine symporter family"</title>
+				<polygon class="PF01235" points="647,28 673,28 685,40 673,52 647,52" stroke-linejoin="round" width="41" height="24" fill="rgb(127,109,228)" stroke="rgb(101,87,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

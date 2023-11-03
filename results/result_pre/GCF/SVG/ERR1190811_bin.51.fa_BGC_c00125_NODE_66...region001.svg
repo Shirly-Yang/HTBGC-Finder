@@ -1,0 +1,67 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="237.5" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="227.5" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg125_1)</title>
+			<polygon class=" (ctg125_1)" points="10,10 32,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GATase (PF00117)
+"Glutamine amidotransferase class-I"</title>
+				<polygon class="PF00117" points="13,28 20,28 28,40 20,52 13,52" stroke-linejoin="round" width="19" height="24" fill="rgb(162,183,90)" stroke="rgb(129,146,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg125_2)</title>
+			<polygon class=" (ctg125_2)" points="38,25 40,25 40,10 70,40 40,70 40,55 38,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg125_3)</title>
+			<polygon class=" (ctg125_3)" points="70,10 78,40 70,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PqqD (PF05402)
+"Coenzyme PQQ synthesis protein D (PqqD)"</title>
+				<polygon class="PF05402" points="71,28 71,28 75,40 71,52 71,52" stroke-linejoin="round" width="7" height="24" fill="rgb(218,64,155)" stroke="rgb(174,51,124)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg125_4)</title>
+			<polygon class=" (ctg125_4)" points="89,10 94,40 89,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg125_5)</title>
+			<polygon class=" (ctg125_5)" points="96,25 98,25 98,10 128,40 98,70 98,55 96,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NTP_transf_5 (PF14907)
+"Uncharacterised nucleotidyltransferase"</title>
+				<polygon class="PF14907" points="99,28 111,28 122,39 122,41 111,52 99,52" stroke-linejoin="round" width="23" height="24" fill="rgb(193,150,83)" stroke="rgb(154,120,66)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg125_6)</title>
+			<polygon class=" (ctg125_6)" points="128,25 128,25 128,10 158,40 128,70 128,55 128,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Polysacc_synt_2 (PF02719)
+"Polysaccharide biosynthesis protein"</title>
+				<polygon class="PF02719" points="128,28 142,28 149,35 149,45 142,52 128,52" stroke-linejoin="round" width="21" height="24" fill="rgb(198,62,226)" stroke="rgb(158,49,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg125_7)</title>
+			<polygon class=" (ctg125_7)" points="219,25 192,25 192,10 162,40 192,70 192,55 219,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M3 (PF01432)
+"Peptidase family M3"</title>
+				<polygon class="PF01432" points="166,40 178,28 189,28 189,52 178,52" stroke-linejoin="round" width="26" height="24" fill="rgb(216,212,58)" stroke="rgb(172,169,46)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Peptidase_M3 (PF01432)
+"Peptidase family M3"</title>
+				<rect class="PF01432" x="191" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(216,212,58)" stroke="rgb(172,169,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg125_8)</title>
+			<polygon class=" (ctg125_8)" points="223,10 226,40 223,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,152 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="695.3666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="685.3666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg6_2)</title>
+			<polygon class=" (ctg6_2)" points="32,40 50,10 50,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SpoIIIAH (PF12685)
+"SpoIIIAH-like protein"</title>
+				<polygon class="PF12685" points="36,40 43,28 46,28 46,52 43,52" stroke-linejoin="round" width="14" height="24" fill="rgb(106,180,67)" stroke="rgb(84,144,53)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_3)</title>
+			<polygon class=" (ctg6_3)" points="51,40 67,10 67,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg6_4)</title>
+			<polygon class=" (ctg6_4)" points="67,40 83,10 83,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg6_5)</title>
+			<polygon class=" (ctg6_5)" points="120,25 113,25 113,10 83,40 113,70 113,55 120,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Spore_III_AE (PF09546)
+"Stage III sporulation protein AE (spore_III_AE)"</title>
+				<polygon class="PF09546" points="87,40 99,28 113,28 113,52 99,52" stroke-linejoin="round" width="30" height="24" fill="rgb(66,182,182)" stroke="rgb(52,145,145)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_6)</title>
+			<polygon class=" (ctg6_6)" points="120,40 132,10 132,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SpoIIIAC (PF06686)
+"Stage III sporulation protein AC/AD protein family"</title>
+				<polygon class="PF06686" points="123,40 125,35 125,45" stroke-linejoin="round" width="5" height="24" fill="rgb(213,60,227)" stroke="rgb(170,48,181)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_7)</title>
+			<polygon class=" (ctg6_7)" points="133,40 139,10 139,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SpoIIIAC (PF06686)
+"Stage III sporulation protein AC/AD protein family"</title>
+				<polygon class="PF06686" points="136,40 138,31 138,49" stroke-linejoin="round" width="5" height="24" fill="rgb(213,60,227)" stroke="rgb(170,48,181)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_8)</title>
+			<polygon class=" (ctg6_8)" points="140,40 157,10 157,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Spore_III_AB (PF09548)
+"Stage III sporulation protein AB (spore_III_AB)"</title>
+				<polygon class="PF09548" points="143,40 150,28 156,28 156,52 150,52" stroke-linejoin="round" width="16" height="24" fill="rgb(174,57,218)" stroke="rgb(139,45,174)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_9)</title>
+			<polygon class=" (ctg6_9)" points="157,40 186,10 186,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Spore_III_AA (PF19568)
+"Sporulation stage III, protein AA"</title>
+				<polygon class="PF19568" points="161,40 173,28 185,28 185,52 173,52" stroke-linejoin="round" width="28" height="24" fill="rgb(167,56,190)" stroke="rgb(133,44,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_10)</title>
+			<polygon class=" (ctg6_10)" points="231,25 220,25 220,10 190,40 220,70 220,55 231,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1015 (PF06245)
+"Protein of unknown function (DUF1015)"</title>
+				<polygon class="PF06245" points="194,40 206,28 229,28 229,52 206,52" stroke-linejoin="round" width="38" height="24" fill="rgb(100,186,210)" stroke="rgb(80,148,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_11)</title>
+			<polygon class=" (ctg6_11)" points="281,25 261,25 261,10 231,40 261,70 261,55 281,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FGGY_C (PF02782)
+"FGGY family of carbohydrate kinases, C-terminal domain"</title>
+				<polygon class="PF02782" points="235,40 247,28 254,28 254,52 247,52 235,40" stroke-linejoin="round" width="19" height="24" fill="rgb(212,98,137)" stroke="rgb(169,78,109)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FGGY_N (PF00370)
+"FGGY family of carbohydrate kinases, N-terminal domain"</title>
+				<rect class="PF00370" x="255" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(73,177,198)" stroke="rgb(58,141,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_12)</title>
+			<polygon class=" (ctg6_12)" points="284,25 285,25 285,10 315,40 285,70 285,55 284,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Hydrolase_4 (PF12146)
+"Serine aminopeptidase, S33"</title>
+				<polygon class="PF12146" points="286,28 298,28 310,40 298,52 286,52" stroke-linejoin="round" width="26" height="24" fill="rgb(156,92,207)" stroke="rgb(124,73,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_13)</title>
+			<polygon class=" (ctg6_13)" points="318,10 333,40 318,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg6_14)</title>
+			<polygon class=" (ctg6_14)" points="343,40 351,10 351,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PqqD (PF05402)
+"Coenzyme PQQ synthesis protein D (PqqD)"</title>
+				<polygon class="PF05402" points="346,40 349,28 350,28 350,52 349,52" stroke-linejoin="round" width="7" height="24" fill="rgb(218,64,155)" stroke="rgb(174,51,124)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_15)</title>
+			<polygon class=" (ctg6_15)" points="388,25 381,25 381,10 351,40 381,70 381,55 388,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<rect class="PF04055" x="369" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(184,71,96)" stroke="rgb(147,56,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_16)</title>
+			<polygon class=" (ctg6_16)" points="389,40 417,10 417,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg6_17)</title>
+			<polygon class=" (ctg6_17)" points="417,40 440,10 440,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg6_18)</title>
+			<polygon class=" (ctg6_18)" points="618,25 482,25 482,10 452,40 482,70 482,55 618,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_hydro_20 (PF00728)
+"Glycosyl hydrolase family 20, catalytic domain"</title>
+				<rect class="PF00728" x="578" y="28" stroke-linejoin="round" width="35" height="24" fill="rgb(61,157,185)" stroke="rgb(48,125,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_19)</title>
+			<polygon class=" (ctg6_19)" points="656,25 656,25 656,10 626,40 656,70 656,55 656,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM_C (PF16199)
+"Radical_SAM C-terminal domain"</title>
+				<polygon class="PF16199" points="630,40 635,35 635,45" stroke-linejoin="round" width="8" height="24" fill="rgb(182,92,87)" stroke="rgb(145,73,69)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<polygon class="PF04055" points="635,35 642,28 652,28 652,52 642,52 635,45" stroke-linejoin="round" width="17" height="24" fill="rgb(184,71,96)" stroke="rgb(147,56,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

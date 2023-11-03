@@ -1,0 +1,56 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="205.86666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="195.86666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg149_1)</title>
+			<polygon class=" (ctg149_1)" points="87,25 40,25 40,10 10,40 40,70 40,55 87,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<polygon class="PF13193" points="14,40 13,41 13,39" stroke-linejoin="round" width="3" height="24" fill="rgb(122,220,79)" stroke="rgb(97,176,63)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="14,40 26,28 57,28 57,52 26,52 14,40" stroke-linejoin="round" width="43" height="24" fill="rgb(111,178,63)" stroke="rgb(88,142,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AP_endonuc_2 (PF01261)
+"Xylose isomerase-like TIM barrel"</title>
+				<rect class="PF01261" x="62" y="28" stroke-linejoin="round" width="22" height="24" fill="rgb(145,220,103)" stroke="rgb(116,176,82)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg149_2)</title>
+			<polygon class=" (ctg149_2)" points="134,25 117,25 117,10 87,40 117,70 117,55 134,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LeuA_dimer (PF08502)
+"LeuA allosteric (dimerisation) domain"</title>
+				<polygon class="PF08502" points="91,40 100,31 100,49" stroke-linejoin="round" width="13" height="24" fill="rgb(78,82,212)" stroke="rgb(62,65,169)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HMGL-like (PF00682)
+"HMGL-like"</title>
+				<rect class="PF00682" x="107" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(193,193,85)" stroke="rgb(154,154,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg149_3)</title>
+			<polygon class=" (ctg149_3)" points="149,10 159,40 149,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg149_4)</title>
+			<polygon class=" (ctg149_4)" points="194,25 194,25 194,10 164,40 194,70 194,55 194,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OB_MalK (PF17912)
+"MalK OB fold domain"</title>
+				<polygon class="PF17912" points="171,37 176,32 176,48 171,43" stroke-linejoin="round" width="5" height="24" fill="rgb(149,97,197)" stroke="rgb(119,77,157)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<rect class="PF00005" x="184" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(63,205,104)" stroke="rgb(50,164,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

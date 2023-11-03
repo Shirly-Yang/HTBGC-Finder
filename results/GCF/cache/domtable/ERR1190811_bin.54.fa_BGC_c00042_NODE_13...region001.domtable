@@ -1,0 +1,17 @@
+#                                                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AgrB                 PF04647.17   184 ERR1190811_bin.54.fa_BGC_c00042_NODE_13...region001_ORF10:gid::pid::loc:10115:10766:strand:- -            216   2.6e-31  108.5  26.9   1   1     2e-35   3.8e-31  108.0  26.9     4   174    18   191    15   205 0.81 Accessory gene regulator B
+HATPase_c_5          PF14501.8    101 ERR1190811_bin.54.fa_BGC_c00042_NODE_13...region001_ORF11:gid::pid::loc:10855:12160:strand:- -            434   2.1e-20   72.6   2.0   1   1   1.1e-24   2.1e-20   72.6   2.0     1    90   327   418   327   425 0.90 GHKL domain
+LytTR                PF04397.17    98 ERR1190811_bin.54.fa_BGC_c00042_NODE_13...region001_ORF12:gid::pid::loc:12156:12783:strand:- -            208   5.2e-13   49.1   1.4   1   1   9.9e-17   9.5e-13   48.3   1.4     6    96   121   206   119   208 0.96 LytTr DNA-binding domain
+Response_reg         PF00072.26   112 ERR1190811_bin.54.fa_BGC_c00042_NODE_13...region001_ORF12:gid::pid::loc:12156:12783:strand:- -            208   5.5e-09   36.3   0.0   1   1   1.4e-12   1.3e-08   35.1   0.0    21   109    12    97     3   100 0.88 Response regulator receiver domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut/Sample/SAMEA3708737/results/GCF/cache/fasta/ERR1190811_bin.54.fa_BGC_c00042_NODE_13...region001.fasta
+# Target file:     /mnt/nfs/5110v5/Server_27_backup/yangxiao_new/miniconda2/envs/bigscape/lib/python3.7/site-packages/antismash/databases/pfam/34.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut/Sample/SAMEA3708737/results/GCF/cache/domtable/ERR1190811_bin.54.fa_BGC_c00042_NODE_13...region001.domtable --cut_tc --cpu 0 /mnt/nfs/5110v5/Server_27_backup/yangxiao_new/miniconda2/envs/bigscape/lib/python3.7/site-packages/antismash/databases/pfam/34.0/Pfam-A.hmm /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut/Sample/SAMEA3708737/results/GCF/cache/fasta/ERR1190811_bin.54.fa_BGC_c00042_NODE_13...region001.fasta 
+# Current dir:     /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut
+# Date:            Sun Jun 18 02:48:50 2023
+# [ok]

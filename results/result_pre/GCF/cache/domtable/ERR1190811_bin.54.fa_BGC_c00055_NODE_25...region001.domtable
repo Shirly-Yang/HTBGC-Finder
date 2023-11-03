@@ -1,0 +1,25 @@
+#                                                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AAA_14               PF13173.8    130 ERR1190811_bin.54.fa_BGC_c00055_NODE_25...region001_ORF1:gid::pid::loc:348:1563:strand:+ -            404     2e-35  121.7   1.3   1   1   7.6e-39   7.3e-35  119.9   0.1     3   130    19   150    17   150 0.93 AAA domain
+DUF4143              PF13635.8    122 ERR1190811_bin.54.fa_BGC_c00055_NODE_25...region001_ORF1:gid::pid::loc:348:1563:strand:+ -            404   3.4e-11   43.4   0.3   1   1   8.6e-15   8.2e-11   42.1   0.2     2   121   202   350   201   351 0.91 Domain of unknown function (DUF4143)
+HATPase_c_5          PF14501.8    101 ERR1190811_bin.54.fa_BGC_c00055_NODE_25...region001_ORF2:gid::pid::loc:1635:2892:strand:- -            418   2.3e-18   66.0   2.4   1   1   1.4e-22   2.7e-18   65.8   0.5     2   100   316   416   315   417 0.91 GHKL domain
+Response_reg         PF00072.26   112 ERR1190811_bin.54.fa_BGC_c00055_NODE_25...region001_ORF3:gid::pid::loc:2891:3614:strand:- -            240   3.9e-15   56.1   0.0   1   1   8.2e-19   7.9e-15   55.1   0.0     3   111     7   121     5   122 0.84 Response regulator receiver domain
+LytTR                PF04397.17    98 ERR1190811_bin.54.fa_BGC_c00055_NODE_25...region001_ORF3:gid::pid::loc:2891:3614:strand:- -            240     6e-13   49.0   0.1   1   1   1.7e-16   1.6e-12   47.6   0.1     6    95   146   229   142   232 0.94 LytTr DNA-binding domain
+AgrB                 PF04647.17   184 ERR1190811_bin.54.fa_BGC_c00055_NODE_25...region001_ORF4:gid::pid::loc:3618:4182:strand:- -            187   6.9e-36  123.4  16.1   1   1   4.1e-40   7.8e-36  123.2  16.1     6   182     5   176     1   178 0.91 Accessory gene regulator B
+ABC_tran             PF00005.29   137 ERR1190811_bin.54.fa_BGC_c00055_NODE_25...region001_ORF5:gid::pid::loc:4192:4834:strand:- -            213   8.4e-28   97.7   0.0   1   1   1.2e-31   1.1e-27   97.3   0.0     1   137    18   158    18   158 0.96 ABC transporter
+DUF2705              PF10920.10   226 ERR1190811_bin.54.fa_BGC_c00055_NODE_25...region001_ORF6:gid::pid::loc:4836:5685:strand:- -            282   1.2e-06   28.1  21.0   1   1   6.4e-11   1.2e-06   28.1  21.0    26   226    61   274    37   274 0.73 Protein of unknown function (DUF2705)
+Phage_integrase      PF00589.24   172 ERR1190811_bin.54.fa_BGC_c00055_NODE_25...region001_ORF13:gid::pid::loc:9557:10478:strand:+ -            306   6.4e-43  146.6   0.4   1   1     1e-46   9.7e-43  146.0   0.4    12   170   127   287   120   289 0.95 Phage integrase family
+Phage_int_SAM_1      PF02899.19    83 ERR1190811_bin.54.fa_BGC_c00055_NODE_25...region001_ORF13:gid::pid::loc:9557:10478:strand:+ -            306   1.3e-09   38.3   0.5   1   1   5.7e-13   5.4e-09   36.3   0.5     1    80     8    84     8    87 0.95 Phage integrase, N-terminal SAM-like domain
+Mrr_cat              PF04471.14   115 ERR1190811_bin.54.fa_BGC_c00055_NODE_25...region001_ORF14:gid::pid::loc:10599:14040:strand:+ -           1146   4.2e-05   23.7   0.0   1   1   7.6e-09   0.00015   22.0   0.0     5   114    24   135    21   136 0.89 Restriction endonuclease
+Glycos_transf_2      PF00535.28   170 ERR1190811_bin.54.fa_BGC_c00055_NODE_25...region001_ORF15:gid::pid::loc:14040:15159:strand:- -            372   6.5e-14   52.2   0.1   1   1   7.1e-18   1.4e-13   51.1   0.1     1   115     4   113     4   144 0.89 Glycosyl transferase family 2
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut/Sample/SAMEA3708737/results/GCF/cache/fasta/ERR1190811_bin.54.fa_BGC_c00055_NODE_25...region001.fasta
+# Target file:     /mnt/nfs/5110v5/Server_27_backup/yangxiao_new/miniconda2/envs/bigscape/lib/python3.7/site-packages/antismash/databases/pfam/34.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut/Sample/SAMEA3708737/results/GCF/cache/domtable/ERR1190811_bin.54.fa_BGC_c00055_NODE_25...region001.domtable --cut_tc --cpu 0 /mnt/nfs/5110v5/Server_27_backup/yangxiao_new/miniconda2/envs/bigscape/lib/python3.7/site-packages/antismash/databases/pfam/34.0/Pfam-A.hmm /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut/Sample/SAMEA3708737/results/GCF/cache/fasta/ERR1190811_bin.54.fa_BGC_c00055_NODE_25...region001.fasta 
+# Current dir:     /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut
+# Date:            Sun Jun 18 02:48:54 2023
+# [ok]

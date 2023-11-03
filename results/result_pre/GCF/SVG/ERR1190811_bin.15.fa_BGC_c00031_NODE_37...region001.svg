@@ -1,0 +1,116 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="389.3" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="379.3" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg31_1)</title>
+			<polygon class=" (ctg31_1)" points="57,25 40,25 40,10 10,40 40,70 40,55 57,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="14,40 26,28 30,28 30,52 26,52" stroke-linejoin="round" width="20" height="24" fill="rgb(111,178,63)" stroke="rgb(88,142,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AP_endonuc_2 (PF01261)
+"Xylose isomerase-like TIM barrel"</title>
+				<rect class="PF01261" x="34" y="28" stroke-linejoin="round" width="22" height="24" fill="rgb(145,220,103)" stroke="rgb(116,176,82)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg31_2)</title>
+			<polygon class=" (ctg31_2)" points="107,25 90,25 90,10 60,40 90,70 90,55 107,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LeuA_dimer (PF08502)
+"LeuA allosteric (dimerisation) domain"</title>
+				<polygon class="PF08502" points="64,40 73,31 73,49" stroke-linejoin="round" width="13" height="24" fill="rgb(78,82,212)" stroke="rgb(62,65,169)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HMGL-like (PF00682)
+"HMGL-like"</title>
+				<rect class="PF00682" x="80" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(193,193,85)" stroke="rgb(154,154,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg31_3)</title>
+			<polygon class=" (ctg31_3)" points="120,40 147,10 147,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aldolase_II (PF00596)
+"Class II Aldolase and Adducin N-terminal domain"</title>
+				<polygon class="PF00596" points="124,40 135,28 145,28 145,52 135,52" stroke-linejoin="round" width="22" height="24" fill="rgb(213,120,96)" stroke="rgb(170,96,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg31_4)</title>
+			<polygon class=" (ctg31_4)" points="205,25 180,25 180,10 150,40 180,70 180,55 205,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FGGY_C (PF02782)
+"FGGY family of carbohydrate kinases, C-terminal domain"</title>
+				<polygon class="PF02782" points="156,38 166,28 175,28 175,52 166,52 156,42" stroke-linejoin="round" width="19" height="24" fill="rgb(212,98,137)" stroke="rgb(169,78,109)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FGGY_N (PF00370)
+"FGGY family of carbohydrate kinases, N-terminal domain"</title>
+				<rect class="PF00370" x="177" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(73,177,198)" stroke="rgb(58,141,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg31_5)</title>
+			<polygon class=" (ctg31_5)" points="206,40 224,10 224,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4364 (PF14277)
+"Domain of unknown function (DUF4364)"</title>
+				<polygon class="PF14277" points="209,40 216,28 221,28 221,52 216,52" stroke-linejoin="round" width="15" height="24" fill="rgb(99,181,80)" stroke="rgb(79,144,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg31_6)</title>
+			<polygon class=" (ctg31_6)" points="224,40 250,10 250,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PHP (PF02811)
+"PHP domain"</title>
+				<polygon class="PF02811" points="231,37 239,28 249,28 249,52 239,52 231,43" stroke-linejoin="round" width="18" height="24" fill="rgb(146,88,212)" stroke="rgb(116,70,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg31_7)</title>
+			<polygon class=" (ctg31_7)" points="253,40 269,10 269,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg31_8)</title>
+			<polygon class=" (ctg31_8)" points="347,25 309,25 309,10 279,40 309,70 309,55 347,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>S1 (PF00575)
+"S1 RNA binding domain"</title>
+				<polygon class="PF00575" points="283,40 289,34 289,46" stroke-linejoin="round" width="7" height="24" fill="rgb(147,73,211)" stroke="rgb(117,58,168)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>S1 (PF00575)
+"S1 RNA binding domain"</title>
+				<polygon class="PF00575" points="291,32 295,28 298,28 298,52 295,52 291,48" stroke-linejoin="round" width="7" height="24" fill="rgb(147,73,211)" stroke="rgb(117,58,168)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>S1 (PF00575)
+"S1 RNA binding domain"</title>
+				<rect class="PF00575" x="300" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(147,73,211)" stroke="rgb(117,58,168)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>S1 (PF00575)
+"S1 RNA binding domain"</title>
+				<rect class="PF00575" x="308" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(147,73,211)" stroke="rgb(117,58,168)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LYTB (PF02401)
+"LytB protein"</title>
+				<rect class="PF02401" x="319" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(80,217,181)" stroke="rgb(64,173,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg31_9)</title>
+			<polygon class=" (ctg31_9)" points="346,40 367,10 367,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyltransferase (PF01553)
+"Acyltransferase"</title>
+				<polygon class="PF01553" points="351,39 359,28 363,28 363,52 359,52 351,41" stroke-linejoin="round" width="12" height="24" fill="rgb(196,175,90)" stroke="rgb(156,140,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

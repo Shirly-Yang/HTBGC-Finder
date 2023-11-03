@@ -1,0 +1,262 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1018.8" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1008.8" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg2_1)</title>
+			<polygon class=" (ctg2_1)" points="13,40 21,10 21,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4321 (PF14209)
+"Domain of unknown function (DUF4321)"</title>
+				<polygon class="PF14209" points="16,40 17,37 17,43" stroke-linejoin="round" width="4" height="24" fill="rgb(70,191,211)" stroke="rgb(56,152,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_2)</title>
+			<polygon class=" (ctg2_2)" points="25,10 30,40 25,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2_3)</title>
+			<polygon class=" (ctg2_3)" points="41,10 61,40 41,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MecA (PF05389)
+"Negative regulator of genetic competence (MecA)"</title>
+				<polygon class="PF05389" points="41,28 49,28 50,29 50,51 49,52 41,52" stroke-linejoin="round" width="9" height="24" fill="rgb(146,86,220)" stroke="rgb(116,68,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_4)</title>
+			<polygon class=" (ctg2_4)" points="63,40 81,10 81,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF5662 (PF18907)
+"Family of unknown function (DUF5662)"</title>
+				<polygon class="PF18907" points="66,40 73,28 80,28 80,52 73,52" stroke-linejoin="round" width="15" height="24" fill="rgb(196,207,103)" stroke="rgb(156,165,82)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_5)</title>
+			<polygon class=" (ctg2_5)" points="93,25 311,25 311,10 341,40 311,70 311,55 93,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="93" y="28" stroke-linejoin="round" width="44" height="24" fill="rgb(55,186,48)" stroke="rgb(43,148,38)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="139" y="28" stroke-linejoin="round" width="40" height="24" fill="rgb(111,178,63)" stroke="rgb(88,142,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="190" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(191,92,64)" stroke="rgb(152,73,51)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="198" y="28" stroke-linejoin="round" width="42" height="24" fill="rgb(55,186,48)" stroke="rgb(43,148,38)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="242" y="28" stroke-linejoin="round" width="39" height="24" fill="rgb(111,178,63)" stroke="rgb(88,142,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="293" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(191,92,64)" stroke="rgb(152,73,51)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>NAD_binding_4 (PF07993)
+"Male sterility protein"</title>
+				<polygon class="PF07993" points="303,28 325,28 328,31 328,49 325,52 303,52" stroke-linejoin="round" width="25" height="24" fill="rgb(140,99,209)" stroke="rgb(112,79,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_6)</title>
+			<polygon class=" (ctg2_6)" points="342,25 372,25 372,10 402,40 372,70 372,55 342,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HisKA_7TM (PF16927)
+"N-terminal 7TM region of histidine kinase"</title>
+				<rect class="PF16927" x="343" y="28" stroke-linejoin="round" width="21" height="24" fill="rgb(85,192,111)" stroke="rgb(68,153,88)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PAS (PF00989)
+"PAS fold"</title>
+				<rect class="PF00989" x="365" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(213,64,136)" stroke="rgb(170,51,108)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HATPase_c (PF02518)
+"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"</title>
+				<polygon class="PF02518" points="391,33 398,40 391,47" stroke-linejoin="round" width="10" height="24" fill="rgb(192,73,161)" stroke="rgb(153,58,128)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_7)</title>
+			<polygon class=" (ctg2_7)" points="406,25 411,25 411,10 441,40 411,70 411,55 406,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<rect class="PF00072" x="407" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(209,129,92)" stroke="rgb(167,103,73)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HD (PF01966)
+"HD domain"</title>
+				<polygon class="PF01966" points="423,28 424,28 435,39 435,41 424,52 423,52" stroke-linejoin="round" width="12" height="24" fill="rgb(56,126,222)" stroke="rgb(44,100,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_8)</title>
+			<polygon class=" (ctg2_8)" points="514,25 473,25 473,10 443,40 473,70 473,55 514,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>S1 (PF00575)
+"S1 RNA binding domain"</title>
+				<polygon class="PF00575" points="447,40 450,37 450,43" stroke-linejoin="round" width="7" height="24" fill="rgb(147,73,211)" stroke="rgb(117,58,168)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HHH_9 (PF17674)
+"HHH domain"</title>
+				<polygon class="PF17674" points="452,35 459,28 459,28 459,52 459,52 452,45" stroke-linejoin="round" width="7" height="24" fill="rgb(205,66,92)" stroke="rgb(164,52,73)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HHH_3 (PF12836)
+"Helix-hairpin-helix motif"</title>
+				<rect class="PF12836" x="460" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(211,89,161)" stroke="rgb(168,71,128)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Tex_YqgF (PF16921)
+"Tex protein YqgF-like domain"</title>
+				<rect class="PF16921" x="470" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(51,195,195)" stroke="rgb(40,156,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Tex_N (PF09371)
+"Tex-like protein N-terminal domain"</title>
+				<rect class="PF09371" x="495" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(174,192,57)" stroke="rgb(139,153,45)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_9)</title>
+			<polygon class=" (ctg2_9)" points="518,10 542,40 518,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF975 (PF06161)
+"Protein of unknown function (DUF975)"</title>
+				<polygon class="PF06161" points="518,28 528,28 538,40 528,52 518,52" stroke-linejoin="round" width="23" height="24" fill="rgb(192,66,195)" stroke="rgb(153,52,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_10)</title>
+			<polygon class=" (ctg2_10)" points="575,25 573,25 573,10 543,40 573,70 573,55 575,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M23 (PF01551)
+"Peptidase family M23"</title>
+				<polygon class="PF01551" points="547,40 552,35 552,45" stroke-linejoin="round" width="9" height="24" fill="rgb(147,197,84)" stroke="rgb(117,157,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_11)</title>
+			<polygon class=" (ctg2_11)" points="583,10 589,40 583,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2_12)</title>
+			<polygon class=" (ctg2_12)" points="589,10 597,40 589,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Coat_F (PF07875)
+"Coat F domain"</title>
+				<polygon class="PF07875" points="589,28 590,28 594,40 590,52 589,52" stroke-linejoin="round" width="6" height="24" fill="rgb(143,184,82)" stroke="rgb(114,147,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_13)</title>
+			<polygon class=" (ctg2_13)" points="677,25 631,25 631,10 601,40 631,70 631,55 677,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UvrD_C (PF13361)
+"UvrD-like helicase C-terminal domain"</title>
+				<polygon class="PF13361" points="616,29 617,28 649,28 649,52 617,52 616,51" stroke-linejoin="round" width="33" height="24" fill="rgb(220,189,71)" stroke="rgb(176,151,56)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>UvrD-helicase (PF00580)
+"UvrD/REP helicase N-terminal domain"</title>
+				<rect class="PF00580" x="650" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(203,85,219)" stroke="rgb(162,68,175)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_14)</title>
+			<polygon class=" (ctg2_14)" points="678,40 693,10 693,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LMWPc (PF01451)
+"Low molecular weight phosphotyrosine protein phosphatase"</title>
+				<polygon class="PF01451" points="681,40 687,28 692,28 692,52 687,52" stroke-linejoin="round" width="14" height="24" fill="rgb(50,196,162)" stroke="rgb(40,156,129)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_15)</title>
+			<polygon class=" (ctg2_15)" points="696,40 707,10 707,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2_16)</title>
+			<polygon class=" (ctg2_16)" points="759,25 738,25 738,10 708,40 738,70 738,55 759,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Zn_ribbon_recom (PF13408)
+"Recombinase zinc beta ribbon domain"</title>
+				<polygon class="PF13408" points="722,30 724,28 727,28 727,52 724,52 722,50" stroke-linejoin="round" width="5" height="24" fill="rgb(181,197,77)" stroke="rgb(144,157,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Recombinase (PF07508)
+"Recombinase"</title>
+				<rect class="PF07508" x="729" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(58,150,181)" stroke="rgb(46,120,144)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Resolvase (PF00239)
+"Resolvase, N terminal domain"</title>
+				<rect class="PF00239" x="743" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(163,51,180)" stroke="rgb(130,40,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_17)</title>
+			<polygon class=" (ctg2_17)" points="768,40 772,10 772,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2_18)</title>
+			<polygon class=" (ctg2_18)" points="794,40 816,10 816,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cytidylate_kin (PF02224)
+"Cytidylate kinase"</title>
+				<polygon class="PF02224" points="798,40 807,28 815,28 815,52 807,52" stroke-linejoin="round" width="20" height="24" fill="rgb(223,178,88)" stroke="rgb(178,142,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_19)</title>
+			<polygon class=" (ctg2_19)" points="816,40 845,10 845,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NUDIX (PF00293)
+"NUDIX domain"</title>
+				<polygon class="PF00293" points="820,40 832,28 832,28 832,52 832,52" stroke-linejoin="round" width="13" height="24" fill="rgb(67,119,185)" stroke="rgb(53,95,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_20)</title>
+			<polygon class=" (ctg2_20)" points="846,40 864,10 864,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CYTH (PF01928)
+"CYTH domain"</title>
+				<polygon class="PF01928" points="850,40 858,28 863,28 863,52 858,52" stroke-linejoin="round" width="14" height="24" fill="rgb(191,53,138)" stroke="rgb(152,42,110)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_21)</title>
+			<polygon class=" (ctg2_21)" points="898,25 895,25 895,10 865,40 895,70 895,55 898,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2_22)</title>
+			<polygon class=" (ctg2_22)" points="939,25 928,25 928,10 898,40 928,70 928,55 939,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2_23)</title>
+			<polygon class=" (ctg2_23)" points="959,40 977,10 977,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CYTH (PF01928)
+"CYTH domain"</title>
+				<polygon class="PF01928" points="963,40 971,28 973,28 973,52 971,52" stroke-linejoin="round" width="11" height="24" fill="rgb(191,53,138)" stroke="rgb(152,42,110)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+ERR1190811_bin.75.fa_BGC_c00004_NODE_96...region001_ORF2:gid::pid::loc:2093:2936:strand:-:43:259            aqttgsr---------QVQADVAQ.IWDSSAGLMAVIADGIGSANTGKVCAQVAADAILDRYEPYCELNDPIyfFRTSFLEASQRIQ----------RTIGERRGGASTGAVFINRSHLYYAVAGDIRVAV-MRGGEMIPLSKGQTldvlaaqayedGKISRQd.tLWSMEEKKVWSYLgqd.....gfhEIEVCEkpvl
+#=GR ERR1190811_bin.75.fa_BGC_c00004_NODE_96...region001_ORF2:gid::pid::loc:2093:2936:strand:-:43:259    PP 9988765.........56668888.*****************************************877776333333333333444..........3444455555556677788888888899999965.67888888888554555555555559999985.44455555555555888.....8885555554476
+ERR1190811_bin.80.fa_BGC_c00017_NODE_12...region001_ORF17:gid::pid::loc:16517:17243:strand:-:12:223         .....vr---------NQNQDDCRfGVISPSCVWAVVCDGMGGANGGNIASATAVDYISTKITDLYKDDMTKeqIGELMAEIVVNANMKV--FEMSMKDPELTGMGTTCEFVFVKDTTVHVVHVGDSRT-YAIRGGKIKQLTEDHSv.........vQEMVRRgelTYEQAQNHPNKNFitralgikpsvRLDYIEa..n
+#=GR ERR1190811_bin.80.fa_BGC_c00017_NODE_12...region001_ORF17:gid::pid::loc:16517:17243:strand:-:12:223 PP .....85.........689*****77888899999*******************************999998775566666654444333..24455789*****************************.6799*********9888.........86666666666666666666666777888888886666662..1
+#=GC PP_cons                                                                                                ................67889999.8999999999*******************************988887..4444444444444333..244555667777888888888999999999999999966778999999999766...........777777...5555666666666...........555555....
+#=GC RF                                                                                                     .......xxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...........xxxxxx...xxxxxxxxxxxxx...........xxxxxx....
+
+ERR1190811_bin.75.fa_BGC_c00004_NODE_96...region001_ORF2:gid::pid::loc:2093:2936:strand:-:43:259            LKPEDKVLLMSKGIFEELS-WREIEDIL---------------------idtdnsqksadcliraa..
+#=GR ERR1190811_bin.75.fa_BGC_c00004_NODE_96...region001_ORF2:gid::pid::loc:2093:2936:strand:-:43:259    PP 7888999999999999985.66666555.....................455667778889999**..
+ERR1190811_bin.80.fa_BGC_c00017_NODE_12...region001_ORF17:gid::pid::loc:16517:17243:strand:-:12:223         FIYGDVLLICTDGLSNCVTTG----------------------------dmvkichenrgeglitklv
+#=GR ERR1190811_bin.80.fa_BGC_c00017_NODE_12...region001_ORF17:gid::pid::loc:16517:17243:strand:-:12:223 PP 34579**********877655............................45678888999999*****
+#=GC PP_cons                                                                                                566799********98885556666555........................................
+#=GC RF                                                                                                     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...................
+//

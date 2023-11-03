@@ -1,0 +1,129 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="695.2666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="685.2666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg14_8)</title>
+			<polygon class=" (ctg14_8)" points="12,40 18,10 18,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ribosomal_L31 (PF01197)
+"Ribosomal protein L31"</title>
+				<polygon class="PF01197" points="15,40 18,28 18,28 18,52 18,52" stroke-linejoin="round" width="6" height="24" fill="rgb(58,196,139)" stroke="rgb(46,156,111)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg14_9)</title>
+			<polygon class=" (ctg14_9)" points="31,40 47,10 47,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Flavin_Reduct (PF01613)
+"Flavin reductase like domain"</title>
+				<polygon class="PF01613" points="34,40 41,28 46,28 46,52 41,52" stroke-linejoin="round" width="15" height="24" fill="rgb(72,74,184)" stroke="rgb(57,59,147)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg14_10)</title>
+			<polygon class=" (ctg14_10)" points="48,40 75,10 75,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC-3 (PF00950)
+"ABC 3 transport family"</title>
+				<polygon class="PF00950" points="52,40 63,28 73,28 73,52 63,52" stroke-linejoin="round" width="25" height="24" fill="rgb(98,158,225)" stroke="rgb(78,126,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg14_11)</title>
+			<polygon class=" (ctg14_11)" points="75,40 98,10 98,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="82,36 88,28 96,28 96,52 88,52 82,44" stroke-linejoin="round" width="14" height="24" fill="rgb(63,205,104)" stroke="rgb(50,164,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg14_12)</title>
+			<polygon class=" (ctg14_12)" points="129,25 128,25 128,10 98,40 128,70 128,55 129,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ZnuA (PF01297)
+"Zinc-uptake complex component A periplasmic"</title>
+				<polygon class="PF01297" points="102,40 114,28 126,28 126,52 114,52" stroke-linejoin="round" width="28" height="24" fill="rgb(63,53,180)" stroke="rgb(50,42,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg14_13)</title>
+			<polygon class=" (ctg14_13)" points="130,40 144,10 144,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FUR (PF01475)
+"Ferric uptake regulator family"</title>
+				<polygon class="PF01475" points="133,40 139,28 143,28 143,52 139,52" stroke-linejoin="round" width="12" height="24" fill="rgb(93,203,150)" stroke="rgb(74,162,120)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg14_14)</title>
+			<polygon class=" (ctg14_14)" points="148,10 161,40 148,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg14_15)</title>
+			<polygon class=" (ctg14_15)" points="216,25 193,25 193,10 163,40 193,70 193,55 216,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg14_16)</title>
+			<polygon class=" (ctg14_16)" points="271,25 248,25 248,10 218,40 248,70 248,55 271,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg14_17)</title>
+			<polygon class=" (ctg14_17)" points="326,25 303,25 303,10 273,40 303,70 303,55 326,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="279,38 289,28 292,28 292,52 289,52 279,42" stroke-linejoin="round" width="13" height="24" fill="rgb(63,205,104)" stroke="rgb(50,164,83)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran_Xtn (PF12848)
+"ABC transporter"</title>
+				<rect class="PF12848" x="295" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(103,218,64)" stroke="rgb(82,174,51)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<rect class="PF00005" x="308" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(63,205,104)" stroke="rgb(50,164,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg14_18)</title>
+			<polygon class=" (ctg14_18)" points="328,40 343,10 343,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg14_19)</title>
+			<polygon class=" (ctg14_19)" points="343,40 351,10 351,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PqqD (PF05402)
+"Coenzyme PQQ synthesis protein D (PqqD)"</title>
+				<polygon class="PF05402" points="346,40 349,28 349,28 349,52 349,52" stroke-linejoin="round" width="6" height="24" fill="rgb(218,64,155)" stroke="rgb(174,51,124)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg14_20)</title>
+			<polygon class=" (ctg14_20)" points="408,25 381,25 381,10 351,40 381,70 381,55 408,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="357,38 367,28 371,28 371,52 367,52 357,42" stroke-linejoin="round" width="14" height="24" fill="rgb(63,205,104)" stroke="rgb(50,164,83)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="378" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(125,63,227)" stroke="rgb(99,50,181)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg14_21)</title>
+			<polygon class=" (ctg14_21)" points="409,40 432,10 432,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg14_22)</title>
+			<polygon class=" (ctg14_22)" points="437,40 442,10 442,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg14_23)</title>
+			<polygon class=" (ctg14_23)" points="512,25 479,25 479,10 449,40 479,70 479,55 512,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

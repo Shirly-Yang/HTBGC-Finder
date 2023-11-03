@@ -1,0 +1,9 @@
+# STOCKHOLM 1.0
+
+ERR1190811_bin.8.fa_BGC_c00007_NODE_31...region001_ORF18:gid::pid::loc:12092:13880:strand:-:541:594         ks--KLDSINGIGEKRKQELLKK-FGSVEGIKKADILEIMKVKGITEELARKIKKEL--
+#=GR ERR1190811_bin.8.fa_BGC_c00007_NODE_31...region001_ORF18:gid::pid::loc:12092:13880:strand:-:541:594 PP 86..799****************.******************************998..
+ERR1190811_bin.55.fa_BGC_c00016_NODE_11...region001_ORF6:gid::pid::loc:6211:8005:strand:+:541:596           ks--LLDNIDGIGEVRKTELLKR-FGSVEKILNASDDEISQINGINKKMAQKIKEELGK
+#=GR ERR1190811_bin.55.fa_BGC_c00016_NODE_11...region001_ORF6:gid::pid::loc:6211:8005:strand:+:541:596   PP 86..5788***************.*********************************86
+#=GC PP_cons                                                                                                ....6899***************.*******************************9986
+#=GC RF                                                                                                     ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

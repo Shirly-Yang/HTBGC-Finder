@@ -1,0 +1,21 @@
+#                                                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF2500              PF10694.11   105 ERR1190811_bin.54.fa_BGC_c00063_NODE_34...region001_ORF3:gid::pid::loc:3631:4117:strand:- -            161   6.4e-21   74.9   1.7   1   1   4.2e-25   8.1e-21   74.6   1.7     2   105    30   135    28   135 0.93 Protein of unknown function (DUF2500)
+HATPase_c_5          PF14501.8    101 ERR1190811_bin.54.fa_BGC_c00063_NODE_34...region001_ORF8:gid::pid::loc:7271:8570:strand:- -            432   1.7e-19   69.6   0.8   1   1   9.1e-24   1.7e-19   69.6   0.8     2    90   327   417   326   424 0.89 GHKL domain
+LytTR                PF04397.17    98 ERR1190811_bin.54.fa_BGC_c00063_NODE_34...region001_ORF9:gid::pid::loc:8554:9268:strand:- -            237   1.1e-12   48.2   0.7   1   1   2.2e-16   2.1e-12   47.2   0.3     3    95   142   229   140   232 0.94 LytTr DNA-binding domain
+Response_reg         PF00072.26   112 ERR1190811_bin.54.fa_BGC_c00063_NODE_34...region001_ORF9:gid::pid::loc:8554:9268:strand:- -            237   2.1e-10   40.9   0.0   1   1   3.6e-14   3.4e-10   40.2   0.0    19   109    26   118     4   121 0.80 Response regulator receiver domain
+tRNA-synt_1          PF00133.24   602 ERR1190811_bin.54.fa_BGC_c00063_NODE_34...region001_ORF10:gid::pid::loc:9415:12157:strand:- -            913  3.2e-138  461.7   0.0   1   1  1.4e-141  6.7e-138  460.7   0.0   138   592     2   494     1   499 0.93 tRNA synthetases class I (I, L, M and V)
+DUF5915              PF19302.1    195 ERR1190811_bin.54.fa_BGC_c00063_NODE_34...region001_ORF10:gid::pid::loc:9415:12157:strand:- -            913   5.2e-58  195.9   5.6   1   1   1.6e-61   7.6e-58  195.4   5.6     2   194   717   911   716   912 0.97 Domain of unknown function (DUF5915)
+Anticodon_1          PF08264.15   152 ERR1190811_bin.54.fa_BGC_c00063_NODE_34...region001_ORF10:gid::pid::loc:9415:12157:strand:- -            913   1.7e-29  102.8   0.2   1   1   7.3e-33   3.5e-29  101.8   0.2     1   148   551   700   551   705 0.91 Anticodon-binding domain of tRNA ligase
+tRNA-synt_1g         PF09334.13   391 ERR1190811_bin.54.fa_BGC_c00063_NODE_34...region001_ORF10:gid::pid::loc:9415:12157:strand:- -            913   6.2e-09   35.2   2.3   1   1   2.1e-09     1e-05   24.6   0.0   312   359   448   496   417   511 0.85 tRNA synthetases class I (M)
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut/Sample/SAMEA3708737/results/GCF/cache/fasta/ERR1190811_bin.54.fa_BGC_c00063_NODE_34...region001.fasta
+# Target file:     /mnt/nfs/5110v5/Server_27_backup/yangxiao_new/miniconda2/envs/bigscape/lib/python3.7/site-packages/antismash/databases/pfam/34.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut/Sample/SAMEA3708737/results/GCF/cache/domtable/ERR1190811_bin.54.fa_BGC_c00063_NODE_34...region001.domtable --cut_tc --cpu 0 /mnt/nfs/5110v5/Server_27_backup/yangxiao_new/miniconda2/envs/bigscape/lib/python3.7/site-packages/antismash/databases/pfam/34.0/Pfam-A.hmm /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut/Sample/SAMEA3708737/results/GCF/cache/fasta/ERR1190811_bin.54.fa_BGC_c00063_NODE_34...region001.fasta 
+# Current dir:     /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut
+# Date:            Sun Jun 18 02:48:56 2023
+# [ok]

@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+GCF_022024235.1_ASM2202423v1_genomic.fna_BGC_NZ_CP091800.1.region001_ORF14:gid::pid::loc:15361:16468:strand:-:33:276         dah---GWRLLYQMALRQSLVGVCYKGICLLPEDCKPPVEIAMQWACEAESIKGMNELLYQETVRLTREFEEQGHRTAILKGQANAR-LYPDRFARQPGDIDIWV--EGGKDCVLALLPQHSKAIYH--HVHLPVNK--QGVTVEVHFRPSSGNfNPMTNRRLQRWLEREILLAAQVEENFRVPSVKFALVMQLAHIQRH
+#=GR GCF_022024235.1_ASM2202423v1_genomic.fna_BGC_NZ_CP091800.1.region001_ORF14:gid::pid::loc:15361:16468:strand:-:33:276 PP 876...6********************************************************************************.*****************..55555554444433333332..45666777..************99777778888888887755555555788********************
+GCF_000025925.1_ASM2592v1_genomic.fna_BGC_NC_014033.1.region001_ORF14:gid::pid::loc:11611:12709:strand:-:28:271              ..n-ADDWRWLYQMAVRQSLVGVCYQGVCQLSGKQQLPVDIAMQWTCEAETIKGLNELLYQEAARLTREFSEKGRQTAILKGQANAR-LYPEKYARQPGDIDIWV-EGGRESVLALIDGEAIVAYHH-----AHLPKNEKGVEVEIHFRPSSGHfSPITNRRLQQWLEQEIQHTELSPEGFYVPSVRFALVMQLAHIQRH
+#=GR GCF_000025925.1_ASM2592v1_genomic.fna_BGC_NC_014033.1.region001_ORF14:gid::pid::loc:11611:12709:strand:-:28:271      PP ..7.579********************************************************************************.*****************.444555666665555555444.....5566667*************9989999*****************************************
+#=GC PP_cons                                                                                                                 ....578********************************************************************************.*****************.455555555555544444433..4565666767************998.8888999999999987777777899********************
+#=GC RF                                                                                                                      ...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+GCF_022024235.1_ASM2202423v1_genomic.fna_BGC_NZ_CP091800.1.region001_ORF14:gid::pid::loc:15361:16468:strand:-:33:276         FLSEGIGLRHVCDYYWLLQHSTVEDRSIVSSVLRKFGLYHIAMALMWVLGEVF-r
+#=GR GCF_022024235.1_ASM2202423v1_genomic.fna_BGC_NZ_CP091800.1.region001_ORF14:gid::pid::loc:15361:16468:strand:-:33:276 PP ********************9889999999************99999887776.7
+GCF_000025925.1_ASM2592v1_genomic.fna_BGC_NC_014033.1.region001_ORF14:gid::pid::loc:11611:12709:strand:-:28:271              FLGEGVGLRQVCDYYWLLQNATDDDRQCVSAQLRRLGLLHAAGALMWVLAEVL-h
+#=GR GCF_000025925.1_ASM2592v1_genomic.fna_BGC_NC_014033.1.region001_ORF14:gid::pid::loc:11611:12709:strand:-:28:271      PP *********************9********************99999988876.7
+#=GC PP_cons                                                                                                                 ********************99999*****************99999888776..
+#=GC RF                                                                                                                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

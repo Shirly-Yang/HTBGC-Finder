@@ -1,0 +1,22 @@
+#                                                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Omp85                PF01103.25   324 ERR1190811_bin.26.fa_BGC_c00118_NODE_44...region001_ORF1:gid::pid::loc:47:2444:strand:+ -            798   8.8e-25   88.0   6.0   1   1   2.5e-28   2.4e-24   86.6   6.0   101   317   493   779   392   798 0.71 Omp85 superfamily domain
+DHH                  PF01368.22   116 ERR1190811_bin.26.fa_BGC_c00118_NODE_44...region001_ORF3:gid::pid::loc:3552:4593:strand:+ -            346   9.7e-19   67.9   0.0   1   1   7.4e-23   1.4e-18   67.4   0.0     1   116    25   176    25   176 0.90 DHH family
+DUF4827              PF16109.7    184 ERR1190811_bin.26.fa_BGC_c00118_NODE_44...region001_ORF4:gid::pid::loc:4756:5455:strand:+ -            232     2e-64  217.1   0.4   1   1   1.2e-68   2.3e-64  216.9   0.4     1   183    19   227    19   228 0.92 Domain of unknown function (DUF4827)
+PGM_PMM_I            PF02878.18   138 ERR1190811_bin.26.fa_BGC_c00118_NODE_44...region001_ORF5:gid::pid::loc:5475:6867:strand:+ -            463   7.4e-28   97.1   0.1   1   1   2.9e-31   1.4e-27   96.2   0.1     7   136     8   142     3   144 0.94 Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain I
+PGM_PMM_II           PF02879.18   103 ERR1190811_bin.26.fa_BGC_c00118_NODE_44...region001_ORF5:gid::pid::loc:5475:6867:strand:+ -            463   3.8e-20   72.6   0.1   1   1   2.5e-23   1.2e-19   70.9   0.1     9   103   171   263   162   263 0.95 Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain II
+PGM_PMM_III          PF02880.18   114 ERR1190811_bin.26.fa_BGC_c00118_NODE_44...region001_ORF5:gid::pid::loc:5475:6867:strand:+ -            463   1.1e-18   67.5   0.0   1   1   4.4e-22   2.1e-18   66.7   0.0     5   111   271   374   267   377 0.92 Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain III
+PGM_PMM_IV           PF00408.22    74 ERR1190811_bin.26.fa_BGC_c00118_NODE_44...region001_ORF5:gid::pid::loc:5475:6867:strand:+ -            463   2.4e-08   34.2   0.0   1   1   1.5e-11   7.2e-08   32.6   0.0    18    70   400   456   385   459 0.79 Phosphoglucomutase/phosphomannomutase, C-terminal domain
+PqqD                 PF05402.14    67 ERR1190811_bin.26.fa_BGC_c00118_NODE_44...region001_ORF8:gid::pid::loc:8580:8847:strand:+ -             88   9.9e-16   57.9   0.3   1   1   6.3e-20   1.2e-15   57.6   0.3     2    67    16    88    11    88 0.91 Coenzyme PQQ synthesis protein D (PqqD)
+ABC_membrane         PF00664.25   274 ERR1190811_bin.26.fa_BGC_c00118_NODE_44...region001_ORF9:gid::pid::loc:8843:9446:strand:+ -            201   2.6e-08   33.9   9.7   1   1   4.7e-12     9e-08   32.2   9.7     4   169    22   194    19   199 0.73 ABC transporter transmembrane region
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut/Sample/SAMEA3708737/results/GCF/cache/fasta/ERR1190811_bin.26.fa_BGC_c00118_NODE_44...region001.fasta
+# Target file:     /mnt/nfs/5110v5/Server_27_backup/yangxiao_new/miniconda2/envs/bigscape/lib/python3.7/site-packages/antismash/databases/pfam/34.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut/Sample/SAMEA3708737/results/GCF/cache/domtable/ERR1190811_bin.26.fa_BGC_c00118_NODE_44...region001.domtable --cut_tc --cpu 0 /mnt/nfs/5110v5/Server_27_backup/yangxiao_new/miniconda2/envs/bigscape/lib/python3.7/site-packages/antismash/databases/pfam/34.0/Pfam-A.hmm /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut/Sample/SAMEA3708737/results/GCF/cache/fasta/ERR1190811_bin.26.fa_BGC_c00118_NODE_44...region001.fasta 
+# Current dir:     /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut
+# Date:            Sun Jun 18 02:48:57 2023
+# [ok]

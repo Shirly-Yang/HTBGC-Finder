@@ -1,0 +1,15 @@
+#                                                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ABC_tran             PF00005.29   137 ERR1190811_bin.66.fa_BGC_c00066_NODE_38...region001_ORF3:gid::pid::loc:4738:5416:strand:- -            225   1.3e-32  113.2   0.0   1   1     2e-36   1.9e-32  112.7   0.0     1   136    21   169    21   170 0.91 ABC transporter
+FtsX                 PF02687.23    96 ERR1190811_bin.66.fa_BGC_c00066_NODE_38...region001_ORF5:gid::pid::loc:6548:7796:strand:- -            415   1.4e-05   25.6   3.8   1   1   7.1e-10   1.4e-05   25.6   3.8     1    91   306   400   306   405 0.74 FtsX-like permease family
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut/Sample/SAMEA3708737/results/GCF/cache/fasta/ERR1190811_bin.66.fa_BGC_c00066_NODE_38...region001.fasta
+# Target file:     /mnt/nfs/5110v5/Server_27_backup/yangxiao_new/miniconda2/envs/bigscape/lib/python3.7/site-packages/antismash/databases/pfam/34.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut/Sample/SAMEA3708737/results/GCF/cache/domtable/ERR1190811_bin.66.fa_BGC_c00066_NODE_38...region001.domtable --cut_tc --cpu 0 /mnt/nfs/5110v5/Server_27_backup/yangxiao_new/miniconda2/envs/bigscape/lib/python3.7/site-packages/antismash/databases/pfam/34.0/Pfam-A.hmm /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut/Sample/SAMEA3708737/results/GCF/cache/fasta/ERR1190811_bin.66.fa_BGC_c00066_NODE_38...region001.fasta 
+# Current dir:     /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut
+# Date:            Sun Jun 18 02:49:02 2023
+# [ok]

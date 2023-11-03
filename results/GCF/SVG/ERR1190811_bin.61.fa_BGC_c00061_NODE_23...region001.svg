@@ -1,0 +1,92 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="478.03333333333336" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="468.03333333333336" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg61_5)</title>
+			<polygon class=" (ctg61_5)" points="60,10 65,40 60,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg61_6)</title>
+			<polygon class=" (ctg61_6)" points="65,10 79,40 65,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Biotin_lipoyl (PF00364)
+"Biotin-requiring enzyme"</title>
+				<polygon class="PF00364" points="72,32 75,40 72,48" stroke-linejoin="round" width="6" height="24" fill="rgb(84,79,191)" stroke="rgb(67,63,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg61_7)</title>
+			<polygon class=" (ctg61_7)" points="90,25 90,25 90,10 120,40 90,70 90,55 90,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg61_8)</title>
+			<polygon class=" (ctg61_8)" points="121,25 136,25 136,10 166,40 136,70 136,55 121,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF6175 (PF19672)
+"Family of unknown function (DUF6175)"</title>
+				<polygon class="PF19672" points="139,28 150,28 162,40 150,52 139,52" stroke-linejoin="round" width="27" height="24" fill="rgb(144,229,113)" stroke="rgb(115,183,90)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg61_9)</title>
+			<polygon class=" (ctg61_9)" points="168,25 176,25 176,10 206,40 176,70 176,55 168,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg61_10)</title>
+			<polygon class=" (ctg61_10)" points="207,25 220,25 220,10 250,40 220,70 220,55 207,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg61_11)</title>
+			<polygon class=" (ctg61_11)" points="256,10 276,40 256,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg61_12)</title>
+			<polygon class=" (ctg61_12)" points="281,25 310,25 310,10 340,40 310,70 310,55 281,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg61_13)</title>
+			<polygon class=" (ctg61_13)" points="343,40 351,10 351,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PqqD (PF05402)
+"Coenzyme PQQ synthesis protein D (PqqD)"</title>
+				<polygon class="PF05402" points="346,40 350,28 350,28 350,52 350,52" stroke-linejoin="round" width="7" height="24" fill="rgb(218,64,155)" stroke="rgb(174,51,124)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg61_14)</title>
+			<polygon class=" (ctg61_14)" points="361,40 376,10 376,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg61_15)</title>
+			<polygon class=" (ctg61_15)" points="407,25 407,25 407,10 377,40 407,70 407,55 407,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg61_16)</title>
+			<polygon class=" (ctg61_16)" points="407,40 421,10 421,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg61_17)</title>
+			<polygon class=" (ctg61_17)" points="424,40 452,10 452,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sigma70_r4 (PF04545)
+"Sigma-70, region 4"</title>
+				<polygon class="PF04545" points="428,40 430,38 430,42" stroke-linejoin="round" width="5" height="24" fill="rgb(190,171,50)" stroke="rgb(152,136,39)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sigma70_r3 (PF04539)
+"Sigma-70 region 3"</title>
+				<polygon class="PF04539" points="431,37 438,30 438,50 431,43" stroke-linejoin="round" width="7" height="24" fill="rgb(192,162,53)" stroke="rgb(153,129,42)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sigma70_r2 (PF04542)
+"Sigma-70 region 2"</title>
+				<polygon class="PF04542" points="440,28 440,28 447,28 447,52 440,52 440,52" stroke-linejoin="round" width="7" height="24" fill="rgb(89,63,196)" stroke="rgb(71,50,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sigma70_r1_2 (PF00140)
+"Sigma-70 factor, region 1.2"</title>
+				<rect class="PF00140" x="447" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(142,187,82)" stroke="rgb(113,149,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

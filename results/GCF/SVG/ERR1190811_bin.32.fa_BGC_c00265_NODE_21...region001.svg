@@ -1,0 +1,27 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="92.33333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="82.33333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg265_1)</title>
+			<polygon class=" (ctg265_1)" points="52,25 40,25 40,10 10,40 40,70 40,55 52,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<polygon class="PF04055" points="24,30 26,28 41,28 41,52 26,52 24,50" stroke-linejoin="round" width="17" height="24" fill="rgb(184,71,96)" stroke="rgb(147,56,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg265_2)</title>
+			<polygon class=" (ctg265_2)" points="54,40 61,10 61,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SCIFF (PF13165)
+"Six-cysteine peptide SCIFF"</title>
+				<polygon class="PF13165" points="57,40 58,36 58,44" stroke-linejoin="round" width="4" height="24" fill="rgb(153,48,181)" stroke="rgb(122,38,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg265_3)</title>
+			<polygon class=" (ctg265_3)" points="63,40 72,10 72,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,15 @@
+# STOCKHOLM 1.0
+
+GCF_900637655.1_52295_B01_genomic.fna_BGC_NZ_LR134384.1.region001_ORF39:gid::pid::loc:42734:44081:strand:+:352:425              EVEDAVLAFPAVKDCVCVCAMHPVIGNVLKLFVVPRHDY--DRKELIAFLKTRLETYKIPVLYEETDSIHRTFNGK
+#=GR GCF_900637655.1_52295_B01_genomic.fna_BGC_NZ_LR134384.1.region001_ORF39:gid::pid::loc:42734:44081:strand:+:352:425      PP 8**********************************7664..36******************************999
+GCF_022024115.1_ASM2202411v1_genomic.fna_BGC_NZ_CP091792.1.region001_ORF17:gid::pid::loc:20000:25295:strand:-:1395:1468         EIESCINSLPGIQTSAVI-VNKHNNLQYLMGFYVSD-SSEMSPKVLRKSLTDSLPSYMVPSKLVQLERMPMTPNGK
+#=GR GCF_022024115.1_ASM2202411v1_genomic.fna_BGC_NZ_CP091792.1.region001_ORF17:gid::pid::loc:20000:25295:strand:-:1395:1468 PP 8*****************.777779*********93.333468********************************9
+GCF_022024115.1_ASM2202411v1_genomic.fna_BGC_NZ_CP091792.1.region001_ORF17:gid::pid::loc:20000:25295:strand:-:381:454           EVETVFKKIPGIDNAIVKGFTSGNKRQYLCGYYISKTGV--TEQEIIDYLTSKLPAYMVPVYFVKMESFPLNMNGK
+#=GR GCF_022024115.1_ASM2202411v1_genomic.fna_BGC_NZ_CP091792.1.region001_ORF17:gid::pid::loc:20000:25295:strand:-:381:454   PP 8**********************************9996..57******************99999*********9
+GCF_022024235.1_ASM2202423v1_genomic.fna_BGC_NZ_CP091799.1.region002_ORF26:gid::pid::loc:18639:19977:strand:+:364:438           EVEDVALSLPDIKECICIAAEHPVIGVVTKLLIVSEKDE-IDKKSIARFIASKLESYKVPIYYEKVDKIERTFNGK
+#=GR GCF_022024235.1_ASM2202423v1_genomic.fna_BGC_NZ_CP091799.1.region002_ORF26:gid::pid::loc:18639:19977:strand:+:364:438   PP 8*************************9999999995442.357********************************9
+GCF_017347605.1_ASM1734760v1_genomic.fna_BGC_NZ_AP024484.1.region001_ORF14:gid::pid::loc:15000:18879:strand:-:409:481           EIEGLLMQNDAIQAAAVT---LDNATQQLAAFVVLRAGKTVDRAVVAKQLRLLLPYYMIPSTLDEISELPMTSSQK
+#=GR GCF_017347605.1_ASM1734760v1_genomic.fna_BGC_NZ_AP024484.1.region001_ORF14:gid::pid::loc:15000:18879:strand:-:409:481   PP 8*****************...44457*********989645689999999***********************998
+#=GC PP_cons                                                                                                                    8******************9988899********977644457*******************************99
+#=GC RF                                                                                                                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

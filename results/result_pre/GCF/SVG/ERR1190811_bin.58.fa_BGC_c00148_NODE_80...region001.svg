@@ -1,0 +1,82 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="201.53333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="191.53333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg148_1)</title>
+			<polygon class=" (ctg148_1)" points="10,10 25,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Hydrolase (PF00702)
+"haloacid dehalogenase-like hydrolase"</title>
+				<rect class="PF00702" x="10" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(203,155,85)" stroke="rgb(162,124,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg148_2)</title>
+			<polygon class=" (ctg148_2)" points="31,10 51,40 31,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MecA (PF05389)
+"Negative regulator of genetic competence (MecA)"</title>
+				<polygon class="PF05389" points="31,28 39,28 47,40 39,52 31,52" stroke-linejoin="round" width="19" height="24" fill="rgb(146,86,220)" stroke="rgb(116,68,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg148_3)</title>
+			<polygon class=" (ctg148_3)" points="54,10 67,40 54,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YajC (PF02699)
+"Preprotein translocase subunit"</title>
+				<polygon class="PF02699" points="58,28 58,28 64,40 58,52 58,52" stroke-linejoin="round" width="8" height="24" fill="rgb(192,62,201)" stroke="rgb(153,49,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg148_4)</title>
+			<polygon class=" (ctg148_4)" points="69,10 80,40 69,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF3792 (PF12670)
+"Protein of unknown function (DUF3792)"</title>
+				<polygon class="PF12670" points="69,28 72,28 77,40 72,52 69,52" stroke-linejoin="round" width="11" height="24" fill="rgb(89,197,151)" stroke="rgb(71,157,120)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg148_5)</title>
+			<polygon class=" (ctg148_5)" points="85,10 89,40 85,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SCIFF (PF13165)
+"Six-cysteine peptide SCIFF"</title>
+				<polygon class="PF13165" points="85,29 86,40 85,51" stroke-linejoin="round" width="4" height="24" fill="rgb(153,48,181)" stroke="rgb(122,38,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg148_6)</title>
+			<polygon class=" (ctg148_6)" points="93,25 108,25 108,10 138,40 108,70 108,55 93,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Fer4_12 (PF13353)
+"4Fe-4S single cluster domain"</title>
+				<rect class="PF13353" x="102" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(86,133,197)" stroke="rgb(68,106,157)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SPASM (PF13186)
+"Iron-sulfur cluster-binding domain"</title>
+				<polygon class="PF13186" points="127,33 133,39 133,41 127,47" stroke-linejoin="round" width="6" height="24" fill="rgb(65,145,179)" stroke="rgb(52,116,143)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg148_7)</title>
+			<polygon class=" (ctg148_7)" points="139,10 149,40 139,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>rhaM (PF05336)
+"L-rhamnose mutarotase"</title>
+				<polygon class="PF05336" points="139,28 141,28 146,40 141,52 139,52" stroke-linejoin="round" width="10" height="24" fill="rgb(86,85,220)" stroke="rgb(68,67,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg148_8)</title>
+			<polygon class=" (ctg148_8)" points="157,10 183,40 157,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Zip (PF02535)
+"ZIP Zinc transporter"</title>
+				<polygon class="PF02535" points="166,28 169,28 179,40 169,52 166,52" stroke-linejoin="round" width="15" height="24" fill="rgb(112,53,208)" stroke="rgb(89,42,166)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,178 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="732.4666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="722.4666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg25_5)</title>
+			<polygon class=" (ctg25_5)" points="76,10 85,40 76,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg25_6)</title>
+			<polygon class=" (ctg25_6)" points="93,10 103,40 93,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg25_7)</title>
+			<polygon class=" (ctg25_7)" points="108,10 122,40 108,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Hydrolase_2 (PF07486)
+"Cell Wall Hydrolase"</title>
+				<polygon class="PF07486" points="109,28 113,28 119,40 113,52 109,52" stroke-linejoin="round" width="11" height="24" fill="rgb(86,94,184)" stroke="rgb(68,75,147)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg25_8)</title>
+			<polygon class=" (ctg25_8)" points="124,10 147,40 124,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg25_9)</title>
+			<polygon class=" (ctg25_9)" points="156,25 156,25 156,10 186,40 156,70 156,55 156,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg25_10)</title>
+			<polygon class=" (ctg25_10)" points="227,25 218,25 218,10 188,40 218,70 218,55 227,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HemN_C (PF06969)
+"HemN C-terminal domain"</title>
+				<polygon class="PF06969" points="192,40 194,38 194,42" stroke-linejoin="round" width="5" height="24" fill="rgb(134,69,218)" stroke="rgb(107,55,174)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<rect class="PF04055" x="206" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(184,71,96)" stroke="rgb(147,56,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg25_11)</title>
+			<polygon class=" (ctg25_11)" points="233,25 255,25 255,10 285,40 255,70 255,55 233,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GTP_EFTU (PF00009)
+"Elongation factor Tu GTP binding domain"</title>
+				<rect class="PF00009" x="233" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(127,205,76)" stroke="rgb(101,164,60)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GTP_EFTU_D2 (PF03144)
+"Elongation factor Tu domain 2"</title>
+				<polygon class="PF03144" points="264,28 269,28 270,29 270,51 269,52 264,52" stroke-linejoin="round" width="6" height="24" fill="rgb(204,93,197)" stroke="rgb(163,74,157)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>RF3_C (PF16658)
+"Class II release factor RF3, C-terminal domain"</title>
+				<polygon class="PF16658" points="271,30 281,40 271,50" stroke-linejoin="round" width="12" height="24" fill="rgb(169,193,64)" stroke="rgb(135,154,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg25_12)</title>
+			<polygon class=" (ctg25_12)" points="286,25 302,25 302,10 332,40 302,70 302,55 286,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OKR_DC_1 (PF01276)
+"Orn/Lys/Arg decarboxylase, major domain"</title>
+				<rect class="PF01276" x="286" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(73,89,198)" stroke="rgb(58,71,158)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>OKR_DC_1_C (PF03711)
+"Orn/Lys/Arg decarboxylase, C-terminal domain"</title>
+				<polygon class="PF03711" points="323,35 328,40 323,45" stroke-linejoin="round" width="8" height="24" fill="rgb(95,220,183)" stroke="rgb(76,176,146)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg25_13)</title>
+			<polygon class=" (ctg25_13)" points="343,25 358,25 358,10 388,40 358,70 358,55 343,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Fer4_12 (PF13353)
+"4Fe-4S single cluster domain"</title>
+				<rect class="PF13353" x="352" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(86,133,197)" stroke="rgb(68,106,157)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg25_14)</title>
+			<polygon class=" (ctg25_14)" points="391,10 418,40 391,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lactamase_B (PF00753)
+"Metallo-beta-lactamase superfamily"</title>
+				<rect class="PF00753" x="392" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(139,100,221)" stroke="rgb(111,80,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg25_15)</title>
+			<polygon class=" (ctg25_15)" points="457,25 448,25 448,10 418,40 448,70 448,55 457,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Gate (PF07670)
+"Nucleoside recognition"</title>
+				<polygon class="PF07670" points="422,40 432,30 432,50" stroke-linejoin="round" width="12" height="24" fill="rgb(201,95,201)" stroke="rgb(160,76,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FeoB_C (PF07664)
+"Ferrous iron transport protein B C terminus"</title>
+				<polygon class="PF07664" points="434,28 434,28 439,28 439,52 434,52 434,52" stroke-linejoin="round" width="5" height="24" fill="rgb(95,208,110)" stroke="rgb(76,166,88)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Gate (PF07670)
+"Nucleoside recognition"</title>
+				<rect class="PF07670" x="441" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(201,95,201)" stroke="rgb(160,76,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg25_16)</title>
+			<polygon class=" (ctg25_16)" points="482,40 489,10 489,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FeoA (PF04023)
+"FeoA domain"</title>
+				<polygon class="PF04023" points="485,40 488,28 489,28 489,52 488,52" stroke-linejoin="round" width="7" height="24" fill="rgb(154,66,185)" stroke="rgb(123,52,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg25_17)</title>
+			<polygon class=" (ctg25_17)" points="499,40 504,10 504,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg25_18)</title>
+			<polygon class=" (ctg25_18)" points="505,25 538,25 538,10 568,40 538,70 538,55 505,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4430 (PF14478)
+"Domain of unknown function (DUF4430)"</title>
+				<rect class="PF14478" x="511" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(92,190,188)" stroke="rgb(73,152,150)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Dockerin_1 (PF00404)
+"Dockerin type I domain"</title>
+				<polygon class="PF00404" points="562,39 563,40 562,41" stroke-linejoin="round" width="5" height="24" fill="rgb(52,189,65)" stroke="rgb(41,151,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg25_19)</title>
+			<polygon class=" (ctg25_19)" points="569,25 570,25 570,10 600,40 570,70 570,55 569,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4430 (PF14478)
+"Domain of unknown function (DUF4430)"</title>
+				<polygon class="PF14478" points="590,35 595,40 590,45" stroke-linejoin="round" width="7" height="24" fill="rgb(92,190,188)" stroke="rgb(73,152,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg25_20)</title>
+			<polygon class=" (ctg25_20)" points="600,10 629,40 600,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CbiQ (PF02361)
+"Cobalt transport protein"</title>
+				<polygon class="PF02361" points="600,28 613,28 621,36 621,44 613,52 600,52" stroke-linejoin="round" width="21" height="24" fill="rgb(179,76,60)" stroke="rgb(143,60,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg25_21)</title>
+			<polygon class=" (ctg25_21)" points="629,25 687,25 687,10 717,40 687,70 687,55 629,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<rect class="PF00005" x="631" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(63,205,104)" stroke="rgb(50,164,83)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<rect class="PF00005" x="660" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(63,205,104)" stroke="rgb(50,164,83)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ECF-ribofla_trS (PF07155)
+"ECF-type riboflavin transporter, S component"</title>
+				<polygon class="PF07155" points="700,28 701,28 713,40 701,52 700,52" stroke-linejoin="round" width="15" height="24" fill="rgb(65,170,190)" stroke="rgb(51,135,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

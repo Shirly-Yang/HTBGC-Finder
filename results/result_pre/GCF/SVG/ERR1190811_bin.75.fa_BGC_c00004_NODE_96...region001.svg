@@ -1,0 +1,133 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="544.3333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="534.3333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg4_12)</title>
+			<polygon class=" (ctg4_12)" points="79,25 54,25 54,10 24,40 54,70 54,55 79,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg4_13)</title>
+			<polygon class=" (ctg4_13)" points="79,40 107,10 107,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP2C_2 (PF13672)
+"Protein phosphatase 2C"</title>
+				<polygon class="PF13672" points="83,40 94,28 102,28 102,52 94,52" stroke-linejoin="round" width="21" height="24" fill="rgb(54,81,198)" stroke="rgb(43,64,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4_14)</title>
+			<polygon class=" (ctg4_14)" points="107,40 123,10 123,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FHA (PF00498)
+"FHA domain"</title>
+				<polygon class="PF00498" points="110,40 115,31 115,49" stroke-linejoin="round" width="6" height="24" fill="rgb(96,215,77)" stroke="rgb(76,172,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4_15)</title>
+			<polygon class=" (ctg4_15)" points="125,40 143,10 143,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FHA (PF00498)
+"FHA domain"</title>
+				<polygon class="PF00498" points="129,40 132,35 132,45" stroke-linejoin="round" width="7" height="24" fill="rgb(96,215,77)" stroke="rgb(76,172,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4_16)</title>
+			<polygon class=" (ctg4_16)" points="143,40 160,10 160,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DnaJ (PF00226)
+"DnaJ domain"</title>
+				<polygon class="PF00226" points="152,30 153,28 158,28 158,52 153,52 152,50" stroke-linejoin="round" width="6" height="24" fill="rgb(137,61,209)" stroke="rgb(109,48,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4_17)</title>
+			<polygon class=" (ctg4_17)" points="162,40 176,10 176,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg4_18)</title>
+			<polygon class=" (ctg4_18)" points="178,40 192,10 192,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg4_19)</title>
+			<polygon class=" (ctg4_19)" points="266,25 224,25 224,10 194,40 224,70 224,55 266,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg4_20)</title>
+			<polygon class=" (ctg4_20)" points="336,25 300,25 300,10 270,40 300,70 300,55 336,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>VWA (PF00092)
+"von Willebrand factor type A domain"</title>
+				<rect class="PF00092" x="315" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(178,59,128)" stroke="rgb(142,47,102)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4_21)</title>
+			<polygon class=" (ctg4_21)" points="338,40 343,10 343,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg4_22)</title>
+			<polygon class=" (ctg4_22)" points="343,40 362,10 362,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AgrB (PF04647)
+"Accessory gene regulator B"</title>
+				<polygon class="PF04647" points="347,40 355,28 361,28 361,52 355,52" stroke-linejoin="round" width="17" height="24" fill="rgb(67,227,212)" stroke="rgb(53,181,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4_23)</title>
+			<polygon class=" (ctg4_23)" points="363,40 368,10 368,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg4_24)</title>
+			<polygon class=" (ctg4_24)" points="417,25 404,25 404,10 374,40 404,70 404,55 417,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HATPase_c_5 (PF14501)
+"GHKL domain"</title>
+				<polygon class="PF14501" points="378,40 384,34 384,46" stroke-linejoin="round" width="10" height="24" fill="rgb(187,81,89)" stroke="rgb(149,64,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4_25)</title>
+			<polygon class=" (ctg4_25)" points="417,40 441,10 441,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LytTR (PF04397)
+"LytTr DNA-binding domain"</title>
+				<polygon class="PF04397" points="421,40 427,33 427,47" stroke-linejoin="round" width="9" height="24" fill="rgb(154,92,215)" stroke="rgb(123,73,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="429,30 431,28 440,28 440,52 431,52 429,50" stroke-linejoin="round" width="11" height="24" fill="rgb(209,129,92)" stroke="rgb(167,103,73)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4_26)</title>
+			<polygon class=" (ctg4_26)" points="495,25 477,25 477,10 447,40 477,70 477,55 495,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<polygon class="PF04055" points="460,31 463,28 477,28 477,52 463,52 460,49" stroke-linejoin="round" width="17" height="24" fill="rgb(184,71,96)" stroke="rgb(147,56,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4_27)</title>
+			<polygon class=" (ctg4_27)" points="497,40 519,10 519,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lactamase_B (PF00753)
+"Metallo-beta-lactamase superfamily"</title>
+				<polygon class="PF00753" points="501,40 510,28 517,28 517,52 510,52" stroke-linejoin="round" width="19" height="24" fill="rgb(139,100,221)" stroke="rgb(111,80,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4_28)</title>
+			<polygon class=" (ctg4_28)" points="522,40 534,10 534,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ACT_4 (PF13291)
+"ACT domain"</title>
+				<polygon class="PF13291" points="525,40 529,30 529,50" stroke-linejoin="round" width="7" height="24" fill="rgb(125,70,198)" stroke="rgb(100,56,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

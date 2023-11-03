@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+ERR1190811_bin.10.fa_BGC_c00001_NODE_3_...region001_ORF14:gid::pid::loc:10712:11516:strand:+:5:52            .t-RLDAALVERGLCTGRDRAKGIIMAGQVYVNNQKADKPGMTISPEDQI..
+#=GR ERR1190811_bin.10.fa_BGC_c00001_NODE_3_...region001_ORF14:gid::pid::loc:10712:11516:strand:+:5:52    PP .5.*********************************************98..
+ERR1190811_bin.10.fa_BGC_c00001_NODE_3_...region001_ORF21:gid::pid::loc:18650:19874:strand:+:342:379         it--LADLMVKVGLAPSKGEVRRLVQQGGVAVNDVKVD------------nf
+#=GR ERR1190811_bin.10.fa_BGC_c00001_NODE_3_...region001_ORF21:gid::pid::loc:18650:19874:strand:+:342:379 PP 98..7899***************************998............6*
+ERR1190811_bin.37.fa_BGC_c00006_NODE_71...region001_ORF3:gid::pid::loc:5185:5434:strand:+:1:47               ..MRLDKYLKVSRIIKRRTVANEAAGLGRVQINGKVAK-ASSEVKEGDVL..
+#=GR ERR1190811_bin.37.fa_BGC_c00006_NODE_71...region001_ORF3:gid::pid::loc:5185:5434:strand:+:1:47       PP ..8***********************************.*********95..
+ERR1190811_bin.7.fa_BGC_c00001_NODE_10...region001_ORF22:gid::pid::loc:18899:19910:strand:+:13:59            ..QRLDKFIHKAAPLLPQSLLYKYIRTKRIKVNGKRAE-ISTRLRLGDKV..
+#=GR ERR1190811_bin.7.fa_BGC_c00001_NODE_10...region001_ORF22:gid::pid::loc:18899:19910:strand:+:13:59    PP ..6******88888888*********************.*********87..
+#=GC PP_cons                                                                                                 ..7*99***99**************************9**********97..
+#=GC RF                                                                                                      ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

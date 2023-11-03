@@ -1,0 +1,135 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="705.9666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="695.9666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg6_34)</title>
+			<polygon class=" (ctg6_34)" points="127,10 151,40 127,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_18 (PF12833)
+"Helix-turn-helix domain"</title>
+				<polygon class="PF12833" points="143,34 148,40 143,46" stroke-linejoin="round" width="7" height="24" fill="rgb(83,220,97)" stroke="rgb(66,176,77)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_35)</title>
+			<polygon class=" (ctg6_35)" points="154,25 174,25 174,10 204,40 174,70 174,55 154,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M20 (PF01546)
+"Peptidase family M20/M25/M40"</title>
+				<polygon class="PF01546" points="161,28 188,28 200,40 188,52 161,52" stroke-linejoin="round" width="43" height="24" fill="rgb(183,138,78)" stroke="rgb(146,110,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_36)</title>
+			<polygon class=" (ctg6_36)" points="208,40 221,10 221,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg6_37)</title>
+			<polygon class=" (ctg6_37)" points="302,25 253,25 253,10 223,40 253,70 253,55 302,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FtsX (PF02687)
+"FtsX-like permease family"</title>
+				<rect class="PF02687" x="264" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(199,196,89)" stroke="rgb(159,156,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_38)</title>
+			<polygon class=" (ctg6_38)" points="302,40 324,10 324,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="307,39 315,28 321,28 321,52 315,52 307,41" stroke-linejoin="round" width="14" height="24" fill="rgb(63,205,104)" stroke="rgb(50,164,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_39)</title>
+			<polygon class=" (ctg6_39)" points="329,40 334,10 334,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg6_40)</title>
+			<polygon class=" (ctg6_40)" points="343,10 362,40 343,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AgrB (PF04647)
+"Accessory gene regulator B"</title>
+				<polygon class="PF04647" points="343,28 351,28 358,40 351,52 343,52" stroke-linejoin="round" width="17" height="24" fill="rgb(67,227,212)" stroke="rgb(53,181,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_41)</title>
+			<polygon class=" (ctg6_41)" points="362,10 386,40 362,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<rect class="PF00072" x="362" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(209,129,92)" stroke="rgb(167,103,73)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LytTR (PF04397)
+"LytTr DNA-binding domain"</title>
+				<polygon class="PF04397" points="376,32 382,40 376,48" stroke-linejoin="round" width="9" height="24" fill="rgb(154,92,215)" stroke="rgb(123,73,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_42)</title>
+			<polygon class=" (ctg6_42)" points="387,25 400,25 400,10 430,40 400,70 400,55 387,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HATPase_c_5 (PF14501)
+"GHKL domain"</title>
+				<polygon class="PF14501" points="420,34 426,40 420,46" stroke-linejoin="round" width="10" height="24" fill="rgb(187,81,89)" stroke="rgb(149,64,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_43)</title>
+			<polygon class=" (ctg6_43)" points="441,40 446,10 446,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg6_44)</title>
+			<polygon class=" (ctg6_44)" points="461,10 482,40 461,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_4 (PF02390)
+"Putative methyltransferase"</title>
+				<polygon class="PF02390" points="464,28 470,28 478,40 470,52 464,52" stroke-linejoin="round" width="17" height="24" fill="rgb(171,227,87)" stroke="rgb(136,181,69)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_45)</title>
+			<polygon class=" (ctg6_45)" points="483,25 506,25 506,10 536,40 506,70 506,55 483,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_S11 (PF00768)
+"D-alanyl-D-alanine carboxypeptidase"</title>
+				<rect class="PF00768" x="491" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(95,213,221)" stroke="rgb(76,170,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_46)</title>
+			<polygon class=" (ctg6_46)" points="538,25 545,25 545,10 575,40 545,70 545,55 538,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HATPase_c (PF02518)
+"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"</title>
+				<polygon class="PF02518" points="566,35 571,40 566,45" stroke-linejoin="round" width="9" height="24" fill="rgb(192,73,161)" stroke="rgb(153,58,128)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_47)</title>
+			<polygon class=" (ctg6_47)" points="579,25 605,25 605,10 635,40 605,70 605,55 579,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Arg_tRNA_synt_N (PF03485)
+"Arginyl tRNA synthetase N terminal domain"</title>
+				<rect class="PF03485" x="579" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(218,67,135)" stroke="rgb(174,53,107)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>tRNA-synt_1d (PF00750)
+"tRNA synthetases class I (R)"</title>
+				<polygon class="PF00750" points="588,28 619,28 622,31 622,49 619,52 588,52" stroke-linejoin="round" width="34" height="24" fill="rgb(74,125,214)" stroke="rgb(59,99,171)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DALR_1 (PF05746)
+"DALR anticodon binding domain"</title>
+				<polygon class="PF05746" points="623,32 631,40 623,48" stroke-linejoin="round" width="11" height="24" fill="rgb(212,59,101)" stroke="rgb(169,47,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_48)</title>
+			<polygon class=" (ctg6_48)" points="636,25 648,25 648,10 678,40 648,70 648,55 636,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

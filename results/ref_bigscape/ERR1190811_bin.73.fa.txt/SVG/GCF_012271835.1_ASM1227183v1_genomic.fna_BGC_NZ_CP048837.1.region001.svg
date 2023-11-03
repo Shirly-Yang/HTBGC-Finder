@@ -1,0 +1,197 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="704.5666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="694.5666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg1_3961)</title>
+			<polygon class=" (ctg1_3961)" points="38,10 50,40 38,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF6483 (PF20092)
+"Family of unknown function (DUF6483)"</title>
+				<polygon class="PF20092" points="38,28 41,28 46,40 41,52 38,52" stroke-linejoin="round" width="11" height="24" fill="rgb(129,62,212)" stroke="rgb(103,49,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_3962)</title>
+			<polygon class=" (ctg1_3962)" points="95,25 89,25 89,10 59,40 89,70 89,55 95,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Mannitol_dh (PF01232)
+"Mannitol dehydrogenase Rossmann domain"</title>
+				<rect class="PF01232" x="83" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(212,86,116)" stroke="rgb(169,68,92)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_3963)</title>
+			<polygon class=" (ctg1_3963)" points="96,40 121,10 121,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GPI (PF06560)
+"Glucose-6-phosphate isomerase (GPI)"</title>
+				<polygon class="PF06560" points="101,39 110,28 118,28 118,52 110,52 101,41" stroke-linejoin="round" width="17" height="24" fill="rgb(180,76,177)" stroke="rgb(144,60,141)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_3964)</title>
+			<polygon class=" (ctg1_3964)" points="163,25 160,25 160,10 130,40 160,70 160,55 163,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glu_dehyd_C (PF16912)
+"Glucose dehydrogenase C-terminus"</title>
+				<polygon class="PF16912" points="134,40 146,28 149,28 149,52 146,52" stroke-linejoin="round" width="19" height="24" fill="rgb(82,200,104)" stroke="rgb(65,160,83)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ADH_N (PF08240)
+"Alcohol dehydrogenase GroES-like domain"</title>
+				<rect class="PF08240" x="150" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(50,194,159)" stroke="rgb(40,155,127)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_3965)</title>
+			<polygon class=" (ctg1_3965)" points="208,25 196,25 196,10 166,40 196,70 196,55 208,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>EIIC-GAT (PF03611)
+"PTS system sugar-specific permease component"</title>
+				<polygon class="PF03611" points="170,40 182,28 207,28 207,52 182,52" stroke-linejoin="round" width="39" height="24" fill="rgb(187,68,160)" stroke="rgb(149,54,128)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_3966)</title>
+			<polygon class=" (ctg1_3966)" points="209,40 219,10 219,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PTS_IIB (PF02302)
+"PTS system, Lactose/Cellobiose specific IIB subunit"</title>
+				<polygon class="PF02302" points="212,40 216,28 217,28 217,52 216,52" stroke-linejoin="round" width="8" height="24" fill="rgb(214,89,154)" stroke="rgb(171,71,123)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_3967)</title>
+			<polygon class=" (ctg1_3967)" points="219,40 235,10 235,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PTS_EIIA_2 (PF00359)
+"Phosphoenolpyruvate-dependent sugar phosphotransferase system, EIIA 2"</title>
+				<polygon class="PF00359" points="222,40 228,28 234,28 234,52 228,52" stroke-linejoin="round" width="14" height="24" fill="rgb(66,166,211)" stroke="rgb(52,132,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_3968)</title>
+			<polygon class=" (ctg1_3968)" points="332,25 267,25 267,10 237,40 267,70 267,55 332,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PTS_EIIA_2 (PF00359)
+"Phosphoenolpyruvate-dependent sugar phosphotransferase system, EIIA 2"</title>
+				<polygon class="PF00359" points="241,40 250,31 250,49" stroke-linejoin="round" width="13" height="24" fill="rgb(66,166,211)" stroke="rgb(52,132,168)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>EIIA-man (PF03610)
+"PTS system fructose IIA component"</title>
+				<rect class="PF03610" x="263" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(145,193,92)" stroke="rgb(116,154,73)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PRD (PF00874)
+"PRD domain"</title>
+				<rect class="PF00874" x="276" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(205,167,84)" stroke="rgb(164,133,67)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sigma54_activat (PF00158)
+"Sigma-54 interaction domain"</title>
+				<rect class="PF00158" x="303" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(213,103,201)" stroke="rgb(170,82,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_3969)</title>
+			<polygon class=" (ctg1_3969)" points="343,40 360,10 360,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AgrB (PF04647)
+"Accessory gene regulator B"</title>
+				<polygon class="PF04647" points="346,40 353,28 360,28 360,52 353,52" stroke-linejoin="round" width="17" height="24" fill="rgb(67,227,212)" stroke="rgb(53,181,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_3970)</title>
+			<polygon class=" (ctg1_3970)" points="409,25 396,25 396,10 366,40 396,70 396,55 409,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HATPase_c_5 (PF14501)
+"GHKL domain"</title>
+				<polygon class="PF14501" points="370,40 375,35 375,45" stroke-linejoin="round" width="9" height="24" fill="rgb(187,81,89)" stroke="rgb(149,64,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_3971)</title>
+			<polygon class=" (ctg1_3971)" points="425,40 431,10 431,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_3972)</title>
+			<polygon class=" (ctg1_3972)" points="438,40 461,10 461,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LytTR (PF04397)
+"LytTr DNA-binding domain"</title>
+				<polygon class="PF04397" points="442,40 447,34 447,46" stroke-linejoin="round" width="9" height="24" fill="rgb(154,92,215)" stroke="rgb(123,73,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="449,31 451,28 459,28 459,52 451,52 449,49" stroke-linejoin="round" width="10" height="24" fill="rgb(209,129,92)" stroke="rgb(167,103,73)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_3973)</title>
+			<polygon class=" (ctg1_3973)" points="516,25 493,25 493,10 463,40 493,70 493,55 516,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>G_glu_transpept (PF01019)
+"Gamma-glutamyltranspeptidase"</title>
+				<polygon class="PF01019" points="467,40 479,28 512,28 512,52 479,52" stroke-linejoin="round" width="49" height="24" fill="rgb(158,89,217)" stroke="rgb(126,71,173)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_3974)</title>
+			<polygon class=" (ctg1_3974)" points="521,10 539,40 521,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Chromate_transp (PF02417)
+"Chromate transporter"</title>
+				<polygon class="PF02417" points="521,28 528,28 535,40 528,52 521,52" stroke-linejoin="round" width="16" height="24" fill="rgb(182,75,182)" stroke="rgb(145,60,145)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_3975)</title>
+			<polygon class=" (ctg1_3975)" points="539,10 557,40 539,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Chromate_transp (PF02417)
+"Chromate transporter"</title>
+				<polygon class="PF02417" points="539,28 546,28 554,40 546,52 539,52" stroke-linejoin="round" width="17" height="24" fill="rgb(182,75,182)" stroke="rgb(145,60,145)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_3976)</title>
+			<polygon class=" (ctg1_3976)" points="616,25 603,25 603,10 573,40 603,70 603,55 616,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4143 (PF13635)
+"Domain of unknown function (DUF4143)"</title>
+				<polygon class="PF13635" points="577,40 589,28 593,28 593,52 589,52 577,40" stroke-linejoin="round" width="16" height="24" fill="rgb(90,204,142)" stroke="rgb(72,163,113)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AAA_14 (PF13173)
+"AAA domain"</title>
+				<rect class="PF13173" x="600" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(84,216,70)" stroke="rgb(67,172,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_3977)</title>
+			<polygon class=" (ctg1_3977)" points="625,40 642,10 642,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HATPase_c_5 (PF14501)
+"GHKL domain"</title>
+				<polygon class="PF14501" points="628,40 635,28 635,28 635,52 635,52" stroke-linejoin="round" width="10" height="24" fill="rgb(187,81,89)" stroke="rgb(149,64,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_3978)</title>
+			<polygon class=" (ctg1_3978)" points="689,25 674,25 674,10 644,40 674,70 674,55 689,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MatE (PF01554)
+"MatE"</title>
+				<polygon class="PF01554" points="648,40 660,28 664,28 664,52 660,52 648,40" stroke-linejoin="round" width="16" height="24" fill="rgb(220,99,114)" stroke="rgb(176,79,91)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MatE (PF01554)
+"MatE"</title>
+				<rect class="PF01554" x="670" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(220,99,114)" stroke="rgb(176,79,91)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

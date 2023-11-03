@@ -1,0 +1,108 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="696.7666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="686.7666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg1_37)</title>
+			<polygon class=" (ctg1_37)" points="26,25 37,25 37,10 67,40 37,70 37,55 26,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AlbA_2 (PF04326)
+"Putative DNA-binding domain"</title>
+				<rect class="PF04326" x="26" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(126,192,75)" stroke="rgb(100,153,60)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HATPase_c_4 (PF13749)
+"Putative ATP-dependent DNA helicase recG C-terminal"</title>
+				<polygon class="PF13749" points="52,29 60,37 60,43 52,51" stroke-linejoin="round" width="8" height="24" fill="rgb(58,185,153)" stroke="rgb(46,148,122)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_38)</title>
+			<polygon class=" (ctg1_38)" points="82,10 85,40 82,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_39)</title>
+			<polygon class=" (ctg1_39)" points="128,10 157,40 128,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="129,28 140,28 143,30 143,50 140,52 129,52" stroke-linejoin="round" width="14" height="24" fill="rgb(63,205,104)" stroke="rgb(50,164,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_40)</title>
+			<polygon class=" (ctg1_40)" points="156,25 163,25 163,10 193,40 163,70 163,55 156,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_41)</title>
+			<polygon class=" (ctg1_41)" points="194,25 203,25 203,10 233,40 203,70 203,55 194,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_42)</title>
+			<polygon class=" (ctg1_42)" points="237,10 258,40 237,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_43)</title>
+			<polygon class=" (ctg1_43)" points="309,25 299,25 299,10 269,40 299,70 299,55 309,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_44)</title>
+			<polygon class=" (ctg1_44)" points="310,40 333,10 333,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LytTR (PF04397)
+"LytTr DNA-binding domain"</title>
+				<polygon class="PF04397" points="314,40 319,34 319,46" stroke-linejoin="round" width="9" height="24" fill="rgb(154,92,215)" stroke="rgb(123,73,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="322,30 323,28 332,28 332,52 323,52 322,50" stroke-linejoin="round" width="10" height="24" fill="rgb(209,129,92)" stroke="rgb(167,103,73)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_45)</title>
+			<polygon class=" (ctg1_45)" points="343,40 353,10 353,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AgrB (PF04647)
+"Accessory gene regulator B"</title>
+				<polygon class="PF04647" points="346,40 350,28 350,28 350,52 350,52" stroke-linejoin="round" width="7" height="24" fill="rgb(67,227,212)" stroke="rgb(53,181,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_46)</title>
+			<polygon class=" (ctg1_46)" points="366,25 366,25 366,10 396,40 366,70 366,55 366,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Abi_2 (PF07751)
+"Abi-like protein"</title>
+				<polygon class="PF07751" points="369,28 380,28 388,36 388,44 380,52 369,52" stroke-linejoin="round" width="19" height="24" fill="rgb(80,223,200)" stroke="rgb(64,178,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_47)</title>
+			<polygon class=" (ctg1_47)" points="426,25 446,25 446,10 476,40 446,70 446,55 426,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GGDEF_2 (PF17853)
+"GGDEF-like domain"</title>
+				<polygon class="PF17853" points="450,28 460,28 463,31 463,49 460,52 450,52" stroke-linejoin="round" width="13" height="24" fill="rgb(224,161,96)" stroke="rgb(179,128,76)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_30 (PF13556)
+"PucR C-terminal helix-turn-helix domain"</title>
+				<polygon class="PF13556" points="469,37 472,40 469,43" stroke-linejoin="round" width="5" height="24" fill="rgb(228,60,131)" stroke="rgb(182,47,104)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_48)</title>
+			<polygon class=" (ctg1_48)" points="482,25 500,25 500,10 530,40 500,70 500,55 482,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Rrf2 (PF02082)
+"Iron-dependent Transcriptional regulator"</title>
+				<rect class="PF02082" x="482" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(119,83,178)" stroke="rgb(95,66,142)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HD_5 (PF13487)
+"HD domain"</title>
+				<polygon class="PF13487" points="516,31 522,37 522,43 516,49" stroke-linejoin="round" width="6" height="24" fill="rgb(173,69,198)" stroke="rgb(138,55,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

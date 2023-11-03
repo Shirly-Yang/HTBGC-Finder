@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+GCF_023008265.1_ASM2300826v1_genomic.fna_BGC_NZ_CP094942.1.region001_ORF4:gid::pid::loc:3601:4615:strand:-:141:336         fee---GALLEPLSVAYSAIEKLDFHKE------SRLVILGAGSIGLLMGVLMQELYPEVS-VHLVD---VYESKRDIGERLHMKKNQFLIGTAYEL-ESMKPFTHIIDTTGNSEVVKQFLQHSIPQVVLLELGVSDRP-LEIS----FKDIVYQGLRIIGSYRY-TNTYPRLL-KLFREQHLQVRDIITGRYPFEAVQT
+#=GR GCF_023008265.1_ASM2300826v1_genomic.fna_BGC_NZ_CP094942.1.region001_ORF4:gid::pid::loc:3601:4615:strand:-:141:336 PP 975...89***********998754333......45678**********888876555554.66666...456788888998877666656666666.77899********************************9654.5655....5899**********753.34455444.45555666699**************
+GCF_012317185.1_ASM1231718v1_genomic.fna_BGC_NZ_CP048838.1.region001_ORF4:gid::pid::loc:3600:4614:strand:-:141:336         fee---GALLEPLSVAYSAIEKLDFHKE------SRLVILGAGSIGLLMGVLMQELYPEVS-IHLVD---VYESKRDIGERLHMKKDQFLIGTAYEL-ESMKPFTHIIDTTGNSEVVKQFLQHSIPQAVLLELGVSDRP-LEIS----FKDIVYQGLRIIGSYRY-TNTYPRLL-KLFREQHLQVRDIITGRYPFEAVQT
+#=GR GCF_012317185.1_ASM1231718v1_genomic.fna_BGC_NZ_CP048838.1.region001_ORF4:gid::pid::loc:3600:4614:strand:-:141:336 PP 975...89***********998754333......45678**********777776544444.55555...556788888888766555444444555.78899********************************9654.5655....5899**********753.34455444.45555666699**************
+GCF_022845735.1_ASM2284573v1_genomic.fna_BGC_NZ_AP025565.1.region002_ORF4:gid::pid::loc:3601:4615:strand:-:141:336         fee---GALLEPLSVAYSAIEKLDFHKE------SRLVILGAGSIGLLMGVLMQELYPEVS-VHLVD---VYESKRDIGERLHMKKNQFLIGTAYEL-ESMKPFTHIIDTTGNSEVVKQFLQHSIPQAVLLELGVSDRP-LEIS----FKDIVYQGLRIIGSYRY-TNTYPRLL-KLFREQHLQVRDIITGRYPFEAVQT
+#=GR GCF_022845735.1_ASM2284573v1_genomic.fna_BGC_NZ_AP025565.1.region002_ORF4:gid::pid::loc:3601:4615:strand:-:141:336 PP 975...89***********998754333......45678**********888876555554.66666...456788888998877666656666666.77899********************************9654.5655....5899**********753.34455444.45555666699**************
+GCF_012271835.1_ASM1227183v1_genomic.fna_BGC_NZ_CP048837.1.region001_ORF4:gid::pid::loc:3601:4615:strand:-:141:336         fee---GALLEPLSVAYSAIEKLDFHKE------SRLVILGAGSIGLLMGVLMQELYPEVS-VHLVD---VYESKRDIGERLHMKKNQFLIGTAYEL-ESMKPFTHIIDTTGNSEVVKQFLQHSIPQAVLLELGVSDRP-LEIS----FKDIVYQGLRIIGSYRY-TNTYPRLL-KLFREQHLQVRDIITGRYPFEAVQT
+#=GR GCF_012271835.1_ASM1227183v1_genomic.fna_BGC_NZ_CP048837.1.region001_ORF4:gid::pid::loc:3601:4615:strand:-:141:336 PP 975...89***********998754333......45678**********888876555554.66666...456788888998877666656666666.77899********************************9654.5655....5899**********753.34455444.45555666699**************
+#=GC PP_cons                                                                                                               ......89***********998754333......45678**********888876555554.66666...456788888998777666555555566.77899********************************9654.5655....5899**********753.34455444.45555666699**************
+#=GC RF                                                                                                                    ...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+GCF_023008265.1_ASM2300826v1_genomic.fna_BGC_NZ_CP094942.1.region001_ORF4:gid::pid::loc:3601:4615:strand:-:141:336         AFEQA----------mdgrhhskiaiy
+#=GR GCF_023008265.1_ASM2300826v1_genomic.fna_BGC_NZ_CP094942.1.region001_ORF4:gid::pid::loc:3601:4615:strand:-:141:336 PP **965..........45677888899*
+GCF_012317185.1_ASM1231718v1_genomic.fna_BGC_NZ_CP048838.1.region001_ORF4:gid::pid::loc:3600:4614:strand:-:141:336         AFEQA----------mdgrhhskiaiy
+#=GR GCF_012317185.1_ASM1231718v1_genomic.fna_BGC_NZ_CP048838.1.region001_ORF4:gid::pid::loc:3600:4614:strand:-:141:336 PP **965..........45677888899*
+GCF_022845735.1_ASM2284573v1_genomic.fna_BGC_NZ_AP025565.1.region002_ORF4:gid::pid::loc:3601:4615:strand:-:141:336         AFEQA----------mdgrhhskiaiy
+#=GR GCF_022845735.1_ASM2284573v1_genomic.fna_BGC_NZ_AP025565.1.region002_ORF4:gid::pid::loc:3601:4615:strand:-:141:336 PP **965..........45677888899*
+GCF_012271835.1_ASM1227183v1_genomic.fna_BGC_NZ_CP048837.1.region001_ORF4:gid::pid::loc:3601:4615:strand:-:141:336         AFEQA----------mdgrhhskiaiy
+#=GR GCF_012271835.1_ASM1227183v1_genomic.fna_BGC_NZ_CP048837.1.region001_ORF4:gid::pid::loc:3601:4615:strand:-:141:336 PP **965..........45677888899*
+#=GC PP_cons                                                                                                               **965......................
+#=GC RF                                                                                                                    xxxxxxxxxxxxxxx............
+//

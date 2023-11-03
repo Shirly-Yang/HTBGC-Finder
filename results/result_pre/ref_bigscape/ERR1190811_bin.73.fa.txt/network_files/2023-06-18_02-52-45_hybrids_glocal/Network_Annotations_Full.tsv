@@ -1,0 +1,10 @@
+BGC	Accession ID	Description	Product Prediction	BiG-SCAPE class	Organism	Taxonomy
+ERR1190811_bin.73.fa_BGC_c00001_NODE_10...region001	c00001_NODE_10..	NODE_109_length_89073_cov_6.627132	cyclic-lactone-autoinducer	RiPPs		
+ERR1190811_bin.73.fa_BGC_c00040_NODE_13...region001	c00040_NODE_13..	NODE_1371_length_25114_cov_6.879883	cyclic-lactone-autoinducer	RiPPs		
+ERR1190811_bin.73.fa_BGC_c00043_NODE_15...region001	c00043_NODE_15..	NODE_1594_length_22482_cov_6.349579	ranthipeptide	RiPPs		
+ERR1190811_bin.73.fa_BGC_c00044_NODE_16...region001	c00044_NODE_16..	NODE_1606_length_22350_cov_6.172954	ranthipeptide	RiPPs		
+GCF_012271835.1_ASM1227183v1_genomic.fna_BGC_NZ_CP048837.1.region001	NZ_CP048837.1	NZ_CP048837.1 [Clostridium] innocuum strain LC-LUMC-CI-001 chromosome, complete genome	cyclic-lactone-autoinducer	RiPPs		
+GCF_012317185.1_ASM1231718v1_genomic.fna_BGC_NZ_CP048838.1.region001	NZ_CP048838.1	NZ_CP048838.1 [Clostridium] innocuum strain ATCC 14501 chromosome, complete genome	cyclic-lactone-autoinducer	RiPPs		
+GCF_022845735.1_ASM2284573v1_genomic.fna_BGC_NZ_AP025565.1.region001	NZ_AP025565.1	NZ_AP025565.1 [Clostridium] innocuum strain CE91-St51 chromosome, complete genome	cyclic-lactone-autoinducer	RiPPs		
+GCF_022845735.1_ASM2284573v1_genomic.fna_BGC_NZ_AP025565.1.region002	NZ_AP025565.1	NZ_AP025565.1 [Clostridium] innocuum strain CE91-St51 chromosome, complete genome	cyclic-lactone-autoinducer	RiPPs		
+GCF_023008265.1_ASM2300826v1_genomic.fna_BGC_NZ_CP094942.1.region001	NZ_CP094942.1	NZ_CP094942.1 [Clostridium] innocuum strain VE303-07 chromosome, complete genome	cyclic-lactone-autoinducer	RiPPs		

@@ -1,0 +1,9 @@
+# STOCKHOLM 1.0
+
+ERR1190811_bin.2.fa_BGC_c00003_NODE_59...region001_ORF12:gid::pid::loc:12119:13511:strand:-:21:99         VTIGGWVRSN--RNSKNFGFIVVNDGTffEPIQVVYGNgLDNYDEVGKIN..VGAAIIVRGTLVLTPDAkqPFEIQAAEVTV-e
+#=GR ERR1190811_bin.2.fa_BGC_c00003_NODE_59...region001_ORF12:gid::pid::loc:12119:13511:strand:-:21:99 PP 8*********..**************************766666677899..**************766667*****99986.8
+ERR1190811_bin.4.fa_BGC_c00008_NODE_68...region001_ORF8:gid::pid::loc:8043:9435:strand:+:21:99            VTIGGWVRSN--RNSKNFGFIVVNDGTffEPIQVVYGD.-GLENYEEVCKinVGAAVIVKGQLVPTPEAkqPFEIQAAEVTV-e
+#=GR ERR1190811_bin.4.fa_BGC_c00008_NODE_68...region001_ORF8:gid::pid::loc:8043:9435:strand:+:21:99    PP 8*********..**************************..777777764444**************555556*****99986.8
+#=GC PP_cons                                                                                              8*********..***************..*********.67777777777..**************666..6*****99986..
+#=GC RF                                                                                                   xxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxx.xxxxxxxxxxx..xxxxxxxxxxxxxxxxx..xxxxxxxxxxxx.
+//

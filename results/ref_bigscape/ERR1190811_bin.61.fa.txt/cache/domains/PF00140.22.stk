@@ -1,0 +1,23 @@
+# STOCKHOLM 1.0
+
+GCF_019930605.1_ASM1993060v1_genomic.fna_BGC_NZ_CP082842.1.region001_ORF13:gid::pid::loc:12285:13149:strand:-:17:49         .a--LEKYLQDISHEGLVSVEEEIELARKIKKGD--vk
+#=GR GCF_019930605.1_ASM1993060v1_genomic.fna_BGC_NZ_CP082842.1.region001_ORF13:gid::pid::loc:12285:13149:strand:-:17:49 PP .5..889**************************9..68
+GCF_022024115.1_ASM2202411v1_genomic.fna_BGC_NZ_CP091792.1.region002_ORF12:gid::pid::loc:12076:12937:strand:-:16:49         .e-SLDKYLQEISKEELLTVEEEVELAARVKKGDQ-k.
+#=GR GCF_022024115.1_ASM2202411v1_genomic.fna_BGC_NZ_CP091792.1.region002_ORF12:gid::pid::loc:12076:12937:strand:-:16:49 PP .7.899****************************8.7.
+ERR1190811_bin.61.fa_BGC_c00061_NODE_23...region001_ORF13:gid::pid::loc:12435:13299:strand:-:17:49                          ..-SLDKYLQEIGHEELISAEEEVELAHRIKNGDR-k.
+#=GR ERR1190811_bin.61.fa_BGC_c00061_NODE_23...region001_ORF13:gid::pid::loc:12435:13299:strand:-:17:49                  PP ...7999**************************96.8.
+GCF_025151385.1_ASM2515138v1_genomic.fna_BGC_NZ_CP102287.1.region001_ORF16:gid::pid::loc:12378:13242:strand:-:17:49         .a--LDKYLQEIGHEDLISIEEEIELAQRIKKGDR-k.
+#=GR GCF_025151385.1_ASM2515138v1_genomic.fna_BGC_NZ_CP102287.1.region001_ORF16:gid::pid::loc:12378:13242:strand:-:17:49 PP .5..889**************************96.8.
+GCF_017347605.1_ASM1734760v1_genomic.fna_BGC_NZ_AP024484.1.region003_ORF4:gid::pid::loc:7141:8005:strand:+:17:49            ..-SLDKYLQEIGHEDLISVEEEVELAQRIKKGDR-i.
+#=GR GCF_017347605.1_ASM1734760v1_genomic.fna_BGC_NZ_AP024484.1.region003_ORF4:gid::pid::loc:7141:8005:strand:+:17:49    PP ...7999**************************95.8.
+GCF_022024235.1_ASM2202423v1_genomic.fna_BGC_NZ_CP091799.1.region001_ORF14:gid::pid::loc:12280:13168:strand:-:25:57         .a--LDRYLQEIGHEDLISVDEEVELAQRIKKGDK-r.
+#=GR GCF_022024235.1_ASM2202423v1_genomic.fna_BGC_NZ_CP091799.1.region001_ORF14:gid::pid::loc:12280:13168:strand:-:25:57 PP .6..789***************************8.7.
+GCF_001953955.1_ASM195395v1_genomic.fna_BGC_NZ_CP019300.1.region001_ORF6:gid::pid::loc:7192:8056:strand:+:17:49             .a--LEKYLQDISREDLVSLDEEVELAQKIRQGD--vk
+#=GR GCF_001953955.1_ASM195395v1_genomic.fna_BGC_NZ_CP019300.1.region001_ORF6:gid::pid::loc:7192:8056:strand:+:17:49     PP .5..889**************************9..68
+GCF_900637655.1_52295_B01_genomic.fna_BGC_NZ_LR134384.1.region002_ORF15:gid::pid::loc:12209:13073:strand:-:17:49            ..-SLDKYLQEIGHEDLISVEEEVELAQKIKRGDR-r.
+#=GR GCF_900637655.1_52295_B01_genomic.fna_BGC_NZ_LR134384.1.region002_ORF15:gid::pid::loc:12209:13073:strand:-:17:49    PP ...7999**************************96.8.
+GCF_022024115.1_ASM2202411v1_genomic.fna_BGC_NZ_CP091792.1.region001_ORF3:gid::pid::loc:1522:2200:strand:+:4:37             si--LNKYLDEIGREQLLSEEQEARLSARILQGDE-r.
+#=GR GCF_022024115.1_ASM2202411v1_genomic.fna_BGC_NZ_CP091792.1.region001_ORF3:gid::pid::loc:1522:2200:strand:+:4:37     PP 95..789***************************8.7.
+#=GC PP_cons                                                                                                                ...7899**************************97...
+#=GC RF                                                                                                                     ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

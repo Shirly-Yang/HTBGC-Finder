@@ -1,0 +1,107 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="270.16666666666663" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="260.16666666666663" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg83_1)</title>
+			<polygon class=" (ctg83_1)" points="10,40 15,10 15,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg83_2)</title>
+			<polygon class=" (ctg83_2)" points="15,40 24,10 24,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PqqD (PF05402)
+"Coenzyme PQQ synthesis protein D (PqqD)"</title>
+				<polygon class="PF05402" points="18,40 22,28 22,28 22,52 22,52" stroke-linejoin="round" width="7" height="24" fill="rgb(218,64,155)" stroke="rgb(174,51,124)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg83_3)</title>
+			<polygon class=" (ctg83_3)" points="24,40 48,10 48,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg83_4)</title>
+			<polygon class=" (ctg83_4)" points="48,40 77,10 77,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4097 (PF13349)
+"Putative adhesin"</title>
+				<polygon class="PF13349" points="52,40 64,28 71,28 71,52 64,52" stroke-linejoin="round" width="23" height="24" fill="rgb(80,226,91)" stroke="rgb(64,180,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg83_5)</title>
+			<polygon class=" (ctg83_5)" points="83,10 95,40 83,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DapB_N (PF01113)
+"Dihydrodipicolinate reductase, N-terminus"</title>
+				<polygon class="PF01113" points="83,28 86,28 92,40 86,52 83,52" stroke-linejoin="round" width="10" height="24" fill="rgb(200,146,79)" stroke="rgb(160,116,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg83_6)</title>
+			<polygon class=" (ctg83_6)" points="97,10 106,40 97,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DapB_C (PF05173)
+"Dihydrodipicolinate reductase, C-terminus"</title>
+				<polygon class="PF05173" points="97,28 99,28 103,40 99,52 97,52" stroke-linejoin="round" width="8" height="24" fill="rgb(165,178,75)" stroke="rgb(132,142,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg83_7)</title>
+			<polygon class=" (ctg83_7)" points="109,10 114,40 109,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg83_8)</title>
+			<polygon class=" (ctg83_8)" points="115,10 123,40 115,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Coat_F (PF07875)
+"Coat F domain"</title>
+				<polygon class="PF07875" points="115,28 116,28 119,40 116,52 115,52" stroke-linejoin="round" width="6" height="24" fill="rgb(143,184,82)" stroke="rgb(114,147,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg83_9)</title>
+			<polygon class=" (ctg83_9)" points="156,25 155,25 155,10 125,40 155,70 155,55 156,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Rce1-like (PF02517)
+"Type II CAAX prenyl endopeptidase Rce1-like"</title>
+				<polygon class="PF02517" points="134,35 141,28 144,28 144,52 141,52 134,45" stroke-linejoin="round" width="10" height="24" fill="rgb(211,59,171)" stroke="rgb(168,47,136)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg83_10)</title>
+			<polygon class=" (ctg83_10)" points="200,25 190,25 190,10 160,40 190,70 190,55 200,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg83_11)</title>
+			<polygon class=" (ctg83_11)" points="203,40 219,10 219,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg83_12)</title>
+			<polygon class=" (ctg83_12)" points="221,40 239,10 239,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Elong-fact-P_C (PF09285)
+"Elongation factor P, C-terminal"</title>
+				<polygon class="PF09285" points="225,40 226,38 226,42" stroke-linejoin="round" width="5" height="24" fill="rgb(182,70,108)" stroke="rgb(145,56,86)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>EFP (PF01132)
+"Elongation factor P (EF-P) OB domain"</title>
+				<polygon class="PF01132" points="227,37 232,29 232,51 227,43" stroke-linejoin="round" width="5" height="24" fill="rgb(182,175,51)" stroke="rgb(145,140,40)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>EFP_N (PF08207)
+"Elongation factor P (EF-P) KOW-like domain"</title>
+				<polygon class="PF08207" points="233,27 233,28 238,28 238,52 233,52 233,53" stroke-linejoin="round" width="5" height="24" fill="rgb(197,92,109)" stroke="rgb(157,73,87)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg83_13)</title>
+			<polygon class=" (ctg83_13)" points="244,40 260,10 260,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M24 (PF00557)
+"Metallopeptidase family M24"</title>
+				<polygon class="PF00557" points="247,40 253,28 259,28 259,52 253,52" stroke-linejoin="round" width="14" height="24" fill="rgb(78,173,196)" stroke="rgb(62,138,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

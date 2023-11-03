@@ -1,0 +1,119 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="427.03333333333336" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="417.03333333333336" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg14_38)</title>
+			<polygon class=" (ctg14_38)" points="52,25 40,25 40,10 10,40 40,70 40,55 52,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HATPase_c_5 (PF14501)
+"GHKL domain"</title>
+				<polygon class="PF14501" points="14,40 20,34 20,46" stroke-linejoin="round" width="10" height="24" fill="rgb(187,81,89)" stroke="rgb(149,64,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg14_39)</title>
+			<polygon class=" (ctg14_39)" points="56,10 70,40 56,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HATPase_c_5 (PF14501)
+"GHKL domain"</title>
+				<polygon class="PF14501" points="60,28 61,28 67,40 61,52 60,52" stroke-linejoin="round" width="10" height="24" fill="rgb(187,81,89)" stroke="rgb(149,64,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg14_40)</title>
+			<polygon class=" (ctg14_40)" points="85,10 90,40 85,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg14_41)</title>
+			<polygon class=" (ctg14_41)" points="97,10 102,40 97,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg14_42)</title>
+			<polygon class=" (ctg14_42)" points="109,10 115,40 109,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_C39 (PF03412)
+"Peptidase C39 family"</title>
+				<polygon class="PF03412" points="109,28 109,28 112,40 109,52 109,52" stroke-linejoin="round" width="6" height="24" fill="rgb(74,164,188)" stroke="rgb(59,131,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg14_43)</title>
+			<polygon class=" (ctg14_43)" points="115,10 130,40 115,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg14_44)</title>
+			<polygon class=" (ctg14_44)" points="137,10 144,40 137,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg14_45)</title>
+			<polygon class=" (ctg14_45)" points="145,10 153,40 145,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Bacteriocin_IIc (PF10439)
+"Bacteriocin class II with double-glycine leader peptide"</title>
+				<polygon class="PF10439" points="145,28 146,28 150,39 150,41 146,52 145,52" stroke-linejoin="round" width="5" height="24" fill="rgb(73,88,193)" stroke="rgb(58,70,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg14_46)</title>
+			<polygon class=" (ctg14_46)" points="157,10 171,40 157,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg14_47)</title>
+			<polygon class=" (ctg14_47)" points="176,25 219,25 219,10 249,40 219,70 219,55 176,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_C39 (PF03412)
+"Peptidase C39 family"</title>
+				<rect class="PF03412" x="176" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(74,164,188)" stroke="rgb(59,131,150)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="193" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(125,63,227)" stroke="rgb(99,50,181)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="226,28 233,28 240,35 240,45 233,52 226,52" stroke-linejoin="round" width="14" height="24" fill="rgb(63,205,104)" stroke="rgb(50,164,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg14_48)</title>
+			<polygon class=" (ctg14_48)" points="251,25 270,25 270,10 300,40 270,70 270,55 251,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HlyD_3 (PF13437)
+"HlyD family secretion protein"</title>
+				<polygon class="PF13437" points="285,30 295,40 285,50" stroke-linejoin="round" width="11" height="24" fill="rgb(134,90,210)" stroke="rgb(107,72,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg14_49)</title>
+			<polygon class=" (ctg14_49)" points="303,10 307,40 303,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg14_50)</title>
+			<polygon class=" (ctg14_50)" points="309,10 314,40 309,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg14_51)</title>
+			<polygon class=" (ctg14_51)" points="316,10 339,40 316,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Rce1-like (PF02517)
+"Type II CAAX prenyl endopeptidase Rce1-like"</title>
+				<polygon class="PF02517" points="328,31 335,40 328,49" stroke-linejoin="round" width="9" height="24" fill="rgb(211,59,171)" stroke="rgb(168,47,136)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg14_52)</title>
+			<polygon class=" (ctg14_52)" points="348,10 372,40 348,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Rce1-like (PF02517)
+"Type II CAAX prenyl endopeptidase Rce1-like"</title>
+				<polygon class="PF02517" points="361,31 368,40 361,49" stroke-linejoin="round" width="9" height="24" fill="rgb(211,59,171)" stroke="rgb(168,47,136)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg14_53)</title>
+			<polygon class=" (ctg14_53)" points="383,10 394,40 383,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

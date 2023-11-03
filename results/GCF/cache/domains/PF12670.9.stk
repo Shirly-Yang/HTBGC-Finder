@@ -1,0 +1,23 @@
+# STOCKHOLM 1.0
+
+ERR1190811_bin.10.fa_BGC_c00001_NODE_3_...region001_ORF30:gid::pid::loc:30654:31089:strand:+:18:129         lre----IAISAGMGSAVVLALLTVFALVMSAQDIPGGLTAPMVTITLVVGTLAAGYRCGRQLRQNGIVNGALTGGMMYLVLLAISLTApRNEV---GLLALYKCLLMLVGGAIGCIL-a
+#=GR ERR1190811_bin.10.fa_BGC_c00001_NODE_3_...region001_ORF30:gid::pid::loc:30654:31089:strand:+:18:129 PP 876....5567788999****************************************************************9****99943333...467889************997.7
+ERR1190811_bin.37.fa_BGC_c00006_NODE_71...region001_ORF10:gid::pid::loc:9641:10001:strand:+:1:114           .mf--IEILKGGLLASVISIALIVLYALALWKEILPAESMPIANAVIKVISAAAASLLAVRRCTKRRWLYGGIAGLFYAALAFMVFSIL.ADTFV-VSVALLSDFGVGLLAGALAAMA-a
+#=GR ERR1190811_bin.37.fa_BGC_c00006_NODE_71...region001_ORF10:gid::pid::loc:9641:10001:strand:+:1:114   PP .86..679*************************************************************************88888887.55555.6*****************9985.8
+ERR1190811_bin.59.fa_BGC_c00148_NODE_85...region001_ORF2:gid::pid::loc:980:1361:strand:+:12:126             ..k-AIWFVKSLLCGYIVTGFLLLILALMLYKLGLSEQNVNAGIVLIYVISTFSAGFVLGKLAGKRKFLWGLFAGITYFVLLMLITLGV.YHAFQGNVTNIAVTFLLCAGGGMLGGMI-a
+#=GR ERR1190811_bin.59.fa_BGC_c00148_NODE_85...region001_ORF2:gid::pid::loc:980:1361:strand:+:12:126     PP ..6.6789*********************************************************************************.***************************9.6
+ERR1190811_bin.58.fa_BGC_c00148_NODE_80...region001_ORF4:gid::pid::loc:1795:2152:strand:+:4:117             ..n-FKGVIKGTIFAILVTFVIILILALLSYFTGIDETIITTGVYASVIIGVILGTIAVSKAANSRAFVHAMLVCALYLIVLIGISLIV.NNGIM-FNTHFLAVIGGTFASGILGCIIG.
+#=GR ERR1190811_bin.58.fa_BGC_c00148_NODE_80...region001_ORF4:gid::pid::loc:1795:2152:strand:+:4:117     PP ..5.789**********************************************************************************.66555.6*****99**************8.
+ERR1190811_bin.3.fa_BGC_c00050_NODE_24...region001_ORF9:gid::pid::loc:11747:12143:strand:-:17:131           .va--FCVLKALVAAYIVTGLLLLILAFALYKLGLSENVVELGVVFIYLLSSAIGGFFIGKCMEVKRLLWGVLLGLFYAVLLLVLSLIV.CGNAQGIIQSGLLNTWICLGGGAIGAFLS.
+#=GR ERR1190811_bin.3.fa_BGC_c00050_NODE_24...region001_ORF9:gid::pid::loc:11747:12143:strand:-:17:131   PP .96..69**********************************************************************************.55555557777889999********9875.
+ERR1190811_bin.81.fa_BGC_c00001_NODE_4_...region001_ORF9:gid::pid::loc:11733:12096:strand:-:6:120           ..k-FMGVVKGLILSYLLTIIMLFITAVVVYKVGISDKVLAILVVVIYIVATFAGGFVTGRKVREKRFLWGMVYGLTYISVALTVSVLF.TGSGDREGIAVITKCIMCVAGGMLGAMLS.
+#=GR ERR1190811_bin.81.fa_BGC_c00001_NODE_4_...region001_ORF9:gid::pid::loc:11733:12096:strand:-:6:120   PP ..7.5689*********************************************************************************.9999999********************96.
+ERR1190811_bin.75.fa_BGC_c00007_NODE_14...region001_ORF12:gid::pid::loc:11969:12350:strand:-:12:126         .pv--LALAKCLLVSYVLTLLLLCLLALLLYKLHLTEGIVTIAISAIYVVTTFTAGFLAGKRMEKQKFLWGAFVGAAYFVILAVVSVLI.RTPETALGNSFWTTMILCVAGGTLGGMLG.
+#=GR ERR1190811_bin.75.fa_BGC_c00007_NODE_14...region001_ORF12:gid::pid::loc:11969:12350:strand:-:12:126 PP .96..6889********************************************************************************.8888888*********************8.
+ERR1190811_bin.50.fa_BGC_c00004_NODE_47...region001_ORF11:gid::pid::loc:11704:12067:strand:-:6:120          ..k-IFSLLKALAVSYIITAILLLVTALLMYKLGLGETAIHLSIIIIHGISVFLGGFLTGKMVKEQKYIWGLMLGVCYVLVIGIVSFIM.NGTIHISAGGTLTNVILCLAAGMLGGMLG.
+#=GR ERR1190811_bin.50.fa_BGC_c00004_NODE_47...region001_ORF11:gid::pid::loc:11704:12067:strand:-:6:120  PP ..6.5689*********************************************************************************.****************************8.
+ERR1190811_bin.52.fa_BGC_c00041_NODE_18...region001_ORF9:gid::pid::loc:11213:11615:strand:-:19:133          yae---NLVKALLCAYLVTGMFLLILALLLYKAGLSEENVNLGIILIYVIGTFSGGFVMGKLEGQKKFLWGLGTGVVYFVLLLIISFGM.YREVSSGAGDLFLTFVLCTGGGMLGGMV-a
+#=GR ERR1190811_bin.52.fa_BGC_c00041_NODE_18...region001_ORF9:gid::pid::loc:11213:11615:strand:-:19:133  PP 865...789********************************************************************************.***************************8.6
+#=GC PP_cons                                                                                                ....668999*******************************************************************************.777789899999**************987.
+#=GC RF                                                                                                     ...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

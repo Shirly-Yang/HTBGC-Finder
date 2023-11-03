@@ -1,0 +1,21 @@
+#                                                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Biotin_lipoyl        PF00364.24    73 ERR1190811_bin.61.fa_BGC_c00061_NODE_23...region001_ORF2:gid::pid::loc:1674:2100:strand:+ -            141   1.6e-18   66.4   4.0   1   1   1.6e-22   1.6e-18   66.4   4.0     3    73    75   140    73   140 0.95 Biotin-requiring enzyme
+Biotin_lipoyl_2      PF13533.8     50 ERR1190811_bin.61.fa_BGC_c00061_NODE_23...region001_ORF2:gid::pid::loc:1674:2100:strand:+ -            141     3e-12   46.2   1.0   1   1   2.6e-11   2.5e-07   30.5   0.3     5    42    75   112    73   114 0.92 Biotin-lipoyl like
+DUF6175              PF19672.1    287 ERR1190811_bin.61.fa_BGC_c00061_NODE_23...region001_ORF4:gid::pid::loc:3348:4725:strand:+ -            458   3.6e-66  223.3   7.5   1   1   2.5e-70   4.9e-66  222.9   7.5     2   286   184   457   183   458 0.98 Family of unknown function (DUF6175)
+PqqD                 PF05402.14    67 ERR1190811_bin.61.fa_BGC_c00061_NODE_23...region001_ORF9:gid::pid::loc:10000:10267:strand:- -             88   1.2e-12   48.0   0.6   1   1   7.4e-17   1.4e-12   47.8   0.6     1    67    15    87    15    87 0.90 Coenzyme PQQ synthesis protein D (PqqD)
+Sigma70_r2           PF04542.16    71 ERR1190811_bin.61.fa_BGC_c00061_NODE_23...region001_ORF13:gid::pid::loc:12435:13299:strand:- -            287   5.9e-18   64.5   0.0   1   1   2.7e-21   1.3e-17   63.4   0.0     3    70    56   123    54   124 0.96 Sigma-70 region 2
+Sigma70_r4           PF04545.18    50 ERR1190811_bin.61.fa_BGC_c00061_NODE_23...region001_ORF13:gid::pid::loc:12435:13299:strand:- -            287   4.1e-16   58.3   2.9   1   1   3.4e-19   1.6e-15   56.4   0.3     1    50   222   274   222   274 0.98 Sigma-70, region 4
+Sigma70_r3           PF04539.18    78 ERR1190811_bin.61.fa_BGC_c00061_NODE_23...region001_ORF13:gid::pid::loc:12435:13299:strand:- -            287   6.7e-15   55.1   7.5   1   1   1.9e-17   9.2e-14   51.4   0.8     3    73   135   205   134   210 0.94 Sigma-70 region 3
+Sigma70_r1_2         PF00140.22    34 ERR1190811_bin.61.fa_BGC_c00061_NODE_23...region001_ORF13:gid::pid::loc:12435:13299:strand:- -            287   3.4e-12   46.2   1.7   1   1   2.1e-15     1e-11   44.7   0.4     2    33    17    48    17    49 0.96 Sigma-70 factor, region 1.2
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut/Sample/SAMEA3708737/results/GCF/cache/fasta/ERR1190811_bin.61.fa_BGC_c00061_NODE_23...region001.fasta
+# Target file:     /mnt/nfs/5110v5/Server_27_backup/yangxiao_new/miniconda2/envs/bigscape/lib/python3.7/site-packages/antismash/databases/pfam/34.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut/Sample/SAMEA3708737/results/GCF/cache/domtable/ERR1190811_bin.61.fa_BGC_c00061_NODE_23...region001.domtable --cut_tc --cpu 0 /mnt/nfs/5110v5/Server_27_backup/yangxiao_new/miniconda2/envs/bigscape/lib/python3.7/site-packages/antismash/databases/pfam/34.0/Pfam-A.hmm /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut/Sample/SAMEA3708737/results/GCF/cache/fasta/ERR1190811_bin.61.fa_BGC_c00061_NODE_23...region001.fasta 
+# Current dir:     /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut
+# Date:            Sun Jun 18 02:49:05 2023
+# [ok]

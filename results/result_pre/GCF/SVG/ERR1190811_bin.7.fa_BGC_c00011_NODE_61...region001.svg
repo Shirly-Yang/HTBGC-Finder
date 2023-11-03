@@ -1,0 +1,105 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="426.46666666666664" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="416.46666666666664" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg11_1)</title>
+			<polygon class=" (ctg11_1)" points="18,10 24,40 18,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg11_2)</title>
+			<polygon class=" (ctg11_2)" points="36,25 52,25 52,10 82,40 52,70 52,55 36,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<rect class="PF04055" x="46" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(184,71,96)" stroke="rgb(147,56,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11_3)</title>
+			<polygon class=" (ctg11_3)" points="85,25 98,25 98,10 128,40 98,70 98,55 85,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OKR_DC_1 (PF01276)
+"Orn/Lys/Arg decarboxylase, major domain"</title>
+				<polygon class="PF01276" points="85,28 111,28 112,29 112,51 111,52 85,52" stroke-linejoin="round" width="27" height="24" fill="rgb(73,89,198)" stroke="rgb(58,71,158)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>OKR_DC_1_C (PF03711)
+"Orn/Lys/Arg decarboxylase, C-terminal domain"</title>
+				<polygon class="PF03711" points="120,37 123,40 120,43" stroke-linejoin="round" width="7" height="24" fill="rgb(95,220,183)" stroke="rgb(76,176,146)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11_4)</title>
+			<polygon class=" (ctg11_4)" points="136,40 165,10 165,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NTP_transferase (PF00483)
+"Nucleotidyl transferase"</title>
+				<polygon class="PF00483" points="140,40 152,28 164,28 164,52 152,52" stroke-linejoin="round" width="26" height="24" fill="rgb(223,142,88)" stroke="rgb(178,113,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11_5)</title>
+			<polygon class=" (ctg11_5)" points="166,40 191,10 191,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2628 (PF10947)
+"Protein of unknown function (DUF2628)"</title>
+				<polygon class="PF10947" points="171,39 180,28 184,28 184,52 180,52 171,41" stroke-linejoin="round" width="13" height="24" fill="rgb(206,55,131)" stroke="rgb(164,44,104)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11_6)</title>
+			<polygon class=" (ctg11_6)" points="248,25 231,25 231,10 201,40 231,70 231,55 248,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADSL_C (PF10397)
+"Adenylosuccinate lyase C-terminus"</title>
+				<polygon class="PF10397" points="205,40 211,34 211,46" stroke-linejoin="round" width="8" height="24" fill="rgb(219,168,66)" stroke="rgb(175,134,52)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Lyase_1 (PF00206)
+"Lyase"</title>
+				<rect class="PF00206" x="218" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(103,130,211)" stroke="rgb(82,104,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11_7)</title>
+			<polygon class=" (ctg11_7)" points="293,25 283,25 283,10 253,40 283,70 283,55 293,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_1_2 (PF00155)
+"Aminotransferase class I and II"</title>
+				<polygon class="PF00155" points="257,40 269,28 289,28 289,52 269,52" stroke-linejoin="round" width="36" height="24" fill="rgb(73,119,180)" stroke="rgb(58,95,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11_8)</title>
+			<polygon class=" (ctg11_8)" points="294,40 322,10 322,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DAP_epimerase (PF01678)
+"Diaminopimelate epimerase"</title>
+				<polygon class="PF01678" points="298,40 305,33 305,47" stroke-linejoin="round" width="11" height="24" fill="rgb(223,207,88)" stroke="rgb(178,165,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DAP_epimerase (PF01678)
+"Diaminopimelate epimerase"</title>
+				<polygon class="PF01678" points="309,28 309,28 321,28 321,52 309,52 309,52" stroke-linejoin="round" width="12" height="24" fill="rgb(223,207,88)" stroke="rgb(178,165,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11_9)</title>
+			<polygon class=" (ctg11_9)" points="323,40 340,10 340,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ANTAR (PF03861)
+"ANTAR domain"</title>
+				<polygon class="PF03861" points="326,40 328,37 328,43" stroke-linejoin="round" width="5" height="24" fill="rgb(219,108,69)" stroke="rgb(175,86,55)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11_10)</title>
+			<polygon class=" (ctg11_10)" points="381,25 372,25 372,10 342,40 372,70 372,55 381,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SHMT (PF00464)
+"Serine hydroxymethyltransferase"</title>
+				<polygon class="PF00464" points="346,40 358,28 381,28 381,52 358,52" stroke-linejoin="round" width="36" height="24" fill="rgb(145,68,179)" stroke="rgb(116,54,143)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,86 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="334.8666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="324.8666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg118_1)</title>
+			<polygon class=" (ctg118_1)" points="11,25 60,25 60,10 90,40 60,70 60,55 11,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Omp85 (PF01103)
+"Omp85 superfamily domain"</title>
+				<polygon class="PF01103" points="50,28 74,28 86,40 74,52 50,52" stroke-linejoin="round" width="40" height="24" fill="rgb(226,174,59)" stroke="rgb(180,139,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg118_2)</title>
+			<polygon class=" (ctg118_2)" points="97,25 97,25 97,10 127,40 97,70 97,55 97,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg118_3)</title>
+			<polygon class=" (ctg118_3)" points="128,25 132,25 132,10 162,40 132,70 132,55 128,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DHH (PF01368)
+"DHH family"</title>
+				<rect class="PF01368" x="130" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(81,73,191)" stroke="rgb(64,58,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg118_4)</title>
+			<polygon class=" (ctg118_4)" points="168,10 191,40 168,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4827 (PF16109)
+"Domain of unknown function (DUF4827)"</title>
+				<polygon class="PF16109" points="169,28 178,28 187,40 178,52 169,52" stroke-linejoin="round" width="20" height="24" fill="rgb(203,152,86)" stroke="rgb(162,121,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg118_5)</title>
+			<polygon class=" (ctg118_5)" points="192,25 208,25 208,10 238,40 208,70 208,55 192,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PGM_PMM_I (PF02878)
+"Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain I"</title>
+				<rect class="PF02878" x="192" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(214,82,65)" stroke="rgb(171,65,52)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PGM_PMM_II (PF02879)
+"Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain II"</title>
+				<rect class="PF02879" x="208" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(178,184,57)" stroke="rgb(142,147,45)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PGM_PMM_III (PF02880)
+"Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain III"</title>
+				<polygon class="PF02880" points="218,28 222,28 229,35 229,45 222,52 218,52" stroke-linejoin="round" width="11" height="24" fill="rgb(121,218,81)" stroke="rgb(96,174,64)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PGM_PMM_IV (PF00408)
+"Phosphoglucomutase/phosphomannomutase, C-terminal domain"</title>
+				<polygon class="PF00408" points="230,36 234,40 230,44" stroke-linejoin="round" width="7" height="24" fill="rgb(87,145,209)" stroke="rgb(69,116,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg118_6)</title>
+			<polygon class=" (ctg118_6)" points="247,25 247,25 247,10 277,40 247,70 247,55 247,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg118_7)</title>
+			<polygon class=" (ctg118_7)" points="278,10 294,40 278,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg118_8)</title>
+			<polygon class=" (ctg118_8)" points="296,10 304,40 296,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PqqD (PF05402)
+"Coenzyme PQQ synthesis protein D (PqqD)"</title>
+				<polygon class="PF05402" points="297,28 297,28 301,40 297,52 297,52" stroke-linejoin="round" width="7" height="24" fill="rgb(218,64,155)" stroke="rgb(174,51,124)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg118_9)</title>
+			<polygon class=" (ctg118_9)" points="304,10 324,40 304,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<polygon class="PF00664" points="305,28 312,28 320,40 312,52 305,52" stroke-linejoin="round" width="18" height="24" fill="rgb(125,63,227)" stroke="rgb(99,50,181)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

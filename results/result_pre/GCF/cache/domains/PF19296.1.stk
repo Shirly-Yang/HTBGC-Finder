@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+ERR1190811_bin.3.fa_BGC_c00050_NODE_24...region001_ORF3:gid::pid::loc:3019:5296:strand:-:488:663          ls--VVKSSQAKTKINQWFRQENKTDNIQRGKDAMAAYCKTKGIVLSNllqpELQEKVM.KKYNFLTWDAVLASIGHGGLKEGQVVNRLQEEYKKEEAKKITEE-----------QIVDKINTPGRGESHK-HAKGGIVVKGM-DDVAVRFSRCcAPVPGDEIVGYITRGRGVSIHRT---------------dcvnvlc
+#=GR ERR1190811_bin.3.fa_BGC_c00050_NODE_24...region001_ORF3:gid::pid::loc:3019:5296:strand:-:488:663  PP 95..6778889999999999999999999999999999999998776433324556789.99********************************9988755533...........2233566788765555.45678999987.589*******999*****************9865...............5666777
+ERR1190811_bin.81.fa_BGC_c00001_NODE_4_...region001_ORF1:gid::pid::loc:453:2898:strand:-:545:716          .l-NIVKSTQARTKINQWFKHQLKDENISRGRELILNYCKSKGIDYSMyskpEYQEKIY.KKYNFQDWDSIVAAVGHGGIKEGQIVNRLIDEYNKEHKPQTATN--------AEVLDEYSVKKNHG----NHTGKGGIIVNGI-DDVAVRFSKCcSPVPGDEIIGFITRGRGVSIHR----------------tdcvnvl
+#=GR ERR1190811_bin.81.fa_BGC_c00001_NODE_4_...region001_ORF1:gid::pid::loc:453:2898:strand:-:545:716  PP .8.6889999*******************************998876422224456788.99********************************8888633322........23333333342222....2223456777776.589*******9*******************985................6788999
+ERR1190811_bin.52.fa_BGC_c00041_NODE_18...region001_ORF4:gid::pid::loc:2634:4938:strand:-:496:671         .l-NIVKSTQAKSKINSWFKKEFKEDNIIRGKDLISAYCKSKGINLPDv.lkPKYQQIVqKKYGFRDWDAVLAAIGHGGLKEGQVVNRLLEEYEKEHKKEIT---DENILEKISEANKQRVHIAKS--------KSGIVVKGIN-DMAVRFSKCcNPVPGDEIVGFVTRGRGMSIHRTD--------------ciniinl
+#=GR ERR1190811_bin.52.fa_BGC_c00041_NODE_18...region001_ORF4:gid::pid::loc:2634:4938:strand:-:496:671 PP .8.5777888999999999999999999999999999999998876541.11344444415789999***************************99887554...456777788887777776654........3568899986.89*******9*******************98765..............5666667
+#=GC PP_cons                                                                                              ...678888999999999999999999999999999999999987764....4455677.88999*****************************9888744432.456777755544445565554655532344678888876589*******.9******************98655.....................
+#=GC RF                                                                                                   ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.......
+
+ERR1190811_bin.3.fa_BGC_c00050_NODE_24...region001_ORF3:gid::pid::loc:3019:5296:strand:-:488:663          mdefdrk
+#=GR ERR1190811_bin.3.fa_BGC_c00050_NODE_24...region001_ORF3:gid::pid::loc:3019:5296:strand:-:488:663  PP 7788899
+ERR1190811_bin.81.fa_BGC_c00001_NODE_4_...region001_ORF1:gid::pid::loc:453:2898:strand:-:545:716          cmse...
+#=GR ERR1190811_bin.81.fa_BGC_c00001_NODE_4_...region001_ORF1:gid::pid::loc:453:2898:strand:-:545:716  PP ****...
+ERR1190811_bin.52.fa_BGC_c00041_NODE_18...region001_ORF4:gid::pid::loc:2634:4938:strand:-:496:671         sdver..
+#=GR ERR1190811_bin.52.fa_BGC_c00041_NODE_18...region001_ORF4:gid::pid::loc:2634:4938:strand:-:496:671 PP 77899..
+#=GC PP_cons                                                                                              .......
+#=GC RF                                                                                                   .......
+//

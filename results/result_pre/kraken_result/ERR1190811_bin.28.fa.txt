@@ -1,0 +1,59 @@
+  0.85	2	2	U	0	unclassified
+ 99.15	232	0	R	1	root
+ 99.15	232	0	R1	131567	  cellular organisms
+ 99.15	232	6	D	2	    Bacteria
+ 94.44	221	0	D1	1783270	      FCB group
+ 94.44	221	0	D2	68336	        Bacteroidetes/Chlorobi group
+ 94.44	221	2	P	976	          Bacteroidetes
+ 93.16	218	0	C	200643	            Bacteroidia
+ 93.16	218	13	O	171549	              Bacteroidales
+ 85.47	200	0	F	815	                Bacteroidaceae
+ 85.47	200	82	G	816	                  Bacteroides
+ 41.03	96	96	S	818	                    Bacteroides thetaiotaomicron
+  4.70	11	11	S	47678	                    Bacteroides caccae
+  1.71	4	4	S	28116	                    Bacteroides ovatus
+  1.71	4	4	S	246787	                    Bacteroides cellulosilyticus
+  1.28	3	0	G1	2646097	                    unclassified Bacteroides
+  0.85	2	2	S	2763022	                      Bacteroides sp. M10
+  0.43	1	1	S	2715212	                      Bacteroides sp. CBA7301
+  1.28	3	0	O1	333046	                Bacteroidales incertae sedis
+  1.28	3	1	G	909656	                  Phocaeicola
+  0.85	2	0	S	821	                    Phocaeicola vulgatus
+  0.85	2	2	S1	435590	                      Bacteroides vulgatus ATCC 8482
+  0.43	1	0	F	1853231	                Odoribacteraceae
+  0.43	1	0	G	574697	                  Butyricimonas
+  0.43	1	1	S	2093856	                    Butyricimonas faecalis
+  0.43	1	0	F	2005525	                Tannerellaceae
+  0.43	1	1	G	375288	                  Parabacteroides
+  0.43	1	0	C	117743	            Flavobacteriia
+  0.43	1	0	O	200644	              Flavobacteriales
+  0.43	1	0	F	49546	                Flavobacteriaceae
+  0.43	1	0	G	292691	                  Gramella
+  0.43	1	0	G1	2615027	                    unclassified Gramella
+  0.43	1	1	S	1250205	                      Gramella sp. MAR_2010_147
+  1.71	4	0	D1	1783272	      Terrabacteria group
+  1.28	3	0	P	1239	        Firmicutes
+  1.28	3	0	C	186801	          Clostridia
+  1.28	3	0	O	186802	            Clostridiales
+  0.43	1	0	F	186806	              Eubacteriaceae
+  0.43	1	0	G	1730	                Eubacterium
+  0.43	1	1	S	1736	                  Eubacterium limosum
+  0.43	1	0	F	216572	              Oscillospiraceae
+  0.43	1	0	G	2591381	                Dysosmobacter
+  0.43	1	1	S	2093857	                  Dysosmobacter welbionis
+  0.43	1	0	F	541000	              Ruminococcaceae
+  0.43	1	0	G	1905344	                Ruthenibacterium
+  0.43	1	1	S	1550024	                  Ruthenibacterium lactatiformans
+  0.43	1	0	P	201174	        Actinobacteria
+  0.43	1	0	C	1760	          Actinobacteria
+  0.43	1	0	O	85011	            Streptomycetales
+  0.43	1	0	F	2062	              Streptomycetaceae
+  0.43	1	0	G	1883	                Streptomyces
+  0.43	1	0	G1	2593676	                  unclassified Streptomyces
+  0.43	1	1	S	2721243	                    Streptomyces sp. RLB1-33
+  0.43	1	0	P	1224	      Proteobacteria
+  0.43	1	0	C	1236	        Gammaproteobacteria
+  0.43	1	0	O	91347	          Enterobacterales
+  0.43	1	0	F	543	            Enterobacteriaceae
+  0.43	1	0	G	160674	              Raoultella
+  0.43	1	1	S	54291	                Raoultella ornithinolytica

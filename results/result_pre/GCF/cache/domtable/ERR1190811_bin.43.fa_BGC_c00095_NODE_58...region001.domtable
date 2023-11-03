@@ -1,0 +1,20 @@
+#                                                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Sulfate_transp       PF00916.22   380 ERR1190811_bin.43.fa_BGC_c00095_NODE_58...region001_ORF1:gid::pid::loc:0:780:strand:+ -            259   7.6e-19   67.8   0.9   1   1   1.2e-22   1.1e-18   67.2   0.9   294   380     1    86     1    86 0.98 Sulfate permease family
+STAS                 PF01740.23   117 ERR1190811_bin.43.fa_BGC_c00095_NODE_58...region001_ORF1:gid::pid::loc:0:780:strand:+ -            259   2.4e-14   53.1   0.0   1   1   4.9e-18   4.7e-14   52.1   0.0     7   117   145   245   140   245 0.95 STAS domain
+HMA                  PF00403.28    62 ERR1190811_bin.43.fa_BGC_c00095_NODE_58...region001_ORF6:gid::pid::loc:3336:3648:strand:- -            103     2e-08   34.6   1.6   1   1   2.6e-12   4.9e-08   33.3   1.6     1    54    35    88    34    94 0.91 Heavy-metal-associated domain
+CarbopepD_reg_2      PF13715.8     88 ERR1190811_bin.43.fa_BGC_c00095_NODE_58...region001_ORF7:gid::pid::loc:3680:6110:strand:- -            809   1.1e-17   63.9   0.3   1   1   3.5e-21   2.3e-17   62.9   0.3     1    88    25   108    25   108 0.89 CarboxypepD_reg-like domain
+TonB_dep_Rec         PF00593.26   470 ERR1190811_bin.43.fa_BGC_c00095_NODE_58...region001_ORF7:gid::pid::loc:3680:6110:strand:- -            809   1.1e-14   55.3  30.0   1   1   1.8e-18   1.1e-14   55.3  30.0    67   470   379   807   285   807 0.60 TonB dependent receptor
+PqqD                 PF05402.14    67 ERR1190811_bin.43.fa_BGC_c00095_NODE_58...region001_ORF9:gid::pid::loc:6671:6941:strand:- -             89   1.1e-13   51.3   0.3   1   1   8.2e-18   1.6e-13   50.8   0.3     1    67    15    87    15    87 0.94 Coenzyme PQQ synthesis protein D (PqqD)
+DEAD                 PF00270.31   176 ERR1190811_bin.43.fa_BGC_c00095_NODE_58...region001_ORF10:gid::pid::loc:7058:7319:strand:+ -             87   2.3e-10   40.6   0.0   1   1   1.4e-14   2.7e-10   40.4   0.0     2    69    27    86    26    87 0.93 DEAD/DEAH box helicase
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut/Sample/SAMEA3708737/results/GCF/cache/fasta/ERR1190811_bin.43.fa_BGC_c00095_NODE_58...region001.fasta
+# Target file:     /mnt/nfs/5110v5/Server_27_backup/yangxiao_new/miniconda2/envs/bigscape/lib/python3.7/site-packages/antismash/databases/pfam/34.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut/Sample/SAMEA3708737/results/GCF/cache/domtable/ERR1190811_bin.43.fa_BGC_c00095_NODE_58...region001.domtable --cut_tc --cpu 0 /mnt/nfs/5110v5/Server_27_backup/yangxiao_new/miniconda2/envs/bigscape/lib/python3.7/site-packages/antismash/databases/pfam/34.0/Pfam-A.hmm /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut/Sample/SAMEA3708737/results/GCF/cache/fasta/ERR1190811_bin.43.fa_BGC_c00095_NODE_58...region001.fasta 
+# Current dir:     /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut
+# Date:            Sun Jun 18 02:48:49 2023
+# [ok]

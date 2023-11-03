@@ -1,0 +1,127 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="556.5333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="546.5333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg47_1)</title>
+			<polygon class=" (ctg47_1)" points="85,25 40,25 40,10 10,40 40,70 40,55 85,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Transglut_core (PF01841)
+"Transglutaminase-like superfamily"</title>
+				<rect class="PF01841" x="45" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(74,183,153)" stroke="rgb(59,146,122)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg47_2)</title>
+			<polygon class=" (ctg47_2)" points="191,25 115,25 115,10 85,40 115,70 115,55 191,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Prenyltrans (PF00432)
+"Prenyltransferase and squalene oxidase repeat"</title>
+				<rect class="PF00432" x="176" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(193,66,152)" stroke="rgb(154,52,121)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg47_3)</title>
+			<polygon class=" (ctg47_3)" points="194,40 212,10 212,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AgrB (PF04647)
+"Accessory gene regulator B"</title>
+				<polygon class="PF04647" points="198,40 206,28 212,28 212,52 206,52" stroke-linejoin="round" width="17" height="24" fill="rgb(67,227,212)" stroke="rgb(53,181,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg47_4)</title>
+			<polygon class=" (ctg47_4)" points="219,40 222,10 222,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg47_5)</title>
+			<polygon class=" (ctg47_5)" points="282,25 271,25 271,10 241,40 271,70 271,55 282,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HATPase_c_5 (PF14501)
+"GHKL domain"</title>
+				<polygon class="PF14501" points="245,40 251,34 251,46" stroke-linejoin="round" width="10" height="24" fill="rgb(187,81,89)" stroke="rgb(149,64,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg47_6)</title>
+			<polygon class=" (ctg47_6)" points="283,40 308,10 308,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LytTR (PF04397)
+"LytTr DNA-binding domain"</title>
+				<polygon class="PF04397" points="287,40 293,33 293,47" stroke-linejoin="round" width="10" height="24" fill="rgb(154,92,215)" stroke="rgb(123,73,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="295,31 297,28 306,28 306,52 297,52 295,49" stroke-linejoin="round" width="11" height="24" fill="rgb(209,129,92)" stroke="rgb(167,103,73)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg47_7)</title>
+			<polygon class=" (ctg47_7)" points="387,25 355,25 355,10 325,40 355,70 355,55 387,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Recombinase (PF07508)
+"Recombinase"</title>
+				<rect class="PF07508" x="356" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(58,150,181)" stroke="rgb(46,120,144)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Resolvase (PF00239)
+"Resolvase, N terminal domain"</title>
+				<rect class="PF00239" x="369" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(163,51,180)" stroke="rgb(130,40,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg47_8)</title>
+			<polygon class=" (ctg47_8)" points="393,40 405,10 405,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PemK_toxin (PF02452)
+"PemK-like, MazF-like toxin of type II toxin-antitoxin system"</title>
+				<polygon class="PF02452" points="396,40 401,28 403,28 403,52 401,52" stroke-linejoin="round" width="10" height="24" fill="rgb(81,214,160)" stroke="rgb(64,171,128)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg47_9)</title>
+			<polygon class=" (ctg47_9)" points="425,40 440,10 440,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sigma70_r4_2 (PF08281)
+"Sigma-70, region 4"</title>
+				<polygon class="PF08281" points="428,40 430,36 430,44" stroke-linejoin="round" width="5" height="24" fill="rgb(79,193,213)" stroke="rgb(63,154,170)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg47_10)</title>
+			<polygon class=" (ctg47_10)" points="454,10 460,40 454,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg47_11)</title>
+			<polygon class=" (ctg47_11)" points="457,40 462,10 462,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg47_12)</title>
+			<polygon class=" (ctg47_12)" points="501,25 497,25 497,10 467,40 497,70 497,55 501,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HATPase_c (PF02518)
+"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"</title>
+				<polygon class="PF02518" points="471,40 477,34 477,46" stroke-linejoin="round" width="10" height="24" fill="rgb(192,73,161)" stroke="rgb(153,58,128)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HisKA (PF00512)
+"His Kinase A (phospho-acceptor) domain"</title>
+				<polygon class="PF00512" points="482,29 483,28 488,28 488,52 483,52 482,51" stroke-linejoin="round" width="6" height="24" fill="rgb(77,116,185)" stroke="rgb(61,92,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg47_13)</title>
+			<polygon class=" (ctg47_13)" points="501,40 525,10 525,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trans_reg_C (PF00486)
+"Transcriptional regulatory protein, C terminal"</title>
+				<polygon class="PF00486" points="505,40 508,36 508,44" stroke-linejoin="round" width="7" height="24" fill="rgb(52,113,189)" stroke="rgb(41,90,151)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="511,33 515,28 521,28 521,52 515,52 511,47" stroke-linejoin="round" width="10" height="24" fill="rgb(209,129,92)" stroke="rgb(167,103,73)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

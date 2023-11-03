@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+ERR1190811_bin.8.fa_BGC_c00008_NODE_34...region001_ORF14:gid::pid::loc:13057:13645:strand:-:2:195          .klkhiinii------------KFIFFLVYVILIFFVKSNIAL---IAALTIDVTLIIAYKINLKSLIDNLIKISIFVLITAI--I---NAFVVNINY.---AITIG-IKLILVCVMTYIFSKMLSYMEFATVMEDLAHPLKLFGInPKDLGLLVTIAISFIPILREELERIKYVLLVKGFKV.--NTINIVKNMNIVFK
+#=GR ERR1190811_bin.8.fa_BGC_c00008_NODE_34...region001_ORF14:gid::pid::loc:13057:13645:strand:-:2:195  PP .987665543............444444444444444444444...5555555555555566666666444443333333333..2...356666655....33346.4555555555667777888999************9996588**********************************...99999*********
+ERR1190811_bin.80.fa_BGC_c00025_NODE_14...region001_ORF16:gid::pid::loc:17720:18611:strand:+:2:215         kdtfsnmhpf-----------INFIFFALTIGFTMFIMNPVCL-AVSFLCALVTALYLN-GKKAVRLSLVFLLPMILLIVLVNPVFNHEGMTILTYFPwDNPLTLESIVYGIASAFLLSSTVLWFSSFNAVITSDKVVFLFGRIM-.P-SLSLVISMALRFVPRFSAQMKLVRNAQHTIGRDInEGTLFQRIRNAVKILS
+#=GR ERR1190811_bin.80.fa_BGC_c00025_NODE_14...region001_ORF16:gid::pid::loc:17720:18611:strand:+:2:215 PP 9999877655...........5567777777777777777777.444444444444444.46778888889***************************8899999******9877666655555555666677789999999986..4.68999999***************************9999999*********
+#=GC PP_cons                                                                                               .....................5455666666666666666665.444555555555555556677777667777776666666**6***788888887.89966678*77777666666566666667888888999999999976.6889999*****************************.9999999*********
+#=GC RF                                                                                                    ..........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxx
+
+ERR1190811_bin.8.fa_BGC_c00008_NODE_34...region001_ORF14:gid::pid::loc:13057:13645:strand:-:2:195          PLFVSIMERINEIEYSLKAKGYQ--------...
+#=GR ERR1190811_bin.8.fa_BGC_c00008_NODE_34...region001_ORF14:gid::pid::loc:13057:13645:strand:-:2:195  PP **********************8...........
+ERR1190811_bin.80.fa_BGC_c00025_NODE_14...region001_ORF16:gid::pid::loc:17720:18611:strand:+:2:215         IMITWSLENAIETADSMKSRGHGL-KGR---tsy
+#=GR ERR1190811_bin.80.fa_BGC_c00025_NODE_14...region001_ORF16:gid::pid::loc:17720:18611:strand:+:2:215 PP *********************877.555...567
+#=GC PP_cons                                                                                               *********************977.555......
+#=GC RF                                                                                                    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...
+//

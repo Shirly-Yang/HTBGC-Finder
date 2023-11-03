@@ -1,0 +1,20 @@
+BGC	Accession ID	Description	Product Prediction	BiG-SCAPE class	Organism	Taxonomy
+ERR1190811_bin.61.fa_BGC_c00061_NODE_23...region001	c00061_NODE_23..	NODE_2364_length_16659_cov_7.973801	RRE-containing	RiPPs		
+GCF_000025925.1_ASM2592v1_genomic.fna_BGC_NC_014033.1.region001	NC_014033.1	NC_014033.1 Prevotella ruminicola 23, complete sequence	RRE-containing	RiPPs		
+GCF_001953955.1_ASM195395v1_genomic.fna_BGC_NZ_CP019300.1.region001	NZ_CP019300.1	NZ_CP019300.1 Prevotella intermedia ATCC 25611 = DSM 20706 strain ATCC 25611 chromosome I, complete sequence	RRE-containing	RiPPs		
+GCF_017347605.1_ASM1734760v1_genomic.fna_BGC_NZ_AP024484.1.region001	NZ_AP024484.1	NZ_AP024484.1 Prevotella herbatica strain WR041 chromosome, complete genome	NAPAA	NRPS		
+GCF_017347605.1_ASM1734760v1_genomic.fna_BGC_NZ_AP024484.1.region002	NZ_AP024484.1	NZ_AP024484.1 Prevotella herbatica strain WR041 chromosome, complete genome	arylpolyene	Others		
+GCF_017347605.1_ASM1734760v1_genomic.fna_BGC_NZ_AP024484.1.region003	NZ_AP024484.1	NZ_AP024484.1 Prevotella herbatica strain WR041 chromosome, complete genome	RRE-containing	RiPPs		
+GCF_018127785.1_ASM1812778v1_genomic.fna_BGC_NZ_CP072389.1.region001	NZ_CP072389.1	NZ_CP072389.1 Prevotella scopos JCM 17725 strain W2052 chromosome 1, complete sequence	thiopeptide.LAP	RiPPs		
+GCF_019930605.1_ASM1993060v1_genomic.fna_BGC_NZ_CP082842.1.region001	NZ_CP082842.1	NZ_CP082842.1 Prevotella nigrescens strain FDAARGOS_1486 chromosome, complete genome	RRE-containing	RiPPs		
+GCF_022024115.1_ASM2202411v1_genomic.fna_BGC_NZ_CP091792.1.region001	NZ_CP091792.1	NZ_CP091792.1 Prevotella sp. E1-9 chromosome, complete genome	NRPS	NRPS		
+GCF_022024115.1_ASM2202411v1_genomic.fna_BGC_NZ_CP091792.1.region002	NZ_CP091792.1	NZ_CP091792.1 Prevotella sp. E1-9 chromosome, complete genome	RRE-containing	RiPPs		
+GCF_022024235.1_ASM2202423v1_genomic.fna_BGC_NZ_CP091799.1.region001	NZ_CP091799.1	NZ_CP091799.1 Prevotella bryantii B14 chromosome 1, complete sequence	RRE-containing	RiPPs		
+GCF_022024235.1_ASM2202423v1_genomic.fna_BGC_NZ_CP091799.1.region002	NZ_CP091799.1	NZ_CP091799.1 Prevotella bryantii B14 chromosome 1, complete sequence	arylpolyene	Others		
+GCF_022024235.1_ASM2202423v1_genomic.fna_BGC_NZ_CP091799.1.region003	NZ_CP091799.1	NZ_CP091799.1 Prevotella bryantii B14 chromosome 1, complete sequence	arylpolyene	Others		
+GCF_022024235.1_ASM2202423v1_genomic.fna_BGC_NZ_CP091800.1.region001	NZ_CP091800.1	NZ_CP091800.1 Prevotella bryantii B14 chromosome 2, complete sequence	ranthipeptide	RiPPs		
+GCF_022024235.1_ASM2202423v1_genomic.fna_BGC_NZ_CP091800.1.region002	NZ_CP091800.1	NZ_CP091800.1 Prevotella bryantii B14 chromosome 2, complete sequence	arylpolyene	Others		
+GCF_025151385.1_ASM2515138v1_genomic.fna_BGC_NZ_CP102287.1.region001	NZ_CP102287.1	NZ_CP102287.1 Prevotella buccalis ATCC 35310 chromosome, complete genome	RRE-containing	RiPPs		
+GCF_025151535.1_ASM2515153v1_genomic.fna_BGC_NZ_CP102288.1.region001	NZ_CP102288.1	NZ_CP102288.1 Prevotella copri DSM 18205 chromosome, complete genome	RRE-containing	RiPPs		
+GCF_900637655.1_52295_B01_genomic.fna_BGC_NZ_LR134384.1.region001	NZ_LR134384.1	NZ_LR134384.1 Prevotella oris strain NCTC13071 chromosome 1, complete sequence	arylpolyene	Others		
+GCF_900637655.1_52295_B01_genomic.fna_BGC_NZ_LR134384.1.region002	NZ_LR134384.1	NZ_LR134384.1 Prevotella oris strain NCTC13071 chromosome 1, complete sequence	RRE-containing	RiPPs		

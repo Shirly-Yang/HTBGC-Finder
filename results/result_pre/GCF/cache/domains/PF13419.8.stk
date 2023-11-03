@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+ERR1190811_bin.81.fa_BGC_c00001_NODE_4_...region001_ORF5:gid::pid::loc:6991:7735:strand:-:23:213           .VVFDMDGVILDSEQLVVKSWQKTADKYGIEDI-ESFC.MAALGLNR-EAAKKLFVQMYK-GrcdegqdtldeeryeslKVEMA-AEFHRAAAE....GELVLKPGVTDMLKMLRDNGIPCALATSTRKEVVTMELINLGVIDYFDKLVCGDMVDRSKPAPDIFLKACEELGVESESAWAVEDSYNGVRAAYAAGMKIAM
+#=GR ERR1190811_bin.81.fa_BGC_c00001_NODE_4_...region001_ORF5:gid::pid::loc:6991:7735:strand:-:23:213   PP .79*************************88554.4566.67778776.677777775433.23666888888885555333333.444444444....89*************************************************************************************************997
+ERR1190811_bin.81.fa_BGC_c00001_NODE_4_...region001_ORF10:gid::pid::loc:12170:12821:strand:-:5:187         .VVFDMDGVLVDTEKIYRKCWKENGMSIGIPEAQMENVcDRVAGGNKTSNARVFKEIMGE-Dfd............ylaFRQRTMDLFDEHVEK....YGIDIKPHVEDTLRFLKEHGVKMALATSTARTRAQQRLDSVGIAGYFDEKVCGDEITHGKPEPDIYLKACGKLGVNPDEAVAVEDSVNGIISASRAGLCTVM
+#=GR ERR1190811_bin.81.fa_BGC_c00001_NODE_4_...region001_ORF10:gid::pid::loc:12170:12821:strand:-:5:187 PP .79****************************88888871555555555555555555454.459............99999*************....**************************************************************************************************9998
+ERR1190811_bin.50.fa_BGC_c00004_NODE_47...region001_ORF5:gid::pid::loc:6200:6860:strand:-:8:188            .VIFDMDGVIFDSELLVIKCWQVVADKYGIKNI-EDTC.HKCLGLNKDATKELMLGVYGADF.................PYDEYKAEMSALFHEqaagGKLPMKPGVTGLLQTLKKNGRKVALASSTRKAVVEQELRDAGILPYFDRVICGDMVKRSKPEPDIYLEACRQIHVMPEQAYAIEDSYNGIRSAHAAGLHPIM
+#=GR ERR1190811_bin.50.fa_BGC_c00004_NODE_47...region001_ORF5:gid::pid::loc:6200:6860:strand:-:8:188    PP .7**************************99665.679*.********888888888778777.................666666666655555555699************************************************************************************************9988
+ERR1190811_bin.50.fa_BGC_c00004_NODE_47...region001_ORF12:gid::pid::loc:12183:12840:strand:-:6:188         v-AFDMDGVLIDSEKVYRMCWLKNGLSIGIPENEMSKI.CDRMAGGTKKTNAHVMKEKMGEDfd............ylaFRQRTVDMVEAYLNE....HGVELKHGVIETLKTLKARGIKMAVATSTDRERAEDKLIRSGLLPYFDDVICGDEIERGKPYPDIYLKACEKLGTKPEETVGVEDSINGVTASHDAGLYTLM
+#=GR ERR1190811_bin.50.fa_BGC_c00004_NODE_47...region001_ORF12:gid::pid::loc:12183:12840:strand:-:6:188 PP 5.6*****************999999999997777777.6666666666666666655544479............99999*************....***************************************************************************************************998
+#=GC PP_cons                                                                                               .78*************************9976686777.77777777666666666655564.................777778777777777....9*************************************************************************************************9998
+#=GC RF                                                                                                    .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxx.................xxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ERR1190811_bin.81.fa_BGC_c00001_NODE_4_...region001_ORF5:gid::pid::loc:6991:7735:strand:-:23:213           I
+#=GR ERR1190811_bin.81.fa_BGC_c00001_NODE_4_...region001_ORF5:gid::pid::loc:6991:7735:strand:-:23:213   PP 5
+ERR1190811_bin.81.fa_BGC_c00001_NODE_4_...region001_ORF10:gid::pid::loc:12170:12821:strand:-:5:187         V
+#=GR ERR1190811_bin.81.fa_BGC_c00001_NODE_4_...region001_ORF10:gid::pid::loc:12170:12821:strand:-:5:187 PP 7
+ERR1190811_bin.50.fa_BGC_c00004_NODE_47...region001_ORF5:gid::pid::loc:6200:6860:strand:-:8:188            V
+#=GR ERR1190811_bin.50.fa_BGC_c00004_NODE_47...region001_ORF5:gid::pid::loc:6200:6860:strand:-:8:188    PP 6
+ERR1190811_bin.50.fa_BGC_c00004_NODE_47...region001_ORF12:gid::pid::loc:12183:12840:strand:-:6:188         V
+#=GR ERR1190811_bin.50.fa_BGC_c00004_NODE_47...region001_ORF12:gid::pid::loc:12183:12840:strand:-:6:188 PP 7
+#=GC PP_cons                                                                                               6
+#=GC RF                                                                                                    x
+//

@@ -1,0 +1,23 @@
+#                                                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PqqD                 PF05402.14    67 ERR1190811_bin.56.fa_BGC_c00083_NODE_57...region001_ORF2:gid::pid::loc:165:435:strand:- -             89   1.2e-11   44.8   0.1   1   1   7.3e-16   1.4e-11   44.6   0.1     9    67    23    87    12    87 0.89 Coenzyme PQQ synthesis protein D (PqqD)
+DUF4097              PF13349.8    249 ERR1190811_bin.56.fa_BGC_c00083_NODE_57...region001_ORF4:gid::pid::loc:1163:2042:strand:- -            292   3.7e-18   65.8  12.4   1   1   3.4e-22   6.6e-18   65.0  12.2    40   246    99   284    58   290 0.81 Putative adhesin
+DapB_N               PF01113.22   124 ERR1190811_bin.56.fa_BGC_c00083_NODE_57...region001_ORF5:gid::pid::loc:2199:2568:strand:+ -            122     5e-19   68.7   0.3   1   1   5.6e-22   5.4e-18   65.4   0.3     1   124     1   102     1   102 0.96 Dihydrodipicolinate reductase, N-terminus
+DapB_C               PF05173.16   121 ERR1190811_bin.56.fa_BGC_c00083_NODE_57...region001_ORF6:gid::pid::loc:2624:2906:strand:+ -             93   4.2e-19   68.8   0.0   1   1   2.2e-23   4.2e-19   68.8   0.0    49   120    18    89     1    90 0.87 Dihydrodipicolinate reductase, C-terminus
+Coat_F               PF07875.14    63 ERR1190811_bin.56.fa_BGC_c00083_NODE_57...region001_ORF8:gid::pid::loc:3172:3415:strand:+ -             80   1.2e-13   51.1   0.0   1   1   7.6e-18   1.5e-13   50.8   0.0     1    62     2    63     2    64 0.98 Coat F domain
+Rce1-like            PF02517.18    92 ERR1190811_bin.56.fa_BGC_c00083_NODE_57...region001_ORF9:gid::pid::loc:3469:4408:strand:- -            312   6.8e-15   55.3   6.2   1   1   3.6e-19   6.8e-15   55.3   6.2     5    91   113   213   109   214 0.92 Type II CAAX prenyl endopeptidase Rce1-like
+Elong-fact-P_C       PF09285.13    56 ERR1190811_bin.56.fa_BGC_c00083_NODE_57...region001_ORF12:gid::pid::loc:6336:6903:strand:- -            188     3e-27   94.2   0.1   1   1   9.9e-31   6.3e-27   93.2   0.1     1    56   129   184   129   184 0.99 Elongation factor P, C-terminal
+EFP_N                PF08207.14    58 ERR1190811_bin.56.fa_BGC_c00083_NODE_57...region001_ORF12:gid::pid::loc:6336:6903:strand:- -            188   5.5e-27   93.6   1.1   1   1   1.8e-30   1.2e-26   92.6   0.5     2    58     4    60     3    60 0.98 Elongation factor P (EF-P) KOW-like domain
+EFP                  PF01132.22    54 ERR1190811_bin.56.fa_BGC_c00083_NODE_57...region001_ORF12:gid::pid::loc:6336:6903:strand:- -            188   2.3e-21   75.6   3.7   1   1   6.1e-25   3.9e-21   74.9   3.7     1    53    68   120    68   121 0.98 Elongation factor P (EF-P) OB domain
+Peptidase_M24        PF00557.26   209 ERR1190811_bin.56.fa_BGC_c00083_NODE_57...region001_ORF13:gid::pid::loc:7023:7503:strand:- -            159   2.5e-44  151.6   0.3   1   1   1.5e-48   2.8e-44  151.5   0.3    62   209     2   143     1   143 0.96 Metallopeptidase family M24
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut/Sample/SAMEA3708737/results/GCF/cache/fasta/ERR1190811_bin.56.fa_BGC_c00083_NODE_57...region001.fasta
+# Target file:     /mnt/nfs/5110v5/Server_27_backup/yangxiao_new/miniconda2/envs/bigscape/lib/python3.7/site-packages/antismash/databases/pfam/34.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut/Sample/SAMEA3708737/results/GCF/cache/domtable/ERR1190811_bin.56.fa_BGC_c00083_NODE_57...region001.domtable --cut_tc --cpu 0 /mnt/nfs/5110v5/Server_27_backup/yangxiao_new/miniconda2/envs/bigscape/lib/python3.7/site-packages/antismash/databases/pfam/34.0/Pfam-A.hmm /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut/Sample/SAMEA3708737/results/GCF/cache/fasta/ERR1190811_bin.56.fa_BGC_c00083_NODE_57...region001.fasta 
+# Current dir:     /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut
+# Date:            Sun Jun 18 02:49:17 2023
+# [ok]

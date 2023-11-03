@@ -1,0 +1,204 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="765.0" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="755.0" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg44_1)</title>
+			<polygon class=" (ctg44_1)" points="16,25 24,25 24,10 54,40 24,70 24,55 16,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg44_2)</title>
+			<polygon class=" (ctg44_2)" points="54,10 63,40 54,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg44_3)</title>
+			<polygon class=" (ctg44_3)" points="64,10 82,40 64,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg44_4)</title>
+			<polygon class=" (ctg44_4)" points="87,40 91,10 91,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg44_5)</title>
+			<polygon class=" (ctg44_5)" points="158,25 135,25 135,10 105,40 135,70 135,55 158,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="109,40 121,28 124,28 124,52 121,52 109,40" stroke-linejoin="round" width="15" height="24" fill="rgb(63,205,104)" stroke="rgb(50,164,83)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="129" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(125,63,227)" stroke="rgb(99,50,181)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg44_6)</title>
+			<polygon class=" (ctg44_6)" points="201,25 189,25 189,10 159,40 189,70 189,55 201,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg44_7)</title>
+			<polygon class=" (ctg44_7)" points="238,25 232,25 232,10 202,40 232,70 232,55 238,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg44_8)</title>
+			<polygon class=" (ctg44_8)" points="238,40 261,10 261,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="246,35 251,28 259,28 259,52 251,52 246,45" stroke-linejoin="round" width="13" height="24" fill="rgb(63,205,104)" stroke="rgb(50,164,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg44_9)</title>
+			<polygon class=" (ctg44_9)" points="265,40 271,10 271,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg44_10)</title>
+			<polygon class=" (ctg44_10)" points="317,25 303,25 303,10 273,40 303,70 303,55 317,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<polygon class="PF04055" points="287,30 289,28 307,28 307,52 289,52 287,50" stroke-linejoin="round" width="20" height="24" fill="rgb(184,71,96)" stroke="rgb(147,56,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg44_11)</title>
+			<polygon class=" (ctg44_11)" points="356,25 350,25 350,10 320,40 350,70 350,55 356,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg44_12)</title>
+			<polygon class=" (ctg44_12)" points="357,40 380,10 380,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LytTR (PF04397)
+"LytTr DNA-binding domain"</title>
+				<polygon class="PF04397" points="361,40 366,34 366,46" stroke-linejoin="round" width="9" height="24" fill="rgb(154,92,215)" stroke="rgb(123,73,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="368,31 370,28 379,28 379,52 370,52 368,49" stroke-linejoin="round" width="11" height="24" fill="rgb(209,129,92)" stroke="rgb(167,103,73)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg44_13)</title>
+			<polygon class=" (ctg44_13)" points="394,40 414,10 414,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ICMT (PF04140)
+"Isoprenylcysteine carboxyl methyltransferase (ICMT) family"</title>
+				<polygon class="PF04140" points="398,40 405,30 405,50" stroke-linejoin="round" width="9" height="24" fill="rgb(217,126,87)" stroke="rgb(173,100,69)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg44_14)</title>
+			<polygon class=" (ctg44_14)" points="414,40 428,10 428,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg44_15)</title>
+			<polygon class=" (ctg44_15)" points="428,40 443,10 443,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LytTR (PF04397)
+"LytTr DNA-binding domain"</title>
+				<polygon class="PF04397" points="431,40 437,28 437,28 437,52 437,52" stroke-linejoin="round" width="9" height="24" fill="rgb(154,92,215)" stroke="rgb(123,73,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg44_16)</title>
+			<polygon class=" (ctg44_16)" points="447,40 454,10 454,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg44_17)</title>
+			<polygon class=" (ctg44_17)" points="507,25 501,25 501,10 471,40 501,70 501,55 507,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<polygon class="PF04055" points="487,28 487,28 502,28 502,52 487,52 487,52" stroke-linejoin="round" width="15" height="24" fill="rgb(184,71,96)" stroke="rgb(147,56,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg44_18)</title>
+			<polygon class=" (ctg44_18)" points="508,40 534,10 534,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC2_membrane_6 (PF06182)
+"ABC-2 family transporter protein"</title>
+				<polygon class="PF06182" points="512,40 523,28 531,28 531,52 523,52" stroke-linejoin="round" width="23" height="24" fill="rgb(125,210,87)" stroke="rgb(100,168,69)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg44_19)</title>
+			<polygon class=" (ctg44_19)" points="535,40 561,10 561,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC2_membrane_6 (PF06182)
+"ABC-2 family transporter protein"</title>
+				<polygon class="PF06182" points="539,40 549,28 557,28 557,52 549,52" stroke-linejoin="round" width="22" height="24" fill="rgb(125,210,87)" stroke="rgb(100,168,69)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg44_20)</title>
+			<polygon class=" (ctg44_20)" points="591,25 591,25 591,10 561,40 591,70 591,55 591,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="575,30 577,28 589,28 589,52 577,52 575,50" stroke-linejoin="round" width="14" height="24" fill="rgb(63,205,104)" stroke="rgb(50,164,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg44_21)</title>
+			<polygon class=" (ctg44_21)" points="594,40 616,10 616,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PIG-L (PF02585)
+"GlcNAc-PI de-N-acetylase"</title>
+				<polygon class="PF02585" points="605,31 607,28 616,28 616,52 607,52 605,49" stroke-linejoin="round" width="11" height="24" fill="rgb(90,227,119)" stroke="rgb(72,181,95)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg44_22)</title>
+			<polygon class=" (ctg44_22)" points="655,25 647,25 647,10 617,40 647,70 647,55 655,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_1 (PF00534)
+"Glycosyl transferases group 1"</title>
+				<polygon class="PF00534" points="621,40 633,28 636,28 636,52 633,52" stroke-linejoin="round" width="17" height="24" fill="rgb(213,65,70)" stroke="rgb(170,52,56)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glyco_transf_4 (PF13439)
+"Glycosyltransferase Family 4"</title>
+				<rect class="PF13439" x="636" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(220,99,98)" stroke="rgb(176,79,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg44_23)</title>
+			<polygon class=" (ctg44_23)" points="664,40 673,10 673,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PqqD (PF05402)
+"Coenzyme PQQ synthesis protein D (PqqD)"</title>
+				<polygon class="PF05402" points="667,40 671,28 671,28 671,52 671,52" stroke-linejoin="round" width="7" height="24" fill="rgb(218,64,155)" stroke="rgb(174,51,124)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg44_24)</title>
+			<polygon class=" (ctg44_24)" points="708,25 704,25 704,10 674,40 704,70 704,55 708,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Queuosine_synth (PF02547)
+"Queuosine biosynthesis protein"</title>
+				<polygon class="PF02547" points="678,40 690,28 707,28 707,52 690,52" stroke-linejoin="round" width="33" height="24" fill="rgb(72,202,196)" stroke="rgb(57,161,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg44_25)</title>
+			<polygon class=" (ctg44_25)" points="748,25 738,25 738,10 708,40 738,70 738,55 748,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PmbA_TldD_C (PF19289)
+"PmbA/TldA metallopeptidase C-terminal domain"</title>
+				<polygon class="PF19289" points="712,40 724,28 731,28 731,52 724,52" stroke-linejoin="round" width="23" height="24" fill="rgb(146,106,228)" stroke="rgb(116,84,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg44_26)</title>
+			<polygon class=" (ctg44_26)" points="749,40 754,10 754,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>S-AdoMet_synt_C (PF02773)
+"S-adenosylmethionine synthetase, C-terminal domain"</title>
+				<polygon class="PF02773" points="752,40 754,28 754,28 754,52 754,52" stroke-linejoin="round" width="5" height="24" fill="rgb(177,195,93)" stroke="rgb(141,156,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

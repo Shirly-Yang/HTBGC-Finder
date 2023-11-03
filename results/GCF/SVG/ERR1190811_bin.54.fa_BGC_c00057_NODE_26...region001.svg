@@ -1,0 +1,134 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="522.4333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="512.4333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg57_1)</title>
+			<polygon class=" (ctg57_1)" points="10,40 19,10 19,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_trans_CmpB (PF06541)
+"Putative ABC-transporter type IV"</title>
+				<polygon class="PF06541" points="13,40 17,28 18,28 18,52 17,52" stroke-linejoin="round" width="8" height="24" fill="rgb(92,99,216)" stroke="rgb(73,79,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg57_2)</title>
+			<polygon class=" (ctg57_2)" points="20,40 30,10 30,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LytTR (PF04397)
+"LytTr DNA-binding domain"</title>
+				<polygon class="PF04397" points="23,40 27,28 29,28 29,52 27,52" stroke-linejoin="round" width="9" height="24" fill="rgb(154,92,215)" stroke="rgb(123,73,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg57_3)</title>
+			<polygon class=" (ctg57_3)" points="108,25 66,25 66,10 36,40 66,70 66,55 108,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amidohydro_1 (PF01979)
+"Amidohydrolase family"</title>
+				<polygon class="PF01979" points="40,40 52,28 72,28 72,52 52,52" stroke-linejoin="round" width="36" height="24" fill="rgb(192,197,90)" stroke="rgb(153,157,72)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DZR (PF12773)
+"Double zinc ribbon"</title>
+				<rect class="PF12773" x="81" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(192,82,67)" stroke="rgb(153,65,53)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF6382 (PF19909)
+"Domain of unknown function (DUF6382)"</title>
+				<rect class="PF19909" x="92" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(155,60,205)" stroke="rgb(123,48,164)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg57_4)</title>
+			<polygon class=" (ctg57_4)" points="142,25 141,25 141,10 111,40 141,70 141,55 142,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF3878 (PF12994)
+"Domain of unknown function, E. rectale Gene description (DUF3878)"</title>
+				<polygon class="PF12994" points="115,40 127,28 141,28 141,52 127,52" stroke-linejoin="round" width="28" height="24" fill="rgb(224,88,182)" stroke="rgb(179,70,145)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg57_5)</title>
+			<polygon class=" (ctg57_5)" points="144,40 172,10 172,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4130 (PF13566)
+"Domain of unknown function (DUF4130"</title>
+				<polygon class="PF13566" points="148,40 159,28 160,28 160,52 159,52" stroke-linejoin="round" width="16" height="24" fill="rgb(98,198,227)" stroke="rgb(78,158,181)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg57_6)</title>
+			<polygon class=" (ctg57_6)" points="218,25 200,25 200,10 170,40 200,70 200,55 218,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg57_7)</title>
+			<polygon class=" (ctg57_7)" points="222,40 233,10 233,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_3 (PF01381)
+"Helix-turn-helix"</title>
+				<polygon class="PF01381" points="226,37 229,28 231,28 231,52 229,52 226,43" stroke-linejoin="round" width="5" height="24" fill="rgb(219,185,98)" stroke="rgb(175,148,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg57_8)</title>
+			<polygon class=" (ctg57_8)" points="233,40 256,10 256,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_19 (PF12844)
+"Helix-turn-helix domain"</title>
+				<polygon class="PF12844" points="237,40 242,34 242,46" stroke-linejoin="round" width="6" height="24" fill="rgb(200,226,103)" stroke="rgb(160,180,82)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg57_9)</title>
+			<polygon class=" (ctg57_9)" points="267,10 272,40 267,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg57_10)</title>
+			<polygon class=" (ctg57_10)" points="272,10 291,40 272,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AgrB (PF04647)
+"Accessory gene regulator B"</title>
+				<polygon class="PF04647" points="272,28 280,28 287,40 280,52 272,52" stroke-linejoin="round" width="17" height="24" fill="rgb(67,227,212)" stroke="rgb(53,181,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg57_11)</title>
+			<polygon class=" (ctg57_11)" points="335,25 322,25 322,10 292,40 322,70 322,55 335,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HATPase_c_5 (PF14501)
+"GHKL domain"</title>
+				<polygon class="PF14501" points="296,40 302,34 302,46" stroke-linejoin="round" width="10" height="24" fill="rgb(187,81,89)" stroke="rgb(149,64,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg57_12)</title>
+			<polygon class=" (ctg57_12)" points="336,40 359,10 359,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LytTR (PF04397)
+"LytTr DNA-binding domain"</title>
+				<polygon class="PF04397" points="340,40 345,34 345,46" stroke-linejoin="round" width="9" height="24" fill="rgb(154,92,215)" stroke="rgb(123,73,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="348,30 349,28 359,28 359,52 349,52 348,50" stroke-linejoin="round" width="11" height="24" fill="rgb(209,129,92)" stroke="rgb(167,103,73)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg57_13)</title>
+			<polygon class=" (ctg57_13)" points="426,25 391,25 391,10 361,40 391,70 391,55 426,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg57_14)</title>
+			<polygon class=" (ctg57_14)" points="468,25 457,25 457,10 427,40 457,70 457,55 468,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg57_15)</title>
+			<polygon class=" (ctg57_15)" points="469,40 492,10 492,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg57_16)</title>
+			<polygon class=" (ctg57_16)" points="503,40 511,10 511,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

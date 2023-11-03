@@ -1,0 +1,31 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="90.73333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="80.73333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg295_1)</title>
+			<polygon class=" (ctg295_1)" points="10,10 24,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg295_2)</title>
+			<polygon class=" (ctg295_2)" points="28,10 52,40 28,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg295_3)</title>
+			<polygon class=" (ctg295_3)" points="54,10 62,40 54,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PqqD (PF05402)
+"Coenzyme PQQ synthesis protein D (PqqD)"</title>
+				<polygon class="PF05402" points="55,28 55,28 59,40 55,52 55,52" stroke-linejoin="round" width="7" height="24" fill="rgb(218,64,155)" stroke="rgb(174,51,124)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg295_4)</title>
+			<polygon class=" (ctg295_4)" points="67,10 80,40 67,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Carboxyl_trans (PF01039)
+"Carboxyl transferase domain"</title>
+				<polygon class="PF01039" points="67,28 71,28 77,40 71,52 67,52" stroke-linejoin="round" width="13" height="24" fill="rgb(160,68,216)" stroke="rgb(128,54,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

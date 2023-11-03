@@ -1,0 +1,101 @@
+ 11.11	4	4	U	0	unclassified
+ 88.89	32	0	R	1	root
+ 88.89	32	0	R1	131567	  cellular organisms
+ 80.56	29	0	D	2	    Bacteria
+ 66.67	24	3	D1	1783272	      Terrabacteria group
+ 55.56	20	3	P	1239	        Firmicutes
+ 47.22	17	0	C	186801	          Clostridia
+ 44.44	16	4	O	186802	            Clostridiales
+ 27.78	10	0	F	186803	              Lachnospiraceae
+ 11.11	4	0	G	830	                Butyrivibrio
+  5.56	2	2	S	831	                  Butyrivibrio fibrisolvens
+  5.56	2	0	S	43305	                  Butyrivibrio proteoclasticus
+  5.56	2	2	S1	515622	                    Butyrivibrio proteoclasticus B316
+  5.56	2	0	G	2569097	                Anaerobutyricum
+  5.56	2	2	S	39488	                  Anaerobutyricum hallii
+  2.78	1	0	G	841	                Roseburia
+  2.78	1	1	S	301301	                  Roseburia hominis
+  2.78	1	0	G	28050	                Lachnospira
+  2.78	1	0	S	39485	                  Lachnospira eligens
+  2.78	1	1	S1	515620	                    [Eubacterium] eligens ATCC 27750
+  2.78	1	0	G	1506553	                Lachnoclostridium
+  2.78	1	1	S	1871021	                  Lachnoclostridium phocaeense
+  2.78	1	1	G	2719231	                Lacrimispora
+  2.78	1	0	F	186804	              Peptostreptococcaceae
+  2.78	1	0	G	1870884	                Clostridioides
+  2.78	1	0	S	1496	                  Clostridioides difficile
+  2.78	1	1	S1	699033	                    Clostridioides difficile 2007855
+  2.78	1	0	F	186807	              Peptococcaceae
+  2.78	1	0	G	79206	                Desulfosporosinus
+  2.78	1	0	S	79209	                  Desulfosporosinus meridiei
+  2.78	1	1	S1	768704	                    Desulfosporosinus meridiei DSM 13257
+  2.78	1	0	O	68295	            Thermoanaerobacterales
+  2.78	1	0	F	543371	              Thermoanaerobacterales Family III. Incertae Sedis
+  2.78	1	1	G	44000	                Caldicellulosiruptor
+  2.78	1	0	P	544448	        Tenericutes
+  2.78	1	0	C	31969	          Mollicutes
+  2.78	1	0	O	186328	            Entomoplasmatales
+  2.78	1	0	F	2131	              Spiroplasmataceae
+  2.78	1	0	G	2132	                Spiroplasma
+  2.78	1	1	S	216934	                  Spiroplasma corruscae
+ 11.11	4	0	P	1224	      Proteobacteria
+  8.33	3	0	C	28211	        Alphaproteobacteria
+  2.78	1	0	O	766	          Rickettsiales
+  2.78	1	0	F	942	            Anaplasmataceae
+  2.78	1	0	G	943	              Ehrlichia
+  2.78	1	0	G1	106178	                canis group
+  2.78	1	0	S	944	                  Ehrlichia canis
+  2.78	1	1	S1	269484	                    Ehrlichia canis str. Jake
+  2.78	1	0	O	204455	          Rhodobacterales
+  2.78	1	0	F	31989	            Rhodobacteraceae
+  2.78	1	0	G	191028	              Leisingera
+  2.78	1	0	S	133924	                Leisingera methylohalidivorans
+  2.78	1	1	S1	999552	                  Leisingera methylohalidivorans DSM 14336
+  2.78	1	0	O	204457	          Sphingomonadales
+  2.78	1	0	F	41297	            Sphingomonadaceae
+  2.78	1	0	G	13687	              Sphingomonas
+  2.78	1	0	G1	196159	                unclassified Sphingomonas
+  2.78	1	1	S	2492837	                  Sphingomonas sp. C8-2
+  2.78	1	0	C	1236	        Gammaproteobacteria
+  2.78	1	0	O	135625	          Pasteurellales
+  2.78	1	0	F	712	            Pasteurellaceae
+  2.78	1	0	G	713	              Actinobacillus
+  2.78	1	1	S	51049	                Actinobacillus indolicus
+  2.78	1	0	D1	1783270	      FCB group
+  2.78	1	0	D2	68336	        Bacteroidetes/Chlorobi group
+  2.78	1	0	P	976	          Bacteroidetes
+  2.78	1	0	C	117747	            Sphingobacteriia
+  2.78	1	0	O	200666	              Sphingobacteriales
+  2.78	1	0	F	84566	                Sphingobacteriaceae
+  2.78	1	0	G	84567	                  Pedobacter
+  2.78	1	1	S	363852	                    Pedobacter ginsengisoli
+  8.33	3	0	D	2759	    Eukaryota
+  8.33	3	0	K	33090	      Viridiplantae
+  8.33	3	0	P	35493	        Streptophyta
+  8.33	3	0	P1	131221	          Streptophytina
+  8.33	3	0	P2	3193	            Embryophyta
+  8.33	3	0	P3	58023	              Tracheophyta
+  8.33	3	0	P4	78536	                Euphyllophyta
+  8.33	3	0	P5	58024	                  Spermatophyta
+  8.33	3	0	C	3398	                    Magnoliopsida
+  8.33	3	0	C1	1437183	                      Mesangiospermae
+  8.33	3	0	C2	71240	                        eudicotyledons
+  8.33	3	0	C3	91827	                          Gunneridae
+  8.33	3	0	C4	1437201	                            Pentapetalae
+  8.33	3	0	C5	71275	                              rosids
+  8.33	3	0	C6	91835	                                fabids
+  5.56	2	0	O	3744	                                  Rosales
+  2.78	1	0	F	3608	                                    Rhamnaceae
+  2.78	1	0	F1	325284	                                      Paliureae
+  2.78	1	0	G	72171	                                        Ziziphus
+  2.78	1	1	S	326968	                                          Ziziphus jujuba
+  2.78	1	0	F	3745	                                    Rosaceae
+  2.78	1	0	F1	171637	                                      Amygdaloideae
+  2.78	1	0	F2	721813	                                        Maleae
+  2.78	1	0	G	3749	                                          Malus
+  2.78	1	1	S	3750	                                            Malus domestica
+  2.78	1	0	O	3646	                                  Malpighiales
+  2.78	1	0	F	3688	                                    Salicaceae
+  2.78	1	0	F1	238069	                                      Saliceae
+  2.78	1	0	G	3689	                                        Populus
+  2.78	1	1	S	3694	                                          Populus trichocarpa

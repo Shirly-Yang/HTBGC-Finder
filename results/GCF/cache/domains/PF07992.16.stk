@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+ERR1190811_bin.57.fa_BGC_c00013_NODE_11...region001_ORF21:gid::pid::loc:13848:14721:strand:+:3:147         YDIAIIGTGPAGISAAITAKLRNKNIILF--GNKDLSDKINKAHSIKNYTGLPNVTGeelatalkNHLN----DLDIEITEKrVNAVYSMGEYFAL---Q-VGKEMIESKSLIIATGVTASKT-LENEDEFLGRGVSYCATCDAHFCKGKD-------------------------------------------------
+#=GR ERR1190811_bin.57.fa_BGC_c00013_NODE_11...region001_ORF21:gid::pid::loc:13848:14721:strand:+:3:147 PP 69***************************..45556777777777777777777666655654444433....33333333314444433335555...2.5568************999887.898889**********99987666555.................................................
+ERR1190811_bin.73.fa_BGC_c00043_NODE_15...region001_ORF8:gid::pid::loc:9683:11615:strand:+:389:626         KKVVILGGGIAGMEAALDLKETGNTPILF-EKSESLGGQFLLAGAISAKKDFKNAVD........K----------MILDVQ.ESGIEVHLNTVVTK----EMLEEIKPDALIVAIGSSPFVLPIEGS-EKAIV----AHDVLSEKVEVTG-ENVVIIGGGLVGFETAEFLAARQKKVTVLEMKEKALQDLGPLRQITAQ
+#=GR ERR1190811_bin.73.fa_BGC_c00043_NODE_15...region001_ORF8:gid::pid::loc:9683:11615:strand:+:389:626 PP 58***************************.99999*******999999999998444........3..........333333.33443333345553....34569**********************.66643....3455555555565.9***************************************99999999
+#=GC PP_cons                                                                                               69***************************.977778888888888888888887555........3433....333333333.44443333355553..2.44679************99998*9999888876****6777766655555.9***************************************99999999
+#=GC RF                                                                                                    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx........xxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ERR1190811_bin.57.fa_BGC_c00013_NODE_11...region001_ORF21:gid::pid::loc:13848:14721:strand:+:3:147         --------------------------------------------------------------------------------------------------------vavia......
+#=GR ERR1190811_bin.57.fa_BGC_c00013_NODE_11...region001_ORF21:gid::pid::loc:13848:14721:strand:+:3:147 PP ........................................................................................................5566*......
+ERR1190811_bin.73.fa_BGC_c00043_NODE_15...region001_ORF8:gid::pid::loc:9683:11615:strand:+:389:626         FAMAQMPITIETSATVERIEDHA-----VVASGKEYPYDSVIMAVGSKANDTSIYTDLGIPT------------------------------------------yiigdckkagi
+#=GR ERR1190811_bin.73.fa_BGC_c00043_NODE_15...region001_ORF8:gid::pid::loc:9683:11615:strand:+:389:626 PP 9******************9655.....5789999***************987657777765..........................................7888999****
+#=GC PP_cons                                                                                               9******************9655.....5789999***************987657777765.....................................................
+#=GC RF                                                                                                    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...........
+//

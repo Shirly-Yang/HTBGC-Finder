@@ -1,0 +1,84 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="299.76666666666665" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="289.76666666666665" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg87_1)</title>
+			<polygon class=" (ctg87_1)" points="10,10 38,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HATPase_c_5 (PF14501)
+"GHKL domain"</title>
+				<polygon class="PF14501" points="27,33 34,40 27,47" stroke-linejoin="round" width="10" height="24" fill="rgb(187,81,89)" stroke="rgb(149,64,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg87_2)</title>
+			<polygon class=" (ctg87_2)" points="41,10 46,40 41,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg87_3)</title>
+			<polygon class=" (ctg87_3)" points="47,10 66,40 47,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AgrB (PF04647)
+"Accessory gene regulator B"</title>
+				<polygon class="PF04647" points="47,28 55,28 63,40 55,52 47,52" stroke-linejoin="round" width="18" height="24" fill="rgb(67,227,212)" stroke="rgb(53,181,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg87_4)</title>
+			<polygon class=" (ctg87_4)" points="77,10 95,40 77,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_4 (PF13420)
+"Acetyltransferase (GNAT) domain"</title>
+				<polygon class="PF13420" points="77,28 84,28 91,40 84,52 77,52" stroke-linejoin="round" width="16" height="24" fill="rgb(88,187,201)" stroke="rgb(70,149,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg87_5)</title>
+			<polygon class=" (ctg87_5)" points="98,25 98,25 98,10 128,40 98,70 98,55 98,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg87_6)</title>
+			<polygon class=" (ctg87_6)" points="147,25 160,25 160,10 190,40 160,70 160,55 147,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cys_Met_Meta_PP (PF01053)
+"Cys/Met metabolism PLP-dependent enzyme"</title>
+				<polygon class="PF01053" points="147,28 173,28 185,40 173,52 147,52" stroke-linejoin="round" width="41" height="24" fill="rgb(62,188,140)" stroke="rgb(49,150,112)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg87_7)</title>
+			<polygon class=" (ctg87_7)" points="191,25 192,25 192,10 222,40 192,70 192,55 191,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PALP (PF00291)
+"Pyridoxal-phosphate dependent enzyme"</title>
+				<polygon class="PF00291" points="191,28 205,28 217,40 205,52 191,52" stroke-linejoin="round" width="28" height="24" fill="rgb(143,84,184)" stroke="rgb(114,67,147)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg87_8)</title>
+			<polygon class=" (ctg87_8)" points="223,10 231,40 223,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg87_9)</title>
+			<polygon class=" (ctg87_9)" points="233,10 258,40 233,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ThrE (PF06738)
+"Putative threonine/serine exporter"</title>
+				<polygon class="PF06738" points="233,28 244,28 254,40 244,52 233,52" stroke-linejoin="round" width="23" height="24" fill="rgb(194,74,188)" stroke="rgb(155,59,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg87_10)</title>
+			<polygon class=" (ctg87_10)" points="258,10 272,40 258,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ThrE_2 (PF12821)
+"Threonine/Serine exporter, ThrE"</title>
+				<polygon class="PF12821" points="258,28 263,28 268,40 263,52 258,52" stroke-linejoin="round" width="12" height="24" fill="rgb(99,216,135)" stroke="rgb(79,172,108)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg87_11)</title>
+			<polygon class=" (ctg87_11)" points="279,10 289,40 279,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

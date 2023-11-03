@@ -1,0 +1,153 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="828.1333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="818.1333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg8_4)</title>
+			<polygon class=" (ctg8_4)" points="44,10 49,40 44,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg8_5)</title>
+			<polygon class=" (ctg8_5)" points="50,25 58,25 58,10 88,40 58,70 58,55 50,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF6047 (PF19513)
+"Family of unknown function (DUF6047)"</title>
+				<polygon class="PF19513" points="64,28 71,28 82,39 82,41 71,52 64,52" stroke-linejoin="round" width="18" height="24" fill="rgb(80,196,160)" stroke="rgb(64,156,128)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_6)</title>
+			<polygon class=" (ctg8_6)" points="88,10 109,40 88,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Transposon_TraM (PF12508)
+"Conjugative transposon, TraM"</title>
+				<polygon class="PF12508" points="98,30 105,40 98,50" stroke-linejoin="round" width="8" height="24" fill="rgb(114,75,200)" stroke="rgb(91,60,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_7)</title>
+			<polygon class=" (ctg8_7)" points="109,10 134,40 109,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>N6_N4_Mtase (PF01555)
+"DNA methylase"</title>
+				<polygon class="PF01555" points="111,28 120,28 130,40 120,52 111,52" stroke-linejoin="round" width="22" height="24" fill="rgb(160,199,95)" stroke="rgb(128,159,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_8)</title>
+			<polygon class=" (ctg8_8)" points="135,10 151,40 135,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4138 (PF13595)
+"Domain of unknown function (DUF4138)"</title>
+				<polygon class="PF13595" points="142,30 147,40 142,50" stroke-linejoin="round" width="8" height="24" fill="rgb(222,86,81)" stroke="rgb(177,68,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_9)</title>
+			<polygon class=" (ctg8_9)" points="151,25 160,25 160,10 190,40 160,70 160,55 151,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF6047 (PF19513)
+"Family of unknown function (DUF6047)"</title>
+				<polygon class="PF19513" points="165,28 174,28 184,38 184,42 174,52 165,52" stroke-linejoin="round" width="19" height="24" fill="rgb(80,196,160)" stroke="rgb(64,156,128)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_10)</title>
+			<polygon class=" (ctg8_10)" points="191,25 199,25 199,10 229,40 199,70 199,55 191,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF6047 (PF19513)
+"Family of unknown function (DUF6047)"</title>
+				<polygon class="PF19513" points="206,28 212,28 224,40 212,52 206,52" stroke-linejoin="round" width="19" height="24" fill="rgb(80,196,160)" stroke="rgb(64,156,128)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_11)</title>
+			<polygon class=" (ctg8_11)" points="320,25 264,25 264,10 234,40 264,70 264,55 320,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg8_12)</title>
+			<polygon class=" (ctg8_12)" points="343,25 385,25 385,10 415,40 385,70 385,55 343,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lant_dehydr_N (PF04738)
+"Lantibiotic dehydratase, N terminus"</title>
+				<polygon class="PF04738" points="345,28 398,28 408,38 408,42 398,52 345,52" stroke-linejoin="round" width="63" height="24" fill="rgb(189,69,156)" stroke="rgb(151,55,124)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_13)</title>
+			<polygon class=" (ctg8_13)" points="414,10 443,40 414,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lant_dehydr_C (PF14028)
+"Lantibiotic biosynthesis dehydratase C-term"</title>
+				<polygon class="PF14028" points="415,28 427,28 439,40 427,52 415,52" stroke-linejoin="round" width="27" height="24" fill="rgb(198,169,54)" stroke="rgb(158,135,43)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_14)</title>
+			<polygon class=" (ctg8_14)" points="445,25 454,25 454,10 484,40 454,70 454,55 445,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LANC_like (PF05147)
+"Lanthionine synthetase C-like protein"</title>
+				<polygon class="PF05147" points="447,28 468,28 480,40 468,52 447,52" stroke-linejoin="round" width="36" height="24" fill="rgb(190,191,84)" stroke="rgb(152,152,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_15)</title>
+			<polygon class=" (ctg8_15)" points="500,10 527,40 500,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Erythro_esteras (PF05139)
+"Erythromycin esterase"</title>
+				<polygon class="PF05139" points="509,28 512,28 520,37 520,43 512,52 509,52" stroke-linejoin="round" width="11" height="24" fill="rgb(98,228,93)" stroke="rgb(78,182,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_16)</title>
+			<polygon class=" (ctg8_16)" points="540,10 544,40 540,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg8_17)</title>
+			<polygon class=" (ctg8_17)" points="557,25 601,25 601,10 631,40 601,70 601,55 557,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_C39 (PF03412)
+"Peptidase C39 family"</title>
+				<rect class="PF03412" x="557" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(74,164,188)" stroke="rgb(59,131,150)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="575" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(125,63,227)" stroke="rgb(99,50,181)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="608,28 615,28 622,35 622,45 615,52 608,52" stroke-linejoin="round" width="14" height="24" fill="rgb(63,205,104)" stroke="rgb(50,164,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_18)</title>
+			<polygon class=" (ctg8_18)" points="654,25 670,25 670,10 700,40 670,70 670,55 654,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4932 (PF16286)
+"Domain of unknown function (DUF4932)"</title>
+				<polygon class="PF16286" points="656,28 684,28 687,31 687,49 684,52 656,52" stroke-linejoin="round" width="31" height="24" fill="rgb(61,209,143)" stroke="rgb(48,167,114)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_19)</title>
+			<polygon class=" (ctg8_19)" points="700,25 714,25 714,10 744,40 714,70 714,55 700,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<rect class="PF04055" x="709" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(184,71,96)" stroke="rgb(147,56,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_20)</title>
+			<polygon class=" (ctg8_20)" points="746,25 759,25 759,10 789,40 759,70 759,55 746,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HlyD_3 (PF13437)
+"HlyD family secretion protein"</title>
+				<polygon class="PF13437" points="774,29 785,40 785,40 774,51" stroke-linejoin="round" width="11" height="24" fill="rgb(134,90,210)" stroke="rgb(107,72,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

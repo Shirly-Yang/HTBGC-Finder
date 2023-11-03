@@ -1,0 +1,189 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="699.7666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="689.7666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg1_653)</title>
+			<polygon class=" (ctg1_653)" points="55,10 79,40 55,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<polygon class="PF00535" points="55,28 66,28 71,34 71,46 66,52 55,52" stroke-linejoin="round" width="16" height="24" fill="rgb(212,83,152)" stroke="rgb(169,66,121)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_654)</title>
+			<polygon class=" (ctg1_654)" points="83,25 97,25 97,10 127,40 97,70 97,55 83,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SUFU (PF05076)
+"Suppressor of fused protein (SUFU)"</title>
+				<polygon class="PF05076" points="104,28 110,28 122,40 122,40 110,52 104,52" stroke-linejoin="round" width="18" height="24" fill="rgb(75,209,132)" stroke="rgb(60,167,105)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_655)</title>
+			<polygon class=" (ctg1_655)" points="140,10 168,40 140,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_656)</title>
+			<polygon class=" (ctg1_656)" points="172,10 180,40 172,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_657)</title>
+			<polygon class=" (ctg1_657)" points="182,25 210,25 210,10 240,40 210,70 210,55 182,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="183" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(125,63,227)" stroke="rgb(99,50,181)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="217,28 224,28 231,35 231,45 224,52 217,52" stroke-linejoin="round" width="14" height="24" fill="rgb(63,205,104)" stroke="rgb(50,164,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_658)</title>
+			<polygon class=" (ctg1_658)" points="241,25 268,25 268,10 298,40 268,70 268,55 241,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="243" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(125,63,227)" stroke="rgb(99,50,181)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="276,28 282,28 290,36 290,44 282,52 276,52" stroke-linejoin="round" width="14" height="24" fill="rgb(63,205,104)" stroke="rgb(50,164,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_659)</title>
+			<polygon class=" (ctg1_659)" points="299,10 303,40 299,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_660)</title>
+			<polygon class=" (ctg1_660)" points="335,25 333,25 333,10 303,40 333,70 333,55 335,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_661)</title>
+			<polygon class=" (ctg1_661)" points="343,40 356,10 356,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PqqD (PF05402)
+"Coenzyme PQQ synthesis protein D (PqqD)"</title>
+				<polygon class="PF05402" points="347,38 351,28 354,28 354,52 351,52 347,42" stroke-linejoin="round" width="7" height="24" fill="rgb(218,64,155)" stroke="rgb(174,51,124)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_662)</title>
+			<polygon class=" (ctg1_662)" points="357,40 373,10 373,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_663)</title>
+			<polygon class=" (ctg1_663)" points="373,40 402,10 402,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_664)</title>
+			<polygon class=" (ctg1_664)" points="403,40 418,10 418,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_665)</title>
+			<polygon class=" (ctg1_665)" points="419,40 447,10 447,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sigma70_r4 (PF04545)
+"Sigma-70, region 4"</title>
+				<polygon class="PF04545" points="423,40 425,38 425,42" stroke-linejoin="round" width="5" height="24" fill="rgb(190,171,50)" stroke="rgb(152,136,39)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sigma70_r3 (PF04539)
+"Sigma-70 region 3"</title>
+				<polygon class="PF04539" points="426,37 433,30 433,50 426,43" stroke-linejoin="round" width="7" height="24" fill="rgb(192,162,53)" stroke="rgb(153,129,42)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sigma70_r2 (PF04542)
+"Sigma-70 region 2"</title>
+				<polygon class="PF04542" points="435,28 435,28 442,28 442,52 435,52 435,52" stroke-linejoin="round" width="7" height="24" fill="rgb(89,63,196)" stroke="rgb(71,50,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sigma70_r1_2 (PF00140)
+"Sigma-70 factor, region 1.2"</title>
+				<rect class="PF00140" x="442" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(142,187,82)" stroke="rgb(113,149,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_666)</title>
+			<polygon class=" (ctg1_666)" points="453,40 469,10 469,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GldH_lipo (PF14109)
+"GldH lipoprotein"</title>
+				<polygon class="PF14109" points="456,40 463,28 466,28 466,52 463,52" stroke-linejoin="round" width="13" height="24" fill="rgb(221,136,71)" stroke="rgb(176,108,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_667)</title>
+			<polygon class=" (ctg1_667)" points="511,25 500,25 500,10 470,40 500,70 500,55 511,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PSP1 (PF04468)
+"PSP1 C-terminal conserved region"</title>
+				<rect class="PF04468" x="492" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(67,185,198)" stroke="rgb(53,147,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_668)</title>
+			<polygon class=" (ctg1_668)" points="552,25 545,25 545,10 515,40 545,70 545,55 552,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DNA_pol3_delta2 (PF13177)
+"DNA polymerase III, delta subunit"</title>
+				<polygon class="PF13177" points="531,28 531,28 551,28 551,52 531,52 531,52" stroke-linejoin="round" width="20" height="24" fill="rgb(139,79,228)" stroke="rgb(111,63,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_669)</title>
+			<polygon class=" (ctg1_669)" points="561,40 575,10 575,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HPPK (PF01288)
+"7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase (HPPK)"</title>
+				<polygon class="PF01288" points="564,40 570,28 573,28 573,52 570,52" stroke-linejoin="round" width="12" height="24" fill="rgb(201,157,51)" stroke="rgb(160,125,40)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_670)</title>
+			<polygon class=" (ctg1_670)" points="614,25 605,25 605,10 575,40 605,70 605,55 614,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Queuosine_synth (PF02547)
+"Queuosine biosynthesis protein"</title>
+				<polygon class="PF02547" points="579,40 591,28 613,28 613,52 591,52" stroke-linejoin="round" width="38" height="24" fill="rgb(72,202,196)" stroke="rgb(57,161,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_671)</title>
+			<polygon class=" (ctg1_671)" points="615,40 638,10 638,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TruB_C_2 (PF16198)
+"tRNA pseudouridylate synthase B C-terminal domain"</title>
+				<polygon class="PF16198" points="619,40 620,39 620,41" stroke-linejoin="round" width="5" height="24" fill="rgb(191,177,47)" stroke="rgb(152,141,37)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TruB_N (PF01509)
+"TruB family pseudouridylate synthase (N terminal domain)"</title>
+				<polygon class="PF01509" points="620,39 628,28 635,28 635,52 628,52 620,41" stroke-linejoin="round" width="15" height="24" fill="rgb(75,187,215)" stroke="rgb(60,149,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_672)</title>
+			<polygon class=" (ctg1_672)" points="639,40 666,10 666,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BacA (PF02673)
+"Bacitracin resistance protein BacA"</title>
+				<polygon class="PF02673" points="643,40 654,28 665,28 665,52 654,52" stroke-linejoin="round" width="25" height="24" fill="rgb(200,93,132)" stroke="rgb(160,74,105)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_673)</title>
+			<polygon class=" (ctg1_673)" points="667,40 675,10 675,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF3098 (PF11297)
+"Protein of unknown function (DUF3098)"</title>
+				<polygon class="PF11297" points="670,40 673,28 673,28 673,52 673,52" stroke-linejoin="round" width="6" height="24" fill="rgb(62,102,222)" stroke="rgb(49,81,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

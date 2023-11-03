@@ -1,0 +1,122 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="422.76666666666665" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="412.76666666666665" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg6_12)</title>
+			<polygon class=" (ctg6_12)" points="16,25 98,25 98,10 128,40 98,70 98,55 16,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UvrB_inter (PF17757)
+"UvrB interaction domain"</title>
+				<rect class="PF17757" x="27" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(148,183,76)" stroke="rgb(118,146,60)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>CarD_CdnL_TRCF (PF02559)
+"CarD-like/TRCF domain"</title>
+				<rect class="PF02559" x="61" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(217,137,55)" stroke="rgb(173,109,44)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DEAD (PF00270)
+"DEAD/DEAH box helicase"</title>
+				<rect class="PF00270" x="74" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(136,63,185)" stroke="rgb(108,50,148)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Helicase_C (PF00271)
+"Helicase conserved C-terminal domain"</title>
+				<rect class="PF00271" x="93" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(124,202,59)" stroke="rgb(99,161,47)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TRCF (PF03461)
+"TRCF domain"</title>
+				<polygon class="PF03461" points="114,30 123,39 123,41 114,50" stroke-linejoin="round" width="9" height="24" fill="rgb(128,70,208)" stroke="rgb(102,56,166)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_13)</title>
+			<polygon class=" (ctg6_13)" points="130,25 149,25 149,10 179,40 149,70 149,55 130,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg6_14)</title>
+			<polygon class=" (ctg6_14)" points="182,10 190,40 182,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>S4 (PF01479)
+"S4 domain"</title>
+				<polygon class="PF01479" points="182,28 183,28 186,36 186,44 183,52 182,52" stroke-linejoin="round" width="4" height="24" fill="rgb(85,182,134)" stroke="rgb(68,145,107)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_15)</title>
+			<polygon class=" (ctg6_15)" points="191,25 198,25 198,10 228,40 198,70 198,55 191,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>IspD (PF01128)
+"2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase"</title>
+				<rect class="PF01128" x="191" y="28" stroke-linejoin="round" width="21" height="24" fill="rgb(133,213,90)" stroke="rgb(106,170,72)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>YgbB (PF02542)
+"YgbB family"</title>
+				<polygon class="PF02542" points="213,29 224,40 213,51" stroke-linejoin="round" width="15" height="24" fill="rgb(222,90,168)" stroke="rgb(177,72,134)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_16)</title>
+			<polygon class=" (ctg6_16)" points="230,25 231,25 231,10 261,40 231,70 231,55 230,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LPG_synthase_C (PF09924)
+"Phosphatidylglycerol lysyltransferase, C-terminal"</title>
+				<polygon class="PF09924" points="234,28 245,28 257,40 245,52 234,52" stroke-linejoin="round" width="26" height="24" fill="rgb(91,144,226)" stroke="rgb(72,115,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_17)</title>
+			<polygon class=" (ctg6_17)" points="261,10 290,40 261,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_9 (PF13527)
+"Acetyltransferase (GNAT) domain"</title>
+				<rect class="PF13527" x="261" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(178,173,87)" stroke="rgb(142,138,69)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_18)</title>
+			<polygon class=" (ctg6_18)" points="295,10 306,40 295,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YajC (PF02699)
+"Preprotein translocase subunit"</title>
+				<polygon class="PF02699" points="296,28 298,28 302,40 298,52 296,52" stroke-linejoin="round" width="7" height="24" fill="rgb(192,62,201)" stroke="rgb(153,49,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_19)</title>
+			<polygon class=" (ctg6_19)" points="308,40 316,10 316,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_3 (PF01381)
+"Helix-turn-helix"</title>
+				<polygon class="PF01381" points="311,40 314,28 314,28 314,52 314,52" stroke-linejoin="round" width="4" height="24" fill="rgb(219,185,98)" stroke="rgb(175,148,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_20)</title>
+			<polygon class=" (ctg6_20)" points="319,10 327,40 319,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg6_21)</title>
+			<polygon class=" (ctg6_21)" points="331,10 343,40 331,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF3792 (PF12670)
+"Protein of unknown function (DUF3792)"</title>
+				<polygon class="PF12670" points="331,28 334,28 339,40 334,52 331,52" stroke-linejoin="round" width="11" height="24" fill="rgb(89,197,151)" stroke="rgb(71,157,120)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_22)</title>
+			<polygon class=" (ctg6_22)" points="343,10 350,40 343,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg6_23)</title>
+			<polygon class=" (ctg6_23)" points="385,25 379,25 379,10 349,40 379,70 379,55 385,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg6_24)</title>
+			<polygon class=" (ctg6_24)" points="399,10 412,40 399,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,23 @@
+#                                                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MatE                 PF01554.20   161 ERR1190811_bin.66.fa_BGC_c00187_NODE_10...region001_ORF1:gid::pid::loc:2:1028:strand:- -            342   3.4e-40  137.4  37.1   1   2   3.2e-31     2e-27   95.9  14.8     1   160    13   174    13   175 0.95 MatE
+MatE                 PF01554.20   161 ERR1190811_bin.66.fa_BGC_c00187_NODE_10...region001_ORF1:gid::pid::loc:2:1028:strand:- -            342   3.4e-40  137.4  37.1   2   2   1.8e-18   1.2e-14   54.4   3.8     1   105   237   341   237   342 0.97 MatE
+MurJ                 PF03023.16   452 ERR1190811_bin.66.fa_BGC_c00187_NODE_10...region001_ORF1:gid::pid::loc:2:1028:strand:- -            342   4.9e-08   32.1  23.3   1   1   7.7e-12   4.9e-08   32.1  23.3    20   306    49   336    31   340 0.84 Lipid II flippase MurJ
+Polysacc_synt_C      PF14667.8    143 ERR1190811_bin.66.fa_BGC_c00187_NODE_10...region001_ORF1:gid::pid::loc:2:1028:strand:- -            342   1.1e-06   28.9  16.5   1   1   1.7e-10   1.1e-06   28.9  16.5     2    78   129   207   128   266 0.83 Polysaccharide biosynthesis C-terminal domain
+Fer4_12              PF13353.8    137 ERR1190811_bin.66.fa_BGC_c00187_NODE_10...region001_ORF2:gid::pid::loc:1490:2852:strand:+ -            453   2.1e-14   54.3   0.1   1   1   2.2e-18   2.1e-14   54.3   0.1     8   133    96   231    92   235 0.84 4Fe-4S single cluster domain
+Radical_SAM          PF04055.23   167 ERR1190811_bin.66.fa_BGC_c00187_NODE_10...region001_ORF2:gid::pid::loc:1490:2852:strand:+ -            453   4.6e-11   43.5   0.1   1   1   2.8e-14   2.7e-10   40.9   0.0     4   122   100   221    97   262 0.81 Radical SAM superfamily
+SecD_SecF            PF02355.18   189 ERR1190811_bin.66.fa_BGC_c00187_NODE_10...region001_ORF3:gid::pid::loc:2873:4352:strand:+ -            493   1.3e-15   57.4  15.5   1   1     2e-19   1.3e-15   57.4  15.5    13   186   237   407   231   409 0.90 Protein export membrane protein
+MMPL                 PF03176.17   333 ERR1190811_bin.66.fa_BGC_c00187_NODE_10...region001_ORF3:gid::pid::loc:2873:4352:strand:+ -            493     8e-08   31.7  19.7   1   1   2.4e-11   1.6e-07   30.7  19.3    95   305   206   410   145   447 0.80 MMPL family
+Sec_GG               PF07549.16    28 ERR1190811_bin.66.fa_BGC_c00187_NODE_10...region001_ORF3:gid::pid::loc:2873:4352:strand:+ -            493   1.2e-06   27.9   1.5   1   2   6.1e-06     0.039   13.6   0.1     9    25    42    58    41    60 0.87 SecD/SecF GG Motif
+Sec_GG               PF07549.16    28 ERR1190811_bin.66.fa_BGC_c00187_NODE_10...region001_ORF3:gid::pid::loc:2873:4352:strand:+ -            493   1.2e-06   27.9   1.5   2   2   9.6e-06     0.061   12.9   0.2     3    26   457   480   455   481 0.89 SecD/SecF GG Motif
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut/Sample/SAMEA3708737/results/GCF/cache/fasta/ERR1190811_bin.66.fa_BGC_c00187_NODE_10...region001.fasta
+# Target file:     /mnt/nfs/5110v5/Server_27_backup/yangxiao_new/miniconda2/envs/bigscape/lib/python3.7/site-packages/antismash/databases/pfam/34.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut/Sample/SAMEA3708737/results/GCF/cache/domtable/ERR1190811_bin.66.fa_BGC_c00187_NODE_10...region001.domtable --cut_tc --cpu 0 /mnt/nfs/5110v5/Server_27_backup/yangxiao_new/miniconda2/envs/bigscape/lib/python3.7/site-packages/antismash/databases/pfam/34.0/Pfam-A.hmm /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut/Sample/SAMEA3708737/results/GCF/cache/fasta/ERR1190811_bin.66.fa_BGC_c00187_NODE_10...region001.fasta 
+# Current dir:     /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut
+# Date:            Sun Jun 18 02:49:14 2023
+# [ok]

@@ -1,0 +1,20 @@
+#                                                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.30   424 ERR1190811_bin.51.fa_BGC_c00149_NODE_78...region001_ORF1:gid::pid::loc:2:2315:strand:- -            771  9.8e-102  340.8   0.1   1   1    2e-105  1.3e-101  340.4   0.1     2   423   290   723   289   724 0.84 AMP-binding enzyme
+AP_endonuc_2         PF01261.26   250 ERR1190811_bin.51.fa_BGC_c00149_NODE_78...region001_ORF1:gid::pid::loc:2:2315:strand:- -            771   3.3e-17   63.1   0.0   1   1   9.4e-21     6e-17   62.3   0.0     4   232    22   230    19   243 0.81 Xylose isomerase-like TIM barrel
+AMP-binding_C        PF13193.8     76 ERR1190811_bin.51.fa_BGC_c00149_NODE_78...region001_ORF1:gid::pid::loc:2:2315:strand:- -            771   1.9e-07   32.0   0.1   1   1   7.2e-11   4.6e-07   30.8   0.1     1    37   732   768   732   771 0.94 AMP-binding enzyme C-terminal domain
+HMGL-like            PF00682.21   264 ERR1190811_bin.51.fa_BGC_c00149_NODE_78...region001_ORF2:gid::pid::loc:2329:3748:strand:- -            472     7e-33  114.3   2.9   1   1   1.2e-36   1.2e-32  113.6   2.9     2   223     4   227     3   268 0.94 HMGL-like
+LeuA_dimer           PF08502.12   133 ERR1190811_bin.51.fa_BGC_c00149_NODE_78...region001_ORF2:gid::pid::loc:2329:3748:strand:- -            472     5e-30  104.2   0.2   1   1   5.2e-34     5e-30  104.2   0.2     2   132   336   464   335   465 0.97 LeuA allosteric (dimerisation) domain
+ABC_tran             PF00005.29   137 ERR1190811_bin.51.fa_BGC_c00149_NODE_78...region001_ORF4:gid::pid::loc:4648:5575:strand:- -            308     2e-15   57.6   0.0   1   1   4.8e-19   3.1e-15   57.0   0.0    41   136     2   104     1   105 0.86 ABC transporter
+OB_MalK              PF17912.3     53 ERR1190811_bin.51.fa_BGC_c00149_NODE_78...region001_ORF4:gid::pid::loc:4648:5575:strand:- -            308   2.1e-10   41.4   0.0   1   1   1.1e-13   6.8e-10   39.7   0.0     1    53   178   234   178   234 0.96 MalK OB fold domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut/Sample/SAMEA3708737/results/GCF/cache/fasta/ERR1190811_bin.51.fa_BGC_c00149_NODE_78...region001.fasta
+# Target file:     /mnt/nfs/5110v5/Server_27_backup/yangxiao_new/miniconda2/envs/bigscape/lib/python3.7/site-packages/antismash/databases/pfam/34.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut/Sample/SAMEA3708737/results/GCF/cache/domtable/ERR1190811_bin.51.fa_BGC_c00149_NODE_78...region001.domtable --cut_tc --cpu 0 /mnt/nfs/5110v5/Server_27_backup/yangxiao_new/miniconda2/envs/bigscape/lib/python3.7/site-packages/antismash/databases/pfam/34.0/Pfam-A.hmm /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut/Sample/SAMEA3708737/results/GCF/cache/fasta/ERR1190811_bin.51.fa_BGC_c00149_NODE_78...region001.fasta 
+# Current dir:     /mnt/nfs/5110v5/yangxiao/BGC_HGT/human_gut
+# Date:            Sun Jun 18 02:48:45 2023
+# [ok]

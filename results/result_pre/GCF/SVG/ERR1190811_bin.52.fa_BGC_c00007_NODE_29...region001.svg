@@ -1,0 +1,121 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="557.9666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="547.9666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg7_1)</title>
+			<polygon class=" (ctg7_1)" points="90,25 40,25 40,10 10,40 40,70 40,55 90,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<rect class="PF00005" x="73" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(63,205,104)" stroke="rgb(50,164,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_2)</title>
+			<polygon class=" (ctg7_2)" points="99,10 111,40 99,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg7_3)</title>
+			<polygon class=" (ctg7_3)" points="173,25 144,25 144,10 114,40 144,70 144,55 173,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="120,38 130,28 135,28 135,52 130,52 120,42" stroke-linejoin="round" width="15" height="24" fill="rgb(63,205,104)" stroke="rgb(50,164,83)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="142" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(125,63,227)" stroke="rgb(99,50,181)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_4)</title>
+			<polygon class=" (ctg7_4)" points="213,25 203,25 203,10 173,40 203,70 203,55 213,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PqqD (PF05402)
+"Coenzyme PQQ synthesis protein D (PqqD)"</title>
+				<rect class="PF05402" x="204" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(218,64,155)" stroke="rgb(174,51,124)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_5)</title>
+			<polygon class=" (ctg7_5)" points="214,40 225,10 225,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Hpt (PF01627)
+"Hpt domain"</title>
+				<polygon class="PF01627" points="217,40 222,28 222,28 222,52 222,52" stroke-linejoin="round" width="8" height="24" fill="rgb(58,216,58)" stroke="rgb(46,172,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_6)</title>
+			<polygon class=" (ctg7_6)" points="235,10 250,40 235,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg7_7)</title>
+			<polygon class=" (ctg7_7)" points="250,40 259,10 259,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PqqD (PF05402)
+"Coenzyme PQQ synthesis protein D (PqqD)"</title>
+				<polygon class="PF05402" points="253,40 256,30 256,50" stroke-linejoin="round" width="6" height="24" fill="rgb(218,64,155)" stroke="rgb(174,51,124)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_8)</title>
+			<polygon class=" (ctg7_8)" points="262,25 271,25 271,10 301,40 271,70 271,55 262,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NTP_transf_5 (PF14907)
+"Uncharacterised nucleotidyltransferase"</title>
+				<polygon class="PF14907" points="264,28 285,28 289,32 289,48 285,52 264,52" stroke-linejoin="round" width="25" height="24" fill="rgb(193,150,83)" stroke="rgb(154,120,66)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_9)</title>
+			<polygon class=" (ctg7_9)" points="354,25 333,25 333,10 303,40 333,70 333,55 354,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg7_10)</title>
+			<polygon class=" (ctg7_10)" points="357,25 375,25 375,10 405,40 375,70 375,55 357,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4874 (PF16173)
+"Domain of unknown function (DUF4874)"</title>
+				<rect class="PF16173" x="362" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(209,229,85)" stroke="rgb(167,183,68)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF4832 (PF16116)
+"Domain of unknown function (DUF4832)"</title>
+				<polygon class="PF16116" points="381,28 389,28 401,40 389,52 381,52" stroke-linejoin="round" width="22" height="24" fill="rgb(99,82,187)" stroke="rgb(79,65,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_11)</title>
+			<polygon class=" (ctg7_11)" points="410,40 436,10 436,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<polygon class="PF00535" points="417,37 425,28 434,28 434,52 425,52 417,43" stroke-linejoin="round" width="17" height="24" fill="rgb(212,83,152)" stroke="rgb(169,66,121)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_12)</title>
+			<polygon class=" (ctg7_12)" points="478,25 468,25 468,10 438,40 468,70 468,55 478,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_1 (PF00534)
+"Glycosyl transferases group 1"</title>
+				<polygon class="PF00534" points="442,40 454,28 455,28 455,52 454,52" stroke-linejoin="round" width="16" height="24" fill="rgb(213,65,70)" stroke="rgb(170,52,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_13)</title>
+			<polygon class=" (ctg7_13)" points="478,40 492,10 492,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg7_14)</title>
+			<polygon class=" (ctg7_14)" points="542,25 524,25 524,10 494,40 524,70 524,55 542,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PelG (PF16933)
+"Putative exopolysaccharide Exporter (EPS-E)"</title>
+				<polygon class="PF16933" points="498,40 510,28 541,28 541,52 510,52" stroke-linejoin="round" width="45" height="24" fill="rgb(192,205,101)" stroke="rgb(153,164,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

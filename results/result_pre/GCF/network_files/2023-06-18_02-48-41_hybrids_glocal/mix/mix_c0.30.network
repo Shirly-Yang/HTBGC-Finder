@@ -1,0 +1,2 @@
+Clustername 1	Clustername 2	Raw distance	Squared similarity	Jaccard index	DSS index	Adjacency index	raw DSS non-anchor	raw DSS anchor	Non-anchor domains	Anchor domains	Combined group	Shared group
+ERR1190811_bin.52.fa_BGC_c00041_NODE_18...region001	ERR1190811_bin.59.fa_BGC_c00148_NODE_85...region001	0.17204587161540985	0.6855080127716064	1.0	0.7706055045127869	1.0	0.22939451038837433	0.0	9	0	ranthipeptide - ranthipeptide	ranthipeptide

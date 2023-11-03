@@ -1,0 +1,23 @@
+  0.37	1	1	U	0	unclassified
+ 99.63	269	0	R	1	root
+ 99.63	269	1	R1	131567	  cellular organisms
+ 99.26	268	7	D	2	    Bacteria
+ 95.93	259	3	D1	1783272	      Terrabacteria group
+ 94.44	255	1	P	1239	        Firmicutes
+ 94.07	254	0	C	186801	          Clostridia
+ 94.07	254	3	O	186802	            Clostridiales
+ 92.59	250	0	F	541000	              Ruminococcaceae
+ 92.59	250	0	G	216851	                Faecalibacterium
+ 92.59	250	250	S	853	                  Faecalibacterium prausnitzii
+  0.37	1	1	F	186803	              Lachnospiraceae
+  0.37	1	0	P	201174	        Actinobacteria
+  0.37	1	0	C	1760	          Actinobacteria
+  0.37	1	0	O	85006	            Micrococcales
+  0.37	1	0	F	85019	              Brevibacteriaceae
+  0.37	1	0	G	1696	                Brevibacterium
+  0.37	1	1	S	199591	                  Brevibacterium luteolum
+  0.74	2	1	P	1224	      Proteobacteria
+  0.37	1	0	C	28216	        Betaproteobacteria
+  0.37	1	0	O	80840	          Burkholderiales
+  0.37	1	0	F	119060	            Burkholderiaceae
+  0.37	1	1	G	32008	              Burkholderia

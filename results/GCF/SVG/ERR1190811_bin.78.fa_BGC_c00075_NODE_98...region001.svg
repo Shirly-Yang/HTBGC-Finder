@@ -1,0 +1,37 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="170.63333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="160.63333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg75_1)</title>
+			<polygon class=" (ctg75_1)" points="55,25 40,25 40,10 10,40 40,70 40,55 55,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="20,34 26,28 26,28 26,52 26,52 20,46" stroke-linejoin="round" width="6" height="24" fill="rgb(111,178,63)" stroke="rgb(88,142,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AP_endonuc_2 (PF01261)
+"Xylose isomerase-like TIM barrel"</title>
+				<rect class="PF01261" x="31" y="28" stroke-linejoin="round" width="21" height="24" fill="rgb(145,220,103)" stroke="rgb(116,176,82)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg75_2)</title>
+			<polygon class=" (ctg75_2)" points="100,25 85,25 85,10 55,40 85,70 85,55 100,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LeuA_dimer (PF08502)
+"LeuA allosteric (dimerisation) domain"</title>
+				<polygon class="PF08502" points="59,40 68,31 68,49" stroke-linejoin="round" width="13" height="24" fill="rgb(78,82,212)" stroke="rgb(62,65,169)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HMGL-like (PF00682)
+"HMGL-like"</title>
+				<rect class="PF00682" x="74" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(193,193,85)" stroke="rgb(154,154,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg75_3)</title>
+			<polygon class=" (ctg75_3)" points="116,25 130,25 130,10 160,40 130,70 130,55 116,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

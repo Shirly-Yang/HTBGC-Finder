@@ -1,0 +1,35 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="108.33333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="98.33333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg210_1)</title>
+			<polygon class=" (ctg210_1)" points="10,40 28,10 28,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_hydro_2_N (PF02837)
+"Glycosyl hydrolases family 2, sugar binding domain"</title>
+				<polygon class="PF02837" points="14,40 21,28 25,28 25,52 21,52" stroke-linejoin="round" width="15" height="24" fill="rgb(97,193,222)" stroke="rgb(77,154,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg210_2)</title>
+			<polygon class=" (ctg210_2)" points="29,40 44,10 44,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg210_3)</title>
+			<polygon class=" (ctg210_3)" points="45,40 53,10 53,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PqqD (PF05402)
+"Coenzyme PQQ synthesis protein D (PqqD)"</title>
+				<polygon class="PF05402" points="48,40 52,28 52,28 52,52 52,52" stroke-linejoin="round" width="7" height="24" fill="rgb(218,64,155)" stroke="rgb(174,51,124)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg210_4)</title>
+			<polygon class=" (ctg210_4)" points="54,40 78,10 78,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg210_5)</title>
+			<polygon class=" (ctg210_5)" points="85,10 91,40 85,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>
