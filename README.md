@@ -7,9 +7,9 @@ A tool for detecting potential horizontally transferred BGCs.
 ## Install
 - dependencies
     - python=3.7.0
-    - fastani
     - biopython=1.78
     - antismash=6.1.1
+    - fastANI 
     - bigscape
     - ncbi-genome-download
     - kraken2
