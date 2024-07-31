@@ -6,7 +6,7 @@ A tool for identifying potential horizontally transferred BGCs.
 
 ## Installation
 
-### conda：
+### conda (recommended)：
 
 - conda create -n htbgcfinder python=3.7.0
   
@@ -49,12 +49,15 @@ If you encounter the following error while building the database: "rsync_from_nc
 you can use "python HTBGC-Finder.py -h" to view available parameters.
 
 ## Script
--  fastani_run.py:Remove redundant MAGs
--  kraken2_run.py:Perform species annotation
--  antismash_run.py: Identify BGC
+-  HTBGCFinder.py:
+-  fastani_run.py: Remove redundant MAGs
+-  kraken2_run.py: Perform species annotation
+-  antismash_run.py: Identify BGCs
 -  bigscape_run.py：Clustering BGC as gene cluster family (GCF)
--  genome_download.py:Download the corresponding reference genomes
--  final_check.py: Determination of horizontally transferred BGCs by comparison
+-  genome_download.py: Download corresponding reference genomes
+-  ref_BGC_fna.py: Identify BGCs
+-  phylotest.py: Perform phylogenetic analysis
+-  final_check.py: identify horizontally transferred BGCs
 
 
 If you If used this script, please cite the following article：
