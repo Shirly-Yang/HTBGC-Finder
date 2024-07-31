@@ -27,8 +27,8 @@ The database of kraken2 is required but not supported by conda. If you have prev
 Tips：
 If you encounter the following error while building the database: `rsync_from_ncbi.pl: unexpected FTP path (new server?)`, 
 you can try the following solution: 
-change `  if (! ($full_path =~ s#^ftp://ftp://${qm_server}${qm_server_path}/##)) in line 46
- ` in the file /your/path/to/miniconda3/envs/htbgcfinder/libexec/rsync_from_ncbi.pl from ` ftp ` to ` https `.
+change `  if (! ($full_path =~ s#^ftp://ftp://${qm_server}${qm_server_path}/##)) ` in line 46
+ in the file /your/path/to/miniconda3/envs/htbgcfinder/libexec/rsync_from_ncbi.pl from ` ftp ` to ` https `.
 
 
 ### github：
