@@ -1,10 +1,33 @@
 # HTBGC-Finder
-A tool for detecting potential horizontally transferred BGCs.
-- Version：HTBGC-Finder V1.1.0
-- Update：2023/7/20
-- Project homepage: https://github.com/SharonYXiao/HTBGC-Finder
+A tool for identifying potential horizontally transferred BGCs.
+- Version：HTBGC-Finder V1.1.4
+- Update：2024/07/31
+- Project homepage: https://github.com/Shirly-Yang/HTBGC-Finder
 
-## Install
+## Installation
+
+### conda：
+
+- conda create -n htbgcfinder python=3.7.0
+  
+- conda activate htbgcfinder
+
+- conda install MicrobiomeX::htbgcfinder
+
+- echo 'export PFAM_PATH="/your/path/to/miniconda3/envs/htbgcfinder/lib/python3.7/site-packages/antismash/databases/pfam/34.0"' >> ~/.bashrc
+
+The database of kraken2 is required but not supported by conda. If you have previously built the database, please skip this step and proceed to the next one.
+- kraken2-build --standard --threads 24 --db /your/path/to/kraken2database
+
+ 
+- echo 'export KRAKEN2_DB_PATH="/your/path/to/kraken2database/standard"'>> ~/.bashrc
+  
+Tips：
+If you encounter the following error while building the database: "rsync_from_ncbi.pl: unexpected FTP path (new server?)". You can try the following solution: change line 46 in the file /your/path/to/miniconda3/envs/htbgcfinder/libexec/rsync_from_ncbi.pl from A to https.
+
+
+### github：
+- git clone https://github.com/Shirly-Yang/HTBGC-Finder
 - dependencies
     - python=3.7.0
     - biopython=1.78
@@ -13,16 +36,17 @@ A tool for detecting potential horizontally transferred BGCs.
     - bigscape
     - ncbi-genome-download
     - kraken2
-  - If you encounter problems during the installation process, you can refer to the file [dependencies.txt](https://github.com/SharonYXiao/HTBGC-Finder/blob/master/dependencies.txt). 
-  - An exemplary shell script [dependencies.sh](https://github.com/SharonYXiao/HTBGC-Finder/blob/master/dependency.sh) can be found in the root directory.
+  - An exemplary shell script [dependencies.sh](https://github.com/Shirly-Yang/HTBGC-Finder/blob/master/dependency.sh) can be found in the root directory.
   This script file should be adjusted if you wish to place some files to different locations or use absolute path names.
 
-- HTBGC-Finder
-git clone https://github.com/SharonYXiao/HTBGC-Finder
+## Usage
 
-## Use
+### conda：
+- htbgcfinder -i ./testdata/mags -o ./testdata/result
+
+### github：
 - python HTBGC-Finder.py -i ./testdata/mags -o ./testdata/result
-- you can use "python HTBGC-Finder.py -h" to view available parameters.
+you can use "python HTBGC-Finder.py -h" to view available parameters.
 
 ## Script
 -  fastani_run.py:Remove redundant MAGs
@@ -32,5 +56,7 @@ git clone https://github.com/SharonYXiao/HTBGC-Finder
 -  genome_download.py:Download the corresponding reference genomes
 -  final_check.py: Determination of horizontally transferred BGCs by comparison
 
+
+If you If used this script, please cite the following article：
 
 
