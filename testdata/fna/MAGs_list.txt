@@ -1,0 +1,6 @@
+ANI_result.txt
+MAGs_list.txt
+SRS011084_bin.14.fa
+SRS022071_bin.51.fa
+SRS048870_bin.18.fa
+SRS065504_bin.21.fa

@@ -1,0 +1,1 @@
+python HTBGCFinder.py -t 5 -i ./testdata/fna -o ./testdata/results
