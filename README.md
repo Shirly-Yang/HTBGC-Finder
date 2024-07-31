@@ -23,11 +23,13 @@ The database of kraken2 is required but not supported by conda. If you have prev
 - `echo 'export KRAKEN2_DB_PATH="/your/path/to/kraken2database/standard"'>> ~/.bashrc `
   
 Tips：
-If you encounter the following error while building the database: `rsync_from_ncbi.pl: unexpected FTP path (new server?)`, you can try the following solution: change `    ` in the file /your/path/to/miniconda3/envs/htbgcfinder/libexec/rsync_from_ncbi.pl from `   ` to `   `.
+If you encounter the following error while building the database: `rsync_from_ncbi.pl: unexpected FTP path (new server?)`, 
+you can try the following solution: 
+change `    ` in the file /your/path/to/miniconda3/envs/htbgcfinder/libexec/rsync_from_ncbi.pl from `   ` to `   `.
 
 
 ### github：
-- git clone https://github.com/Shirly-Yang/HTBGC-Finder
+- ` git clone https://github.com/Shirly-Yang/HTBGC-Finder `
 - dependencies
     - python=3.7.0
     - biopython=1.78
