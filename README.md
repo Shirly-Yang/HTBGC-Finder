@@ -49,7 +49,7 @@ If you encounter the following error while building the database: "rsync_from_nc
 you can use "python HTBGC-Finder.py -h" to view available parameters.
 
 ## Script
--  HTBGCFinder.py:
+-  HTBGCFinder.py: identify potential horizontally transferred BGCs
 -  fastani_run.py: Remove redundant MAGs
 -  kraken2_run.py: Perform species annotation
 -  antismash_run.py: Identify BGCs
