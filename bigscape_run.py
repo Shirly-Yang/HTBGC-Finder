@@ -91,10 +91,10 @@ def OTU_distance(kraken2_result,MAG1,MAG2):
 def bigscape_run(gbkdir,outputdir,thread):
     if os.path.exists(outputdir) == False:
         os.system('mkdir %s' % (outputdir))
-        os.system('bigscape -i %s -o %s --pfam_dir $PFAM_PATH --mix --clans-off --no_classify --include_gbk_str .gbk -c %s --cutoffs 0.3  > bigscape.log 2>&1' % (gbkdir,outputdir,thread))
+        os.system('bigscape.py -i %s -o %s --pfam_dir $PFAM_PATH --mix --clans-off --no_classify --include_gbk_str .gbk -c %s --cutoffs 0.3  > bigscape.log 2>&1' % (gbkdir,outputdir,thread))
     else:
         if len(os.listdir(outputdir)) == 0:
-            os.system('bigscape -i %s -o %s --pfam_dir $PFAM_PATH --mix --clans-off --no_classify --include_gbk_str .gbk -c %s --cutoffs 0.3  > bigscape.log 2>&1' % (gbkdir,outputdir,thread))
+            os.system('bigscape.py -i %s -o %s --pfam_dir $PFAM_PATH --mix --clans-off --no_classify --include_gbk_str .gbk -c %s --cutoffs 0.3  > bigscape.log 2>&1' % (gbkdir,outputdir,thread))
     print('bigscape outputdir',outputdir)
     network=os.path.join(outputdir,'network_files')
     if len(os.listdir(network)) >0:
