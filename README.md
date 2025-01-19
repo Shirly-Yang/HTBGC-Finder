@@ -16,8 +16,8 @@ A tool for identifying potential horizontally transferred BGCs.
 
 - `echo 'export PFAM_PATH="/your/path/to/miniconda3/envs/htbgcfinder/lib/python3.7/site-packages/antismash/databases/pfam/34.0"' >> ~/.bashrc `
 
-The database of kraken2 is required but not supported by conda. If you have previously built the database, please skip this step and proceed to the next one.
-- ` kraken2-build --standard --threads 8 --db /your/path/to/kraken2database `
+
+- ` kraken2-build --standard --threads 8 --db /your/path/to/kraken2database ` The database of kraken2 is required but not supported by conda. If you have previously built the database, please skip this step and proceed to the next one.
 
  
 - `echo 'export KRAKEN2_DB_PATH="/your/path/to/kraken2database/standard"'>> ~/.bashrc `
