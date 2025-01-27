@@ -52,7 +52,7 @@ change `  if (! ($full_path =~ s#^ftp://ftp://${qm_server}${qm_server_path}/##))
 - `htbgcfinder -i /your/path/to/miniconda3/envs/htbgcfinder/bin/testdata/fna  -o /your/path/to/miniconda3/envs/htbgcfinder/bin/testdata/result`
 
 ### github：
-- ` python HTBGC-Finder.py -i ./testdata/mags -o ./testdata/result `
+- ` python HTBGC-Finder.py -i ./testdata/fna -o ./testdata/result `
 you can use `python HTBGC-Finder.py -h` to view available parameters.
 
 ## Script
