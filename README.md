@@ -49,7 +49,7 @@ change `  if (! ($full_path =~ s#^ftp://ftp://${qm_server}${qm_server_path}/##))
 ## Usage
 
 ### conda：
-- `htbgcfinder -i /your/path/to/miniconda3/envs/htbgcfinder/bin/testdata/mags -o /your/path/to/miniconda3/envs/htbgcfinder/bin/testdata/result`
+- `htbgcfinder -i /your/path/to/miniconda3/envs/htbgcfinder/bin/testdata/fna  -o /your/path/to/miniconda3/envs/htbgcfinder/bin/testdata/result`
 
 ### github：
 - ` python HTBGC-Finder.py -i ./testdata/mags -o ./testdata/result `
@@ -60,11 +60,11 @@ you can use `python HTBGC-Finder.py -h` to view available parameters.
 -  fastani_run.py: Remove redundant MAGs
 -  kraken2_run.py: Perform species annotation
 -  antismash_run.py: Identify BGCs
--  bigscape_run.py：Clustering BGC as gene cluster family (GCF)
+-  bigscape_run.py：Clustering BGC into gene cluster family (GCF)
 -  genome_download.py: Download corresponding reference genomes
 -  ref_BGC_fna.py: Identify BGCs
 -  phylotest.py: Perform phylogenetic analysis
--  final_check.py: identify horizontally transferred BGCs
+-  final_check.py: Identify potential horizontally transferred BGCs
 
 
 If you If used this script, please cite the following article：
