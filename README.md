@@ -49,7 +49,7 @@ change `  if (! ($full_path =~ s#^ftp://ftp://${qm_server}${qm_server_path}/##))
 ## Usage
 
 ### conda：
-- `htbgcfinder -i ./testdata/mags -o ./testdata/result`
+- `htbgcfinder -i /your/path/to/miniconda3/envs/htbgcfinder/bin/testdata/mags -o /your/path/to/miniconda3/envs/htbgcfinder/bin/testdata/result`
 
 ### github：
 - ` python HTBGC-Finder.py -i ./testdata/mags -o ./testdata/result `
